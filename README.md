@@ -4,6 +4,7 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 
 * [Terms of Service](terms/index.md)
 * [Privacy policy](privacy/index.md)
+* [General Data Protection Regulation (GDPR)](privacy/gdpr/index.md)
 * [EU-US and Swiss-US Privacy Shield policy](privacy-shield/index.md)
 * [Refund policy](refund/index.md)
 * [Copyright policy](copyright/index.md)
