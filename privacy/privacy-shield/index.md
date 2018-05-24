@@ -6,6 +6,8 @@ layout: sheet
 
 # Basecamp EU-US and Swiss-US Privacy Shield policy
 
+*Last updated: May 24, 2018*
+
 The privacy of your data—and it is your data, not ours!—is a big deal to us. We’ll only ever access your account to help you with a problem or squash a software bug. We’ll never open any uploaded files unless you ask us to. We log all access to all accounts by IP address, so we can always verify that no unauthorized access has happened for as long as the logs are kept.
 
 This policy applies to personal data from the European Union and from Switzerland that is collected, used, and retained by us in the United States.
@@ -27,11 +29,34 @@ The only times we’ll ever share your info:
 
 Basecamp does not share individual’s personal data with non-agent third parties.  If this policy changes in the future, we will notify individuals and provide them with an opportunity to opt-out of having their data shared.
 
+## Your Rights With Respect to Your Information
+
+You may have heard about the General Data Protection Regulation (“GDPR”) in Europe. GDPR gives people under its protection certain rights with respect to their personal information collected by us on the Site. Accordingly, Basecamp recognizes and will comply with GDPR and those rights, except as limited by applicable law. The rights under GDPR include:
+
+* **Right of Access.** This includes your right to access the personal information we gather about you, and your right to obtain information about the sharing, storage, security and processing of that information.
+* **Right to Correction.** This is your right to request correction of your personal information.
+* **Right to Erasure.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession (also known as the “Right to be forgotten”).  However, if applicable law requires us to comply with your request to delete your information, fulfillment of your request may prevent you from using Basecamp services and may result in closing your account.
+* **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority.
+* **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed.
+* **Right to Object.** This is your right, in certain situations, to object to how or why your personal information is processed.
+* **Right to Portability.** This is your right to receive the personal information we have about you and the right to transmit it to another party.
+* **Right to not be subject to Automated Decision-Making.** This is your right to object and prevent any decision that could have a legal, or similarly significant, effect on you from being made solely based on automated processes. This right is limited, however, if the decision is necessary for performance of any contract between you and us, is allowed by applicable European law, or is based on your explicit consent.
+
+Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [privacy@basecamp.com](mailto:privacy@basecamp.com).
+
+
+## Processors we use
+
+As part of the services we provide, and only to the extent necessary, we may use certain third party processors to process some or all of your personal information. For identification of these processors, and where they are located, please see our [Subprocessor listing](/about/policies/privacy/subprocessors). We have signed appropriate data processing contracts that comply with GDPR with each processor.
+
+
 ## Law Enforcement
 While we may be required to disclose your personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements, Basecamp won’t otherwise hand your data over to law enforcement unless a court order says we have to. We flat-out reject such other requests from local and federal law enforcement when they seek data without a court order. And unless we're legally prevented from it, we’ll always inform you when such requests are made.
 
-## Encryption
+## Security & Encryption
 All data is encrypted via <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">SSL/TLS</a> when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest—you can read more about that on our [security page](/about/policies/security).
+
+For more information about how we keep your information secure, please review our [security overview](/about/policies/security).
 
 ## Cookies
 In order to improve our services and the website, and provide more convenient, relevant experiences to you, we and our vendors may use "cookies", "web beacons", and similar devices to track your activities.
@@ -55,6 +80,9 @@ In compliance with the US-EU and Swiss-US Privacy Shield Principles, Basecamp co
 Basecamp has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <a href="http://www.bbb.org/EU-privacy-shield/for-eu-consumers">http://www.bbb.org/EU-privacy- shield/for-eu-consumers</a> for more information and to file a complaint.
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+## Location of Site and Data
+This Site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
 ## Changes & Questions
 Basecamp may update this policy once in a blue moon—we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting Jeremy Daer at [privacyshield@basecamp.com](mailto:privacyshield@basecamp.com), or by mail at Basecamp LLC, 30 North Racine Avenue #200, Chicago, IL 60607 USA.
