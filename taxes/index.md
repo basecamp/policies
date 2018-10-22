@@ -1,9 +1,3 @@
----
-title: Basecamp and Taxes
-
-layout: sheet
----
-
 # Taxes!
 If your billing address is in Ohio, Washington State, or the City of Chicago, you'll have to pay a tax when you pay for Basecamp. Here's why.
 
@@ -11,8 +5,8 @@ Some state or local governments impose taxes on Internet-based software, and Bas
 
 Currently, you'll have to pay a tax if your billing address is in Ohio, Washington State, or the City of Chicago (Illinois). Check out these links for full details:
 
-* [Ohio Sales Tax Info](/about/policies/taxes/ohio)
-* [Washington State Sales Tax Info](/about/policies/taxes/washington)
-* [City of Chicago Lease Tax Info](/about/policies/taxes/chicago)
+* [Ohio Sales Tax Info](taxes/ohio)
+* [Washington State Sales Tax Info](taxes/washington)
+* [City of Chicago Lease Tax Info](taxes/chicago)
 
-Have questions about taxes, or anything else about your bill? Just [send us a message](/support) and we'll get back to you right away.
+Have questions about taxes, or anything else about your bill? Just [send us a message](https://basecamp.com/support) and we'll get back to you right away.

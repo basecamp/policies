@@ -1,9 +1,3 @@
----
-title: Basecamp EU-US and Swiss-US Privacy Shield policy
-
-layout: sheet
----
-
 # Basecamp EU-US and Swiss-US Privacy Shield policy
 
 *Last updated: May 24, 2018*
@@ -24,7 +18,7 @@ When you write Basecamp with a question or to ask for help, we'll keep that corr
 The only times we’ll ever share your info:
 
   * To provide products or services you've requested, with your permission.
-  * To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](/about/policies/terms), or as otherwise required by law.
+  * To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](terms), or as otherwise required by law.
   * If Basecamp is acquired by or merged with another company—we don’t plan on that, but if it happens—we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
 Basecamp does not share individual’s personal data with non-agent third parties.  If this policy changes in the future, we will notify individuals and provide them with an opportunity to opt-out of having their data shared.
@@ -47,16 +41,16 @@ Many of these rights can be exercised by signing in and directly updating your a
 
 ## Processors we use
 
-As part of the services we provide, and only to the extent necessary, we may use certain third party processors to process some or all of your personal information. For identification of these processors, and where they are located, please see our [Subprocessor listing](/about/policies/privacy/subprocessors). We have signed appropriate data processing contracts that comply with GDPR with each processor.
+As part of the services we provide, and only to the extent necessary, we may use certain third party processors to process some or all of your personal information. For identification of these processors, and where they are located, please see our [Subprocessor listing](privacy/subprocessors). We have signed appropriate data processing contracts that comply with GDPR with each processor.
 
 
 ## Law Enforcement
 While we may be required to disclose your personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements, Basecamp won’t otherwise hand your data over to law enforcement unless a court order says we have to. We flat-out reject such other requests from local and federal law enforcement when they seek data without a court order. And unless we're legally prevented from it, we’ll always inform you when such requests are made.
 
 ## Security & Encryption
-All data is encrypted via <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">SSL/TLS</a> when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest—you can read more about that on our [security page](/about/policies/security).
+All data is encrypted via <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">SSL/TLS</a> when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest—you can read more about that on our [security page](security).
 
-For more information about how we keep your information secure, please review our [security overview](/about/policies/security).
+For more information about how we keep your information secure, please review our [security overview](security).
 
 ## Cookies
 In order to improve our services and the website, and provide more convenient, relevant experiences to you, we and our vendors may use "cookies", "web beacons", and similar devices to track your activities.

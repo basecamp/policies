@@ -1,9 +1,3 @@
----
-title: Basecamp 3 Account Ownership
-
-# Design
-layout: sheet
----
 [home]: /
 [help-owners]: https://basecamp.com/help/3/guides/account/ownership
 [help-adminland]: https://basecamp.com/help/3/guides/account/adminland

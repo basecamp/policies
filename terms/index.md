@@ -1,9 +1,3 @@
----
-title: Basecamp terms of service
-
-layout: sheet
----
-
 # Basecamp Terms of Service
 
 By using the Basecamp ("Service"), you are agreeing to be bound by the following terms and conditions ("Terms of Service").
@@ -34,7 +28,7 @@ Customers may access their Service data via the Application Program Interface ("
 2. For any upgrade or downgrade in plan level, will result in the new rate being charged at the next billing cycle. There will be no prorating for downgrades in between billing cycles.
 3. Downgrading your Service may cause the loss of features or capacity of your account. The Company does not accept any liability for such loss.
 4. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties, excluding only United States (federal or state) taxes. Where required, The Company will collect those taxes on behalf of taxing authority and remit those taxes to taxing authorities.
-5. Refunds are processed according to our [fair refund policy](/about/policies/refund).
+5. Refunds are processed according to our [fair refund policy](refund).
 
 ## Cancellation and Termination
 

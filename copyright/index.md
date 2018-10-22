@@ -1,9 +1,3 @@
----
-title: Basecamp Notification of Copyright Infringement Claims
-
-layout: sheet
----
-
 # Notification of Copyright Infringement Claims
 
 Basecamp, LLC is committed to compliance with U.S. copyright law. Under the Digital Millennium Copyright Act (17 U.S.C. § 512), copyright owners have the right to notify Basecamp, LLC, if they believe that an account user of a Basecamp application has infringed the copyright owner's work(s). Notifications of claimed copyright infringement must be submitted in writing to Basecamp' designated agent for receiving such notifications.

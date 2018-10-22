@@ -1,8 +1,3 @@
----
-title: Basecamp Security Response
-
-layout: sheet
----
 # Basecamp security response
 
 ## We appreciate your concern
@@ -11,7 +6,7 @@ Keeping customer data safe and secure is a huge responsibility and a top priorit
 
 ## Reporting security problems
 
-Send urgent or sensitive reports directly to [security@basecamp.com](mailto:security@basecamp.com). Use [our public key](/about/policies/security/Basecamp-security.pub) to keep your message safe and please provide us with a secure way to respond. We’ll get back to you as soon as we can, usually within 24 hours. Please follow up or [ping us on Twitter](https://twitter.com/basecamp) if you don’t hear back. **For requests that aren’t urgent or sensitive**: submit a [support request](/support).
+Send urgent or sensitive reports directly to [security@basecamp.com](mailto:security@basecamp.com). Use [our public key](security/Basecamp-security.pub) to keep your message safe and please provide us with a secure way to respond. We’ll get back to you as soon as we can, usually within 24 hours. Please follow up or [ping us on Twitter](https://twitter.com/basecamp) if you don’t hear back. **For requests that aren’t urgent or sensitive**: submit a [support request](/support).
 
 ## Tracking and disclosing security issues
 

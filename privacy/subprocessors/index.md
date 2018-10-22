@@ -1,12 +1,6 @@
----
-title: Basecamp subprocessors
-
-layout: sheet
----
-
 # Basecamp subprocessors
 
-Basecamp uses third party subprocessors, such as cloud computing providers and customer support software, to provide our services. We enter into GDPR-compliant data processing agreements with each subprocessor, extending [GDPR safeguards](/about/policies/privacy/gdpr) everywhere personal data is processed.
+Basecamp uses third party subprocessors, such as cloud computing providers and customer support software, to provide our services. We enter into GDPR-compliant data processing agreements with each subprocessor, extending [GDPR safeguards](privacy/gdpr) everywhere personal data is processed.
 
 Subprocessors located in the United States:
 * [Amazon Web Services](https://aws.amazon.com/compliance/gdpr-center/). Cloud services provider.

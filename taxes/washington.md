@@ -1,9 +1,3 @@
----
-title: Questions about the Washington Sales Tax
-
-layout: sheet
----
-
 # Here’s everything you need to know about the Washington&nbsp;Sales&nbsp;Tax.
 
 ## What's the Washington Sales Tax?
@@ -49,5 +43,4 @@ You can update your account/billing credit card information to reflect changes i
 
 ## What should I do if my questions aren't answered here or I need help?
 
-Please [contact our support team](/support) and they will be able to assist you.
-
+Please [contact our support team](https://basecamp.com/support) and they will be able to assist you.

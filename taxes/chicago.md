@@ -1,9 +1,3 @@
----
-title: Questions about Chicago Lease Tax
-
-layout: sheet
----
-
 # Here’s everything you need to know about the Chicago&nbsp;Lease&nbsp;Tax.
 
 ## What’s the Chicago Lease Tax?  
