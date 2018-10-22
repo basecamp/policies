@@ -5,19 +5,15 @@ layout: sheet
 ---
 # Basecamp security response
 
-<figure class="centered">
-  <img alt="illustration of a knight with the Basecamp logo on his shield" src="{% asset_path about/policies/security/knight.png %}" class="image-size-33">
-</figure>
-
-#### We appreciate your concern
+## We appreciate your concern
 
 Keeping customer data safe and secure is a huge responsibility and a top priority. We work hard to protect our customers from the latest threats. Your input and feedback on our security is always appreciated.
 
-#### Reporting security problems
+## Reporting security problems
 
 Send urgent or sensitive reports directly to [security@basecamp.com](mailto:security@basecamp.com). Use [our public key](/about/policies/security/Basecamp-security.pub) to keep your message safe and please provide us with a secure way to respond. We’ll get back to you as soon as we can, usually within 24 hours. Please follow up or [ping us on Twitter](https://twitter.com/basecamp) if you don’t hear back. **For requests that aren’t urgent or sensitive**: submit a [support request](/support).
 
-#### Tracking and disclosing security issues
+## Tracking and disclosing security issues
 
 We work with security researchers to keep up with the state-of-the-art in web security. Have you discovered a web security flaw that might impact our products? Please let us know. If you submit a report, here’s what will happen:
 
@@ -27,7 +23,7 @@ We work with security researchers to keep up with the state-of-the-art in web se
 
 Our products are built on the Ruby on Rails framework (which we created and maintain). The issue you reported might affect Rails, Ruby, or some other part of our technology stack. We ask for your patience while we also make sure other companies and their customers are protected. Either way, you’ll always have a Basecamp contact for your issue.
 
-#### Thanks for working with us
+## Thanks for working with us
 
 We respect the time and talent that drives new discoveries in web security technology. The following researchers and companies have gone out of their way to work with us to find, fix, and disclose security flaws safely:
 

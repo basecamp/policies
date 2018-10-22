@@ -1,6 +1,6 @@
 # Our policies, terms, and legal stuff
 
-The rough print and the fine print. We try to make all our policies as clear, fair, and readable as possible, but sometimes the lawyers step in it.
+The rough print and the fine print. We try to make all our policies as clear, fair, and readable as possible.
 
 * [Terms of Service](terms/index.md)
 * [Privacy policy](privacy/index.md)

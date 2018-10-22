@@ -3,9 +3,6 @@ title: Basecamp privacy policy
 
 layout: sheet
 ---
-<figure class="centered">
-  <img alt="illustration of a woman holding her finger over her mouth with the word 'shhhh...' above" src="{% asset_path about/policies/privacy/shh.png %}" als="Privacy" class="image-size-25">
-</figure>
 
 # Basecamp privacy policy
 
@@ -13,7 +10,7 @@ layout: sheet
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. We’ll only ever access your account to help you with a problem or squash a software bug. We’ll never open any uploaded files unless you ask us to. We log all access to all accounts by IP address, so we can always verify that no unauthorized access has happened for as long as the logs are kept.
 
-#### Identity & access
+## Identity & access
 
 When you sign up for Basecamp, we ask for your name, company name, and email address. That's just so you can personalize your new account, and we can send you invoices, updates, or other essential information. We’ll never sell your personal info to third parties, and we won’t use your name or company in marketing statements without your permission, either.
 
@@ -26,7 +23,7 @@ The only times we’ll ever share your info:
 * If Basecamp is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
 
-#### Your Rights With Respect to Your Information
+## Your Rights With Respect to Your Information
 
 You may have heard about the General Data Protection Regulation (“GDPR”) in Europe. GDPR gives people under its protection certain rights with respect to their personal information collected by us on the Site. Accordingly, Basecamp recognizes and will comply with GDPR and those rights, except as limited by applicable law. The rights under GDPR include:
 
@@ -42,39 +39,39 @@ You may have heard about the General Data Protection Regulation (“GDPR”) in 
 Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [privacy@basecamp.com](mailto:privacy@basecamp.com).
 
 
-#### Processors we use
+## Processors we use
 
 As part of the services we provide, and only to the extent necessary, we may use certain third party processors to process some or all of your personal information. For identification of these processors, and where they are located, please see our [Subprocessor listing](/about/policies/privacy/subprocessors). We have signed appropriate data processing contracts that comply with GDPR with each processor.
 
 
-#### Law enforcement
+## Law enforcement
 
 Basecamp won’t hand your data over to law enforcement unless a court order says we have to. We flat-out reject requests from local and federal law enforcement when they seek data without a court order. And unless we're legally prevented from it, we’ll always inform you when such requests are made.
 
 
-#### Security & Encryption
+## Security & Encryption
 
 All data is encrypted via <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">SSL/TLS</a> when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest—you can read more about that on our [security page](/about/policies/security).
 
 For more information about how we keep your information secure, please review our [security overview](/about/policies/security).
 
 
-#### Deleted data
+## Deleted data
 
 When you cancel your account, we'll ensure that nothing is stored on our servers past 30 days. Anything you delete on your account while it's active will also be purged within 30 days (up until then it's available in the trash can).
 
 
-#### EU-US and Swiss-US Privacy Shield policy
+## EU-US and Swiss-US Privacy Shield policy
 
 See our [EU-US and Swiss-US Privacy Shield policy](/about/policies/privacy/privacy-shield).
 
 
-#### Location of Site and Data
+## Location of Site and Data
 
 This Site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
 
-#### Changes & questions
+## Changes & questions
 
 Basecamp may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting [our support team](/support).
 
