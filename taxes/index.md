@@ -1,12 +1,24 @@
+---
+title: Basecamp and Taxes
+
+layout: sheet
+---
+
 # Taxes!
-If your billing address is in Ohio, Washington State, or the City of Chicago, you'll have to pay a tax when you pay for Basecamp. Here's why.
 
-Some state or local governments impose taxes on Internet-based software, and Basecamp complies by collecting taxes on their behalf. The exact amount you're taxed depends on the rates determined by your local government. 100% of the taxes we collect are remitted to the taxing authority.
+Basecamp is required to collect and remit sales tax in a number of US states and localities. Not all states tax the sale of software as a service (SaaS), but it's becoming increasingly common. If your state is on the list below, you'll see a line item on your monthly invoice for sales tax. The rate being collected on your invoice is determined by your billing address.
 
-Currently, you'll have to pay a tax if your billing address is in Ohio, Washington State, or the City of Chicago (Illinois). Check out these links for full details:
+You'll see sales tax on your invoice if you live in:
 
-* [Ohio Sales Tax Info](taxes/ohio)
-* [Washington State Sales Tax Info](taxes/washington)
-* [City of Chicago Lease Tax Info](taxes/chicago)
+* Chicago (Illinois) 
+* Washington
+* Hawaii
+* South Dakota
 
-Have questions about taxes, or anything else about your bill? Just [send us a message](https://basecamp.com/support) and we'll get back to you right away.
+If you need to change your billing information because you don't actually reside in a taxable state, you can easily handle that within [Basecamp 3](https://3.basecamp-help.com/article/101-handling-billing-and-invoices#update), [Basecamp 2](https://2.basecamp-help.com/article/241-billing-info-and-plan-upgrades#credit-card), and [Basecamp Classic](https://help.basecamp.com/basecamp/questions/148-how-do-we-update-or-change-our-credit-card). Please contact our Support team at [support@basecamp.com](mailto:support@basecamp.com) if you have trouble.
+
+Please also drop an email to [support@basecamp.com](mailto:support@basecamp.com) if:
+
+* you believe you're being charged in error. 
+* your business is sales tax exempt. Include your tax exempt certificate and your Basecamp account number (basecamp.com/<span class="highlight">1234567</span>) when you email Support.
+* you have any additional questions.
