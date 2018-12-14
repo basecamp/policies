@@ -1,3 +1,5 @@
+[security-whitepaper-pdf]: https://basecamp.com/about/policies/security/Basecamp%20Security%20Overview.pdf
+
 # Basecamp security overview.
 
 ## We protect your data.
@@ -30,8 +32,8 @@ We've been around the block and we've seen a lot of companies come and go. Secur
 
 ## Want to know more?
 
-[Read our security whitepaper](security/Basecamp Security Overview.pdf) for additional details.
+[Read our security whitepaper][security-whitepaper-pdf] for additional details.
 
 ## Have a concern? Need to report an incident?
 
-Have you noticed abuse, misuse, an exploit, or experienced an incident with your account? Please visit our [security response page](security/response) for details on how to securely submit a report.
+Have you noticed abuse, misuse, an exploit, or experienced an incident with your account? Please visit our [security response page](/security/vulnerability-response.md) for details on how to securely submit a report.

@@ -1,7 +1,7 @@
 [home]: /
 [help-owners]: https://basecamp.com/help/3/guides/account/ownership
 [help-adminland]: https://basecamp.com/help/3/guides/account/adminland
-[support]: /support
+[support]: https://basecamp.com/support
 [support-email]: mailto:support@basecamp.com
 
 # Who owns a Basecamp 3 account?
@@ -16,7 +16,7 @@ Owners are the only people who can add and remove other owners. Our legal respon
 
 An account owner can add or remove other owners from the [Adminland][help-adminland] section in the account. When you designate someone else as an account owner, they will have the same power to add and remove other owners (including you) at any time.
 
-Adding a new owner to the account (or being removed as an owner) does not remove the credit card from the account. [Please contact support](/support) if you’d like to remove the card from the account before you add a new owner with the intent of being removed as an owner yourself.
+Adding a new owner to the account (or being removed as an owner) does not remove the credit card from the account. [Please contact support][support] if you’d like to remove the card from the account before you add a new owner with the intent of being removed as an owner yourself.
 
 ## What happens when none of the current account owners are available?
 
@@ -32,6 +32,6 @@ When none of the above is an option, a court order is required to add another ow
 
 ## What if I have another question about ownership?
 
-Basecamp may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting Basecamp [support](/support).
+Basecamp may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting Basecamp [support][support].
 
-Questions about this account ownership policy? Please get in touch with our [support team](/support) and we’ll be happy to answer them!
+Questions about this account ownership policy? Please get in touch with our [support team][support] and we’ll be happy to answer them!
