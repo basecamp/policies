@@ -12,8 +12,8 @@ Contracts required! Processing EU personal data must be governed by a [GDPR-comp
 
 **✍️ [Sign the DPA online here](https://app.hellosign.com/s/c0908a3d).**
 
-Basecamp participates in the [EU-US and Swiss-US Privacy Shield Framework](privacy/privacy-shield) to safeguard the transfer of personal data to the US, meeting the GDPR requirement for adequate data protection laws.
+Basecamp participates in the [EU-US and Swiss-US Privacy Shield Framework](privacy-shield.md) to safeguard the transfer of personal data to the US, meeting the GDPR requirement for adequate data protection laws.
 
 ## Subprocessors
 
-Basecamp uses third party subprocessors, such as cloud computing providers and customer support software, to provide our services. We enter into GDPR-compliant data processing agreements with each subprocessor, and require the same of them. [List of Basecamp subprocessors](privacy/subprocessors).
+Basecamp uses third party subprocessors, such as cloud computing providers and customer support software, to provide our services. We enter into GDPR-compliant data processing agreements with each subprocessor, and require the same of them. [List of Basecamp subprocessors](subprocessors.md).

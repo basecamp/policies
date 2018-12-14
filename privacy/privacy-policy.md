@@ -1,3 +1,5 @@
+[support]: https://basecamp.com/support
+
 # Basecamp privacy policy
 
 *Last updated: May 24, 2018*
@@ -12,8 +14,8 @@ When you write Basecamp with a question or to ask for help, we'll keep that corr
 
 The only times we’ll ever share your info:
 
-* To provide products or services you've requested, with your permission. [List of third-party services we use](privacy/subprocessors).
-* To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](terms), or as otherwise required by law.
+* To provide products or services you've requested, with your permission. [List of third-party services we use](/privacy/subprocessors.md).
+* To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](/terms.md), or as otherwise required by law.
 * If Basecamp is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
 
@@ -35,7 +37,7 @@ Many of these rights can be exercised by signing in and directly updating your a
 
 ## Processors we use
 
-As part of the services we provide, and only to the extent necessary, we may use certain third party processors to process some or all of your personal information. For identification of these processors, and where they are located, please see our [Subprocessor listing](privacy/subprocessors). We have signed appropriate data processing contracts that comply with GDPR with each processor.
+As part of the services we provide, and only to the extent necessary, we may use certain third party processors to process some or all of your personal information. For identification of these processors, and where they are located, please see our [Subprocessor listing](/privacy/subprocessors.md). We have signed appropriate data processing contracts that comply with GDPR with each processor.
 
 
 ## Law enforcement
@@ -45,9 +47,9 @@ Basecamp won’t hand your data over to law enforcement unless a court order say
 
 ## Security & Encryption
 
-All data is encrypted via <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">SSL/TLS</a> when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest—you can read more about that on our [security page](security).
+All data is encrypted via <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">SSL/TLS</a> when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest—you can read more about that on our [security page](/security/overview.md).
 
-For more information about how we keep your information secure, please review our [security overview](security).
+For more information about how we keep your information secure, please review our [security overview](/security/overview.md).
 
 
 ## Deleted data
@@ -57,7 +59,7 @@ When you cancel your account, we'll ensure that nothing is stored on our servers
 
 ## EU-US and Swiss-US Privacy Shield policy
 
-See our [EU-US and Swiss-US Privacy Shield policy](privacy/privacy-shield).
+See our [EU-US and Swiss-US Privacy Shield policy](/privacy/privacy-shield.md).
 
 
 ## Location of Site and Data
@@ -67,6 +69,6 @@ This Site is operated in the United States. If you are located in the European U
 
 ## Changes & questions
 
-Basecamp may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting [our support team](/support).
+Basecamp may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting [our support team][support].
 
-Questions about this privacy policy? Please [get in touch](/support) and we’ll be happy to answer them!
+Questions about this privacy policy? Please [get in touch][support] and we’ll be happy to answer them!
