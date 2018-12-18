@@ -40,7 +40,7 @@ Customers may access their Service data via the Application Program Interface ("
 ## Modifications to the Service and Prices
 
 1. The Company reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, any part of the Service with or without notice.
-2. Prices of all Services are subject to change upon 30 days notice from us. Such notice may be provided at any time by posting the changes to the Basecamp site or the Service itself.
+2. Prices of all Services are subject to change upon 30 days notice from us. Such notice may be provided at any time by posting the changes to the Service site or the Service itself.
 3. The Company shall not be liable to you or to any third party for any modification, price change, suspension or discontinuance of the Service.
 
 ## Copyright and Content Ownership
