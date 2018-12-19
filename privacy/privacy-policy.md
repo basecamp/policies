@@ -47,7 +47,7 @@ Basecamp won’t hand your data over to law enforcement unless a court order say
 
 ## Security & Encryption
 
-All data is encrypted via <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">SSL/TLS</a> when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest—you can read more about that on our [security page](/security/overview.md).
+All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest—you can read more about that on our [security page](/security/overview.md).
 
 For more information about how we keep your information secure, please review our [security overview](/security/overview.md).
 
