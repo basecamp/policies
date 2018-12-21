@@ -11,4 +11,5 @@ Subprocessors located in the United States:
 * [Google Cloud Platform](https://cloud.google.com/security/gdpr/resource-center/). Cloud services provider.
 * [Help Scout](https://www.helpscout.net/company/legal/gdpr/). Help desk software.
 * [Sentry](https://blog.sentry.io/2018/03/14/gdpr-sentry-and-you). Error reporting software.
+* [TaxJar](https://support.taxjar.com/article/526-taxjar-security-and-privacy-questions). Sales tax calculation.
 * [Twilio](https://www.twilio.com/gdpr). Text messaging service.
