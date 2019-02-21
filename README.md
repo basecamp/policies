@@ -25,3 +25,5 @@ We welcome our customers—you!—to suggest changes to our policies and to offe
 
 You're free to use these policies in your own organization under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) license.
 Edit them. Adapt them to your needs. Share them. Put them to work.
+
+Keywords: Free Legal Templates, Legal Template, Legal Templates, Policy Template, Policy Templates, Terms of Use, Template Legal Documents, Copyright Template
