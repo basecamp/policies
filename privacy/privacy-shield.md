@@ -1,6 +1,6 @@
 # Basecamp EU-US and Swiss-US Privacy Shield policy
 
-*Last updated: May 24, 2018*
+*Last updated: December 20, 2018*
 
 The privacy of your data—and it is your data, not ours!—is a big deal to us. We’ll only ever access your account to help you with a problem or squash a software bug. We’ll never open any uploaded files unless you ask us to. We log all access to all accounts by IP address, so we can always verify that no unauthorized access has happened for as long as the logs are kept.
 
@@ -12,6 +12,8 @@ When you sign up for Basecamp, we ask for your name, company name, and email add
 You always have the right to access the personal information we store about you. And, if you wish to further limit our use of your personal information, please contact Jeremy Daer at privacyshield@basecamp.com.
 
 Users of Basecamp can store any type of information in Basecamp, but Basecamp does not access or share that data, and does not know what type of data you or other users are storing. The data is only used by the account owner and invited users as they intend to use it.
+
+When you pay for Basecamp, we ask for your credit card and billing address. That's so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn't ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States, to detect fraudulent credit card transactions, and to print on your invoices.
 
 When you write Basecamp with a question or to ask for help, we'll keep that correspondence, and the email address, for future reference. When you browse our marketing pages, we'll track that for statistical purposes (like conversion rates and to test new designs). We also store any information you volunteer, like surveys, for as long as it makes sense.
 
@@ -48,7 +50,7 @@ As part of the services we provide, and only to the extent necessary, we may use
 While we may be required to disclose your personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements, Basecamp won’t otherwise hand your data over to law enforcement unless a court order says we have to. We flat-out reject such other requests from local and federal law enforcement when they seek data without a court order. And unless we're legally prevented from it, we’ll always inform you when such requests are made.
 
 ## Security & Encryption
-All data is encrypted via <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">SSL/TLS</a> when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest—you can read more about that on our [security page](/security/overview.md).
+All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest—you can read more about that on our [security page](/security/overview.md).
 
 For more information about how we keep your information secure, please review our [security overview](/security/overview.md).
 
