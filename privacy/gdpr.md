@@ -1,6 +1,6 @@
 # Basecamp GDPR compliance
 
-The EU [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (GDPR) comes into effect on May 25, 2018. Basecamp is ready.
+The EU [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (GDPR) went into effect on May 25, 2018. Basecamp is ready.
 
 ## Does GDPR affect me?
 
