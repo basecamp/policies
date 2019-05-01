@@ -10,10 +10,21 @@ Basecamp is required to collect and remit sales tax in a number of US states and
 
 You'll see sales tax on your invoice if you live in:
 
-* Chicago (Illinois) 
-* Washington
+* Chicago (Illinois)
+* Connecticut
+* District of Columbia
 * Hawaii
+* Massachusetts
+* Ohio
+* Pennsylvania
+* Rhode Island
+* South Carolina
 * South Dakota
+* Tennessee
+* Texas
+* Utah
+* Washington
+* West Virginia
 
 If you need to change your billing information because you don't actually reside in a taxable state, you can easily handle that within [Basecamp 3](https://3.basecamp-help.com/article/101-handling-billing-and-invoices#update), [Basecamp 2](https://2.basecamp-help.com/article/241-billing-info-and-plan-upgrades#credit-card), and [Basecamp Classic](https://help.basecamp.com/basecamp/questions/148-how-do-we-update-or-change-our-credit-card). Please contact our Support team at [support@basecamp.com](mailto:support@basecamp.com) if you have trouble.
 
