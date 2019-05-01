@@ -16,6 +16,7 @@ You'll see sales tax on your invoice if you live in:
 * Hawaii
 * Massachusetts
 * Ohio
+* Pennsylvania
 * Rhode Island
 * South Carolina
 * South Dakota
