@@ -26,6 +26,8 @@ You'll see sales tax on your invoice if you live in:
 * Washington
 * West Virginia
 
+In order to collect sales tax correctly, we need your full billing address. If your account does not have a full billing address on record, we may apply an extra charge to your invoices based on the average sales tax rate of municipalities that also charge sales tax on transactions without known sales origins.
+
 If you need to change your billing information because you don't actually reside in a taxable state, you can easily handle that within [Basecamp 3](https://3.basecamp-help.com/article/101-handling-billing-and-invoices#update), [Basecamp 2](https://2.basecamp-help.com/article/241-billing-info-and-plan-upgrades#credit-card), and [Basecamp Classic](https://help.basecamp.com/basecamp/questions/148-how-do-we-update-or-change-our-credit-card). Please contact our Support team at [support@basecamp.com](mailto:support@basecamp.com) if you have trouble.
 
 Please also drop an email to [support@basecamp.com](mailto:support@basecamp.com) if:
