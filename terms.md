@@ -48,7 +48,7 @@ Customers may access their Service data via the Application Program Interface ("
 1. All content posted on the Service must comply with U.S. copyright law.
 2. We claim no intellectual property rights over the material you provide to the Service. All materials uploaded remain yours.
 3. The Company does not pre-screen content, but reserves the right (but not the obligation) in their sole discretion to refuse or remove any content that is available via the Service.
-4. The look and feel of the Service is copyright© Basecamp, LLC. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company.
+4. The look and feel of the Service is copyright© to the Company. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company.
 
 ## General Conditions
 
