@@ -21,7 +21,7 @@ If you cancel your account before the end of your current paid up month, you wil
 
 ## Basecamp-initiated cancellations
 
-In an effort to keep both your and our digital footprints smaller, Basecamp will auto-cancel your account if it has been inactive for an extended period:
+In an effort to keep both your and our digital footprints smaller, Basecamp may auto-cancel your account if it has been inactive for an extended period:
 * For trial accounts: 30 days after a trial has expired without being upgraded
 * For frozen, previously paid accounts: 180 days after being frozen due to billing failures
 * For free accounts: after 365 days of inactivity
