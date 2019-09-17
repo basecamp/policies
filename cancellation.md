@@ -13,6 +13,8 @@ Account owners can follow these instructions to cancel in-app:
 * [Campfire][https://help.37signals.com/billing/questions/316-information-about-adjusting-your-plan-or-canceling-your-account#Campfire]
 * [37Suite][https://help.37signals.com/billing/questions/316-information-about-adjusting-your-plan-or-canceling-your-account#Suite]
 
+Our legal responsibility is to account owners, which means we cannot cancel an account at the request of anyone else. If for whatever reason you no longer know who the account owner is, [contact us][https://basecamp.com/support]. We will gladly reach out to any current account owners at the email addresses we have on file.
+
 ## What happens when you cancel?
 
 You won&rsquo;t be able to access your account once you cancel, so make sure you download everything you want to keep beforehand.
