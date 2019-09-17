@@ -1,8 +1,8 @@
 # Cancellation policy
 
-*Last updated: September 16, 2019*
+*Last updated: September 17, 2019*
 
-We hope that you love your Basecamp product but if you decide you no longer need it, we believe it should be easy for you to cancel your subscription. That&rsquo;s why we&rsquo;ve made it easy for you to cancel directly via each application, no questions asked.
+We want satisfied customers, not hostages. That&rsquo;s why we make it easy for you to cancel your account directly in all of our apps — no phone calls required, no questions asked.
 
 Account owners can follow these instructions to cancel in-app:
 * [Basecamp 3][https://3.basecamp-help.com/article/156-cancel-your-basecamp-account]
@@ -15,15 +15,17 @@ Account owners can follow these instructions to cancel in-app:
 
 ## What happens when you cancel?
 
-Cancellations are effective immediately, which means you will not be able to access your account after confirming the cancellation. If you want to save any content from your account, make sure to download them before canceling. Within 30 days, we permanently delete all content from our active systems and logs. Within 60 days, that content will also be permanently deleted from our backups. The data in backups are sparingly accessible, typically retrieved only for legal preservation requests. **Data can not be recovered once it has been permanently deleted.**
+You won&rsquo;t be able to access your account once you cancel, so make sure you download everything you want to keep beforehand.
 
-If you cancel your account before the end of your current paid up month, you will not be charged again. We do not automatically prorate any unused time in the last billing cycle but if you have not used your account in a while, please do reach out to Support for a [fair refund][https://basecamp.com/about/policies/refund].
+We&rsquo;ll permanently delete your account data within 30 days from our servers and logs, and within 60 days from our backups. Retrieving data for a single account from a backup isn&rsquo;t possible, so if you change your mind you&rsquo;ll need to do it within the first 30 days. **Data can&rsquo;t be recovered once it has been permanently deleted.**
+
+We won&rsquo;t bill you again once you cancel. We don&rsquo;t automatically prorate any unused time you may have left but if you haven&rsquo;t used your account in months or just started a new billing cycle, [contact us][https://basecamp.com/support] for a [fair refund][https://basecamp.com/about/policies/refund]. We&rsquo;ll treat you right.
 
 ## Basecamp-initiated cancellations
 
-In an effort to keep both your and our digital footprints smaller, Basecamp may auto-cancel your account if it has been inactive for an extended period:
+Basecamp may cancel accounts if they have been inactive for an extended period:
 * For trial accounts: 30 days after a trial has expired without being upgraded
-* For frozen, previously paid accounts: 180 days after being frozen due to billing failures
+* For frozen accounts: 180 days after being frozen due to billing failures
 * For free accounts: after 365 days of inactivity
 
-Finally, per our [Terms of Service][https://basecamp.com/about/policies/terms], Basecamp does have the right to suspend or terminate your account for any reason at any time. In practice, this means we will cancel your account without notice if we have evidence that you are engaging in illegal behavior with our products such as spamming.
+Basecamp also retains the right to suspend or terminate accounts for any reason at any time, as outlined in our [Terms of Service][https://basecamp.com/about/policies/terms]. In practice, this means we will cancel your account without notice if we have evidence that you are using our products to engage in illegal behavior.
