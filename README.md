@@ -7,6 +7,7 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [General Data Protection Regulation (GDPR)](privacy/gdpr.md)
 * [EU-US and Swiss-US Privacy Shield policy](privacy/privacy-shield.md)
 * [Refund policy](refund.md)
+* [Cancellation policy](cancellation.md)
 * [Copyright policy](copyright.md)
 * [Security overview](security/overview.md)
 * [Security vulnerability response](security/vulnerability-response.md)
