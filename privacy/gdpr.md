@@ -8,7 +8,7 @@ If you're based in the EU or do business in the EU, yeah! GDPR has a long reach.
 
 ## Data Processing Addendum
 
-Contracts required! Processing EU personal data must be governed by a [GDPR-compliant contract](https://gdpr-info.eu/art-28-gdpr/). We provide a standard [Data Processing Addendum](basecamp-gdpr-dpa.pdf) (DPA) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed.
+Contracts required! Processing EU personal data must be governed by a [GDPR-compliant contract](https://gdpr-info.eu/art-28-gdpr/). We provide a standard [Data Processing Addendum](/basecamp-gdpr-dpa.pdf) (DPA) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed.
 
 **✍️ [Sign the DPA online here](https://app.hellosign.com/s/c0908a3d).**
 
