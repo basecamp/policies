@@ -12,3 +12,4 @@ Subprocessors located in the United States:
 * [Sentry](https://blog.sentry.io/2018/03/14/gdpr-sentry-and-you). Error reporting software.
 * [TaxJar](https://support.taxjar.com/article/526-taxjar-security-and-privacy-questions). Sales tax calculation.
 * [Twilio](https://www.twilio.com/gdpr). Text messaging service.
+* [Zapier](https://zapier.com/help/account/data-management/data-privacy-at-zapier). Software integration service.
