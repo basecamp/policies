@@ -8,7 +8,7 @@ All data is written to multiple disks instantly, backed up daily, and stored in 
 
 ## Your data is sent using HTTPS.
 
-Whenever your data is in transit between you and us, everything is encrypted, and sent using HTTPS. Any files which you upload to us are stored and are encrypted at rest. Project data, messages, text documents and todos aren't encrypted at rest — they are active in our database. Our backups of your data are encrypted using GPG.
+Whenever your data is in transit between you and us, everything is encrypted, and sent using HTTPS. Any files which you upload to us are stored and are encrypted at rest. With the exception of HEY, our application databases are not encrypted at rest. For HEY, we encrypt your highly sensitive information (like the contents of your emails) at rest. Our database backups are encrypted using GPG.
 
 ## Full redundancy for all major systems.
 
