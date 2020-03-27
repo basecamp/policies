@@ -8,7 +8,7 @@ layout: sheet
 
 *Last updated: April DD, 2020*
 
-Hundreds of thousands of teams use Basecamp products*. We are proud to give them a better way to work. We also recognize that technology is an amplifier: it can enable the helpful and the harmful. That’s why we've established this policy. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, [we will take action](abuse/how-we-handle.md).
+Hundreds of thousands of teams use Basecamp products*. We are proud to give them a better way to work. We also recognize that technology is an amplifier: it can enable the helpful and the harmful. That’s why we've established this policy. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, [we will take action](abuse/how-we-handle/index.md).
 
 ## Restricted purposes
 
@@ -24,7 +24,7 @@ We’ve outlined these restrictions to be clear about what we won’t stand for.
 
 ## How to report abuse
 
-See someone using a Basecamp product for one of the restricted purposes? Let us know by emailing [report@basecamp.com](mailto:report@basecamp.com) and [we will investigate](abuse/how-we-handle.md). If you’re not 100% sure, report it anyway.
+See someone using a Basecamp product for one of the restricted purposes? Let us know by emailing [report@basecamp.com](mailto:report@basecamp.com) and [we will investigate](abuse/how-we-handle/index.md). If you’re not 100% sure, report it anyway.
 
 Please share as much as you are comfortable with about the account, the content or behavior you are reporting, and how you found it. Sending us a URL or screenshots is super helpful. If you need a secure file transfer, let us know and we will send you a link. We will not disclose your identity to anyone associated with the reported account. For copyright cases, please see our [Copyright Policy](copyright/index.md) for more details.
 
