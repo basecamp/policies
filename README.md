@@ -7,6 +7,7 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [General Data Protection Regulation (GDPR)](privacy/gdpr.md)
 * [EU-US and Swiss-US Privacy Shield policy](privacy/privacy-shield.md)
 * [Refund policy](refund.md)
+* [Cancellation policy](cancellation.md)
 * [Copyright policy](copyright.md)
 * [Security overview](security/overview.md)
 * [Security vulnerability response](security/vulnerability-response.md)
@@ -25,3 +26,9 @@ We welcome our customers—you!—to suggest changes to our policies and to offe
 
 You're free to use these policies in your own organization under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) license.
 Edit them. Adapt them to your needs. Share them. Put them to work.
+
+An example of a brief, unobtrusive [attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) for your own policies that you've based on ours:
+> Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Here's how you could re-share your own policies under [a CC license with attribution](https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license#Adding_a_CC_license_to_your_derivative_work):
+> MyCorp policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

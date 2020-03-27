@@ -1,6 +1,6 @@
 # Basecamp GDPR compliance
 
-The EU [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (GDPR) comes into effect on May 25, 2018. Basecamp is ready.
+The EU [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (GDPR) went into effect on May 25, 2018. Basecamp is ready.
 
 ## Does GDPR affect me?
 
@@ -8,7 +8,7 @@ If you're based in the EU or do business in the EU, yeah! GDPR has a long reach.
 
 ## Data Processing Addendum
 
-Contracts required! Processing EU personal data must be governed by a [GDPR-compliant contract](https://gdpr-info.eu/art-28-gdpr/). We provide a standard [Data Processing Addendum](https://app.hellosign.com/s/c0908a3d) (DPA) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed.
+Contracts required! Processing EU personal data must be governed by a [GDPR-compliant contract](https://gdpr-info.eu/art-28-gdpr/). We provide a standard [Data Processing Addendum](basecamp-gdpr-dpa.pdf) (DPA) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed.
 
 **✍️ [Sign the DPA online here](https://app.hellosign.com/s/c0908a3d).**
 
