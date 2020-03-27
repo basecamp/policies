@@ -8,7 +8,7 @@ layout: sheet
 
 *Last updated: April DD, 2020*
 
-We want satisfied customers, not hostages. That&rsquo;s why we make it easy for you to cancel your account directly in all of our apps — no phone calls required, no questions asked.
+We want satisfied customers, not hostages. That’s why we make it easy for you to cancel your account directly in all of our apps — no phone calls required, no questions asked.
 
 Account owners can follow these instructions to cancel in-app:
 * [Basecamp 3](https://3.basecamp-help.com/article/156-cancel-your-basecamp-account)
@@ -23,11 +23,11 @@ Our legal responsibility is to account owners, which means we cannot cancel an a
 
 ## What happens when you cancel?
 
-You won&rsquo;t be able to access your account once you cancel, so make sure you download everything you want to keep beforehand.
+You won’t be able to access your account once you cancel, so make sure you download everything you want to keep beforehand.
 
-We&rsquo;ll permanently delete your account data within 30 days from our servers and logs, and within 60 days from our backups. Retrieving data for a single account from a backup isn&rsquo;t possible, so if you change your mind you&rsquo;ll need to do it within the first 30 days. **Data can&rsquo;t be recovered once it has been permanently deleted.**
+We’ll permanently delete your account data within 30 days from our servers and logs, and within 60 days from our backups. Retrieving data for a single account from a backup isn’t possible, so if you change your mind you’ll need to do it within the first 30 days. **Data can’t be recovered once it has been permanently deleted.**
 
-We won&rsquo;t bill you again once you cancel. We don&rsquo;t automatically prorate any unused time you may have left but if you haven&rsquo;t used your account in months or just started a new billing cycle, [contact us](https://basecamp.com/support) for a [fair refund](refund/index.md). We&rsquo;ll treat you right.
+We won’t bill you again once you cancel. We don’t automatically prorate any unused time you may have left but if you haven’t used your account in months or just started a new billing cycle, [contact us](https://basecamp.com/support) for a [fair refund](refund/index.md). We’ll treat you right.
 
 ## Basecamp-initiated cancellations
 
