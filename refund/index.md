@@ -1,21 +1,29 @@
+---
+title: Refund policy
+description: "Bad refund policies are infuriating. We never want our customers to feel that way, so our refund policy is simple: If you're ever unhappy with our products for any reason, we'll take care of you."
+layout: sheet
+---
+
 [support]: https://basecamp.com/support
 
 # A fair refund policy.
 
-Bad refund policies are infuriating. You feel like the company is just trying to rip you off. We never want our customers to feel that way, so our refund policy is simple: If you're ever unhappy with Basecamp, for any reason, just contact [our support team][support] and we'll take care of you.
+Bad refund policies are infuriating. You feel like the company is just trying to rip you off. We never want our customers to feel that way, so our refund policy is simple: If you're ever unhappy with our products* for any reason, just contact [our support team][support] and we'll take care of you.
 
-## Examples of full refunds we&rsquo;d grant.
+## Examples of full refunds we’d grant.
 
-* If you were just charged for your next month of Basecamp, but you meant to cancel, we&rsquo;re happy to refund that extra charge.
-* If you forgot to cancel Basecamp a couple months ago, and you haven&rsquo;t used Basecamp since then, we&rsquo;ll give you a full refund for a few back months. No problem.
-* If you tried Basecamp for a couple months, and you just weren&rsquo;t happy with it, you can have your money back.
+* If you were just charged for your next month of service but you meant to cancel, we’re happy to refund that extra charge.
+* If you forgot to cancel your account a couple months ago and you haven’t used Basecamp since then, we’ll give you a full refund for a few back months. No problem.
+* If you tried one of our products for a couple months and you just weren’t happy with it, you can have your money back.
 
-## Examples of partial refunds or credits we&rsquo;d grant.
+## Examples of partial refunds or credits we’d grant.
 
-* If you forgot to cancel Basecamp a year ago, and there&rsquo;s been activity on your account since then, we&rsquo;ll review your account usage and figure out a partial refund based on how many months you used it.
-* If you upgraded your account a few months ago to a higher plan, but you didn&rsquo;t end up using the extra features, projects, or storage space, although you did keep using Basecamp in general, we&rsquo;d consider applying a prorated credit towards future months.
-* If we had extended downtime (multiple hours in a day, or multiple days in a month) or you emailed customer service and it took multiple days to get back to you, we&rsquo;d issue a partial credit to your account.
+* If you forgot to cancel your account a year ago, and there’s been activity on your account since then, we’ll review your account usage and figure out a partial refund based on how many months you used it.
+* If you upgraded your account a few months ago to a higher plan and kept using it in general but you didn’t end up using the extra features, projects, or storage space, we’d consider applying a prorated credit towards future months.
+* If we had extended downtime (multiple hours in a day, or multiple days in a month) or you emailed customer service and it took multiple days to get back to you, we’d issue a partial credit to your account.
 
 ## Get in touch
 
-At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note][support], tell us what's up, and we'll work with you to make sure you&rsquo;re happy.
+At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note][support], tell us what's up, and we'll work with you to make sure you’re happy.
+
+**This policy applies to any product created and owned by Basecamp, LLC. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List. There are some nuances with HEY because its subscriptions are on an annual basis only. For more details, please visit [hey.com/policies/refunds/hey](hey.com/policies/refunds/hey/index.md).*
