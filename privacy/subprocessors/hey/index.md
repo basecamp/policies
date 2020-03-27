@@ -1,12 +1,12 @@
 ---
-title: Basecamp Subprocessors
-description: All the third-party subprocessors that we use to run Basecamp.
+title: HEY Subprocessors
+description: All the third-party subprocessors that we use to run HEY.
 layout: sheet
 ---
 
-# Basecamp subprocessors
+# HEY subprocessors
 
-We use third party subprocessors, such as cloud computing providers and customer support software, to run Basecamp (the service). We establish GDPR-compliant data processing agreements with each subprocessor, extending [GDPR safeguards](/privacy/regulations/index.md) everywhere personal data is processed.
+We use third party subprocessors, such as cloud computing providers and customer support software, to run HEY. We establish GDPR-compliant data processing agreements with each subprocessor, extending [GDPR safeguards](/privacy/regulations/index.md) everywhere personal data is processed.
 
 Below is a list of personal data subprocessors we use. These subprocessors are all located in the United States:
 
@@ -20,4 +20,4 @@ Below is a list of personal data subprocessors we use. These subprocessors are a
 * [Sentry](https://blog.sentry.io/2018/03/14/gdpr-sentry-and-you). Error reporting software.
 * [TaxJar](https://support.taxjar.com/article/526-taxjar-security-and-privacy-questions). Sales tax calculation.
 * [Twilio](https://www.twilio.com/gdpr). Text messaging service.
-* [Wufoo](https://help.wufoo.com/articles/en_US/kb/wufoo-gdpr). Form/survey provider.
+* [Zapier](https://zapier.com/help/account/data-management/data-privacy-at-zapier). Software integration service.

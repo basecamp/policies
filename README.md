@@ -4,8 +4,9 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 
 * [Terms of Service](terms/index.md)
 * [Privacy policy](privacy/index.md)
-* [General Data Protection Regulation (GDPR)](privacy/gdpr/index.md)
-* [EU-US and Swiss-US Privacy Shield policy](privacy/privacy-shield.md)
+  * [Privacy Regulations Reference](privacy/regulations/index.md)
+  * Subprocessors for applications: [Basecamp](privacy/subprocessors/basecamp/index.md), [HEY](privacy/subprocessors/hey/index.md), [Highrise](privacy/subprocessors/highrise/index.md), [Campfire](privacy/subprocessors/campfire/index.md), [Backpack](privacy/subprocessors/backpack/index.md)
+  * [EU-US and Swiss-US Privacy Shield policy](privacy/privacy-shield.md)
 * [Refund policy](refund/index.md)
 * [Refund policy: HEY nuances](refund/hey/index.md)
 * [Cancellation policy](cancellation/index.md)
