@@ -12,7 +12,7 @@ All data are written to multiple disks instantly, backed up daily, and stored in
 
 ## Your data are sent using HTTPS.
 
-Whenever your data are in transit between you and us, everything is encrypted, and sent using HTTPS. Within our firewalled private networks, data are transferred unencrypted.
+Whenever your data are in transit between you and us, everything is encrypted, and sent using HTTPS. Within our firewalled private networks, data may be transferred unencrypted.
 
 Any files which you upload to us are stored and are encrypted at rest. With the exception of HEY, our application databases are not encrypted at rest — the information you add to the applications is active in our databases and subject to the same protection and monitoring as the rest of our systems. For HEY, we encrypt your highly sensitive information (such as the contents of your emails) at rest. Our database backups are encrypted using GPG.
 
