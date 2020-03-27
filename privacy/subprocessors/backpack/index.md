@@ -1,7 +1,6 @@
 ---
 title: Backpack Subprocessors
 description: All the third-party subprocessors that we use to run Backpack.
-layout: sheet
 ---
 
 # Backpack subprocessors

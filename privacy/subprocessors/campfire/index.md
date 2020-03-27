@@ -1,7 +1,6 @@
 ---
 title: Campfire Subprocessors
 description: All the third-party subprocessors that we use to run Campfire.
-layout: sheet
 ---
 
 # Campfire subprocessors

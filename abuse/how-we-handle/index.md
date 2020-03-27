@@ -1,7 +1,6 @@
 ---
 title: How we handle abusive usage
 description: Guiding principles and process for investigating abuse reports
-layout: sheet
 ---
 
 # How we handle abusive usage

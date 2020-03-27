@@ -1,7 +1,6 @@
 ---
 title: Privacy Regulation Reference
 description: Privacy laws are in a lot of flux. Here’s info you should know.
-layout: sheet
 ---
 
 # Privacy Regulation Reference

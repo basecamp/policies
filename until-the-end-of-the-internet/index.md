@@ -1,7 +1,6 @@
 ---
 title: "Basecamp: Until the End of the Internet"
 description: Unlike most other companies that make web software, we’re dedicated to supporting our products forever.
-layout: sheet
 ---
 
 [support]: https://basecamp.com/support

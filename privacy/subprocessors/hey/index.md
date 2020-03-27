@@ -1,7 +1,6 @@
 ---
 title: HEY Subprocessors
 description: All the third-party subprocessors that we use to run HEY.
-layout: sheet
 ---
 
 # HEY subprocessors

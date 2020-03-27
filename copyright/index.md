@@ -1,7 +1,6 @@
 ---
 title: Basecamp Notification of Copyright Infringement Claims
 description: How Basecamp handles copyright infringement claims.
-layout: sheet
 ---
 
 # Notification of Copyright Infringement Claims

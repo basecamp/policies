@@ -1,7 +1,6 @@
 ---
 title: Basecamp Subprocessors
 description: All the third-party subprocessors that we use to run Basecamp.
-layout: sheet
 ---
 
 # Basecamp subprocessors

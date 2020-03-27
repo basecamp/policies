@@ -1,7 +1,6 @@
 ---
 title: Refund policy
 description: "Bad refund policies are infuriating. We never want our customers to feel that way, so our refund policy is simple: If you're ever unhappy with our products for any reason, we'll take care of you."
-layout: sheet
 ---
 
 [support]: https://basecamp.com/support

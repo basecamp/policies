@@ -1,7 +1,6 @@
 ---
 title: Highrise Subprocessors
 description: All the third-party subprocessors that we use to run Highrise.
-layout: sheet
 ---
 
 # Highrise subprocessors

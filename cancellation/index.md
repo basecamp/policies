@@ -1,7 +1,6 @@
 ---
 title: Cancellation policy
 description: Everything you need to know about canceling your Basecamp product account.
-layout: sheet
 ---
 
 # Cancellation policy

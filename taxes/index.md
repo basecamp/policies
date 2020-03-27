@@ -1,7 +1,6 @@
 ---
 title: Basecamp and Taxes
 description: We are required to collect and remit sales tax in a number of US states and localities.
-layout: sheet
 ---
 
 # Taxes!
