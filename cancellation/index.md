@@ -31,9 +31,9 @@ We won&rsquo;t bill you again once you cancel. We don&rsquo;t automatically pror
 
 ## Basecamp-initiated cancellations
 
-Basecamp may cancel accounts if they have been inactive for an extended period:
+We may cancel accounts if they have been inactive for an extended period:
 * For trial accounts: 30 days after a trial has expired without being upgraded
 * For frozen accounts: 180 days after being frozen due to billing failures
 * For free accounts: after 365 days of inactivity
 
-Basecamp also retains the right to suspend or terminate accounts for any reason at any time, as outlined in our [Terms of Service](terms/index.md). In practice, this means we will cancel your account without notice if we have evidence that you are using our products to engage in illegal behavior.
+We also retain the right to suspend or terminate accounts for any reason at any time, as outlined in our [Terms of Service](terms/index.md). In practice, this means we will cancel your account without notice if we have evidence that you are using our products to engage in illegal behavior.
