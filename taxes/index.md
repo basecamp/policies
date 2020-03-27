@@ -35,6 +35,9 @@ If you need to change your billing information because you don’t actually resi
 * [Basecamp 3](https://3.basecamp-help.com/article/101-handling-billing-and-invoices#update)
 * [Basecamp 2](https://2.basecamp-help.com/article/241-billing-info-and-plan-upgrades#credit-card)
 * [Basecamp Classic](https://help.basecamp.com/basecamp/questions/148-how-do-we-update-or-change-our-credit-card)
+* [Highrise](https://help.highrisehq.com/account/change-credit-card/)
+* [Campfire](https://help.backpackit.com/campfire/questions/360-how-do-i-update-or-change-our-credit-card)
+* [Backpack](https://help.backpackit.com/backpack/questions/251-how-do-we-update-or-change-the-credit-card-you-re-billing)
 
 ## We’re here to help
 Please [contact our Support team](mailto:support@basecamp.com) if you have trouble or if:
