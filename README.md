@@ -7,6 +7,7 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [General Data Protection Regulation (GDPR)](privacy/gdpr/index.md)
 * [EU-US and Swiss-US Privacy Shield policy](privacy/privacy-shield.md)
 * [Refund policy](refund/index.md)
+* [Refund policy: HEY nuances](refund/hey/index.md)
 * [Cancellation policy](cancellation/index.md)
 * [Copyright policy](copyright/index.md)
 * [Security overview](security/index.md)
