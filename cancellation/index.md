@@ -1,6 +1,12 @@
+---
+title: Cancellation policy
+description: Everything you need to know about canceling your Basecamp product account.
+layout: sheet
+---
+
 # Cancellation policy
 
-*Last updated: September 17, 2019*
+*Last updated: April DD, 2020*
 
 We want satisfied customers, not hostages. That&rsquo;s why we make it easy for you to cancel your account directly in all of our apps — no phone calls required, no questions asked.
 
