@@ -2,11 +2,11 @@
 
 ## We protect your data.
 
-All data is written to multiple disks instantly, backed up daily, and stored in multiple locations. Files that our customers upload are stored on servers that use modern techniques to remove bottlenecks and points of failure.
+All data are written to multiple disks instantly, backed up daily, and stored in multiple locations. Files that our customers upload are stored on servers that use modern techniques to remove bottlenecks and points of failure.
 
-## Your data is sent using HTTPS.
+## Your data are sent using HTTPS.
 
-Whenever your data is in transit between you and us, everything is encrypted, and sent using HTTPS. Within our firewalled private networks, data are transferred unencrypted.
+Whenever your data are in transit between you and us, everything is encrypted, and sent using HTTPS. Within our firewalled private networks, data are transferred unencrypted.
 
 Any files which you upload to us are stored and are encrypted at rest. With the exception of HEY, our application databases are not encrypted at rest — the information you add to the applications is active in our databases and subject to the same protection and monitoring as the rest of our systems. For HEY, we encrypt your highly sensitive information (such as the contents of your emails) at rest. Our database backups are encrypted using GPG.
 
