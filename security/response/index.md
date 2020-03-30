@@ -1,3 +1,8 @@
+---
+title: 'Basecamp Security Response'
+description: 'Have you discovered a web security flaw that might impact Basecamp? Here's how you can report it.'
+---
+
 [support]: https://basecamp.com/support
 [security-gpg-public-key]: https://basecamp.com/about/policies/security/Basecamp-security.pub
 
