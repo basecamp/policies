@@ -9,7 +9,7 @@ The data privacy regulatory landscape is undergoing a lot of change. You probabl
 
 ## Are Basecamp products in compliance?
 
-You can find our [Privacy policy](privacy/index.md) here.
+You can find our [Privacy policy](../index.md) here.
 
 - We are in compliance with the [GDPR]((https://gdpr.eu/)). We participate in the EU-US and Swiss-US Privacy Shield Framework to safeguard the transfer of personal data to the US.
 - We are in the process of ensuring compliance with the [California Consumer Privacy Act](https://www.oag.ca.gov/privacy/ccpa) (CCPA) and have expanded your rights in our privacy policy accordingly.
@@ -27,7 +27,7 @@ We provide a standard [Data Processing Addendum](https://app.hellosign.com/s/c09
 
 **✍️ [Sign the DPA online here](https://app.hellosign.com/s/c0908a3d).**
 
-Basecamp participates in the [EU-US and Swiss-US Privacy Shield Framework](privacy-shield.md) to safeguard the transfer of personal data to the US, meeting the GDPR requirement for adequate data protection laws.
+Basecamp participates in the [EU-US and Swiss-US Privacy Shield Framework](https://www.privacyshield.gov/participant?id=a2zt0000000TP1OAAW&status=Active) to safeguard the transfer of personal data to the US, meeting the GDPR requirement for adequate data protection laws.
 
 ## Subprocessors
 
@@ -35,8 +35,8 @@ Basecamp uses third party subprocessors, such as cloud computing providers and c
 
 You can see which subprocessors we use by application:
 
-* [Basecamp subprocessors](privacy/subprocessors/basecamp/index.md)
-* [HEY subprocessors](privacy/subprocessors/hey/index.md)
-* [Highrise subprocessors](privacy/subprocessors/highrise/index.md)
-* [Campfire subprocessors](privacy/subprocessors/campfire/index.md)
-* [Backpack subprocessors](privacy/subprocessors/backpack/index.md)
+* [Basecamp subprocessors](../subprocessors/basecamp/index.md)
+* [HEY subprocessors](../subprocessors/hey/index.md)
+* [Highrise subprocessors](../subprocessors/highrise/index.md)
+* [Campfire subprocessors](../subprocessors/campfire/index.md)
+* [Backpack subprocessors](../subprocessors/backpack/index.md)

@@ -19,8 +19,8 @@ We’re dedicated to supporting our products forever (or until the last customer
 
 Here’s what that means:
 
-- The day you become a customer of any of our products, you can trust that Basecamp will be around. In the event that the Basecamp product you’re using enters a legacy phase you’ll be free to keep using it as-is indefinitely, assuming you continue to abide by our [terms of service](terms/index.md) and keep your subscription active.
-- Your data is safe. Regardless of status, all of our products receive the same rigorous care when it comes to [security](security/index.md) and [privacy](privacy/index.md). While we may not add new features to legacy products we’ll continue to apply the latest security updates; maintain the infrastructure that keeps them safe, fast and secure; and continue to offer [customer support]({{site.support_page}}).
+- The day you become a customer of any of our products, you can trust that Basecamp will be around. In the event that the Basecamp product you’re using enters a legacy phase you’ll be free to keep using it as-is indefinitely, assuming you continue to abide by our [terms of service](../terms/index.md) and keep your subscription active.
+- Your data is safe. Regardless of status, all of our products receive the same rigorous care when it comes to [security](../security/index.md) and [privacy](../privacy/index.md). While we may not add new features to legacy products we’ll continue to apply the latest security updates; maintain the infrastructure that keeps them safe, fast and secure; and continue to offer [customer support]({{site.support_page}}).
 - This is our life’s work—we’re in this for the long haul. In the unforeseen and unanticipated event that the company or one of our products is acquired by another company, we’ll do everything in our power to make sure the product and this promise live on.
 
 ## Changes & questions
