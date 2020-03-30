@@ -37,7 +37,7 @@ We've been around the block and we've seen a lot of companies come and go. Secur
 
 ## Want to know more?
 
-[Read our security whitepaper][security/Basecamp_Security_Overview.pdf] for additional details.
+[Read our security whitepaper][Basecamp_Security_Overview.pdf] for additional details.
 
 ## Have a concern? Need to report an incident?
 
