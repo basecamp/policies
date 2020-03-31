@@ -39,7 +39,7 @@ If you need to change your billing information because you don’t actually resi
 * [Backpack](https://help.backpackit.com/backpack/questions/251-how-do-we-update-or-change-the-credit-card-you-re-billing)
 
 ## We’re here to help
-Please [contact our Support team](mailto:support@basecamp.com) if you have trouble or if:
+Please [contact our Support team]({{ site.email_support }}) if you have trouble or if:
 
 * you believe you’re being charged in error.
 * your business is sales tax exempt. Include your tax exempt certificate and your product account ID or domain when you email Support. This information can typically be found in a URL when you are in the application:
