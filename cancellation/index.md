@@ -35,4 +35,4 @@ We may cancel accounts if they have been inactive for an extended period:
 * For frozen accounts: 180 days after being frozen due to billing failures
 * For free accounts: after 365 days of inactivity
 
-We also retain the right to suspend or terminate accounts for any reason at any time, as outlined in our [Terms of Service](../terms/index.md). In practice, this means we will cancel your account without notice if we have evidence that you are using our products to engage in illegal behavior.
+We also retain the right to suspend or terminate accounts for any reason at any time, as outlined in our [Terms of Service](../terms/index.md). In practice, this generally means we will cancel your account without notice if we have evidence that you are using our products to engage in [abusive behavior](../abuse/index.md).
