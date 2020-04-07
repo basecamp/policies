@@ -48,7 +48,7 @@ This list is not exhaustive; there are always edge cases. We will update the lis
 We focus on the evidence:
 
 - Language and imagery used by users on the account
-- Evidence of account users' power and/or ability to act on spoken claims
+- Evidence of account users’ power and/or ability to act on spoken claims
 - Publicly available information about account users
 
 We strive to balance privacy and safety for all those involved:
