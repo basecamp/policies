@@ -18,7 +18,7 @@ Are you a copyright owner? Under the Digital Millennium Copyright Act (17 U.S.C.
 - A statement that you, in good faith, believe that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 - A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-## Digital Millennium Copyright Act (DCMA) Counter-notifications
+## Digital Millennium Copyright Act (“DCMA”) Counter-notifications
 
 On the flip-side, if you believe your material has been removed in error, you can file a written counter-notification. Please include the following information:
 
