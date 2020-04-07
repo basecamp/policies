@@ -13,7 +13,7 @@ When they launched, each of our products was our finest work. They were the resu
 
 ## It’s a promise to our customers
 
-We’re dedicated to supporting our products forever (or until the last customer turns off the lights). We stands against the tide of ephemeral software and services that are frustratingly common on the Internet. Basecamp is built to last. Supporting our legacy products and customers who love them isn’t free or easy but it’s the right thing to do. We’ll be here until the end of the Internet.
+We’re dedicated to supporting our products forever (or until the last customer turns off the lights). We stand against the tide of ephemeral software and services that are frustratingly common on the Internet. Basecamp is built to last. Supporting our legacy products and customers who love them isn’t free or easy but it’s the right thing to do. We’ll be here until the end of the Internet.
 
 Here’s what that means:
 
