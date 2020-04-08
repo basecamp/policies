@@ -122,6 +122,6 @@ Our products and other web properties are operated in the United States. If you 
 
 ## Changes & questions
 
-Basecamp may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting [our support team][support].
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can see a history of the changes to our policies since mid-2018 [on Github](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://m.signalvnoise.com/).
 
-Questions about this privacy policy? Please [get in touch][support] and we’ll be happy to answer them!
+Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@basecamp.com](mailto:privacy@basecamp.com) and we’ll be happy to answer them!
