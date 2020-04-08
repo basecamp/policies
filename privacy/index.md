@@ -53,7 +53,7 @@ We also store any information you volunteer like surveys. Sometimes when we do c
 
 We don’t collect any characteristics of protected classifications including age, race, gender, religion, sexual orientation, gender identity, or gender expression. You may provide these data voluntarily, such as if you include a pronoun preference in your email signature when writing into our Support team.
 
-We also do not collect any biometric data. You are given the option to add a picture to your user profile, which could be a real picture of you or a picture of something else like your spirit animal. We do not extract any information from profile pictures: they are for your use alone.
+We also do not collect any biometric data. You are given the option to add a picture to your user profile, which could be a real picture of you or a picture of something else that represents you best. We do not extract any information from profile pictures: they are for your use alone.
 
 ## When we access or share your information
 
