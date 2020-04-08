@@ -117,7 +117,7 @@ Please note that if your complaint is not resolved through these channels, under
 
 ## Location of Site and Data
 
-This Site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
+Our products and other web properties are operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
 
 ## Changes & questions
