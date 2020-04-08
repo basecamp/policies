@@ -27,8 +27,9 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 4. You must provide a valid email address and any other information requested in order to complete the signup process.
 5. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
 
-## Payment, Refunds, Upgrading and Downgrading Terms
+## Payment, Refunds, Upgrading, and Downgrading
 
+1. If you are using a free version of one of our Services, it is really free: we do not ask you for your credit card and — just like for customers who pay for our Services — we do not sell your data.
 1. The Service is offered with a free trial for 30 days. If you need more than 30 days, you will only be able to continue using the Service by paying in advance for additional usage. If you fail to pay for additional usage, your account will be frozen and inaccessible until payment is made.
 2. For any upgrade or downgrade in plan level, will result in the new rate being charged at the next billing cycle. There will be no prorating for downgrades in between billing cycles.
 3. Downgrading your Service may cause the loss of features or capacity of your account. The Company does not accept any liability for such loss.
