@@ -30,7 +30,7 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 ## Payment, Refunds, Upgrading, and Downgrading
 
 1. If you are using a free version of one of our Services, it is really free: we do not ask you for your credit card and — just like for customers who pay for our Services — we do not sell your data.
-1. The Service is offered with a free trial for 30 days. If you need more than 30 days, you will only be able to continue using the Service by paying in advance for additional usage. If you fail to pay for additional usage, your account will be frozen and inaccessible until payment is made.
+2. For paid Services that offer a free trial, we explain the length of trial when you sign up. After the trial period, you need to pay in advance to keep using the Service. If you do not pay, we will freeze your account and it will be inaccessible until you make payment. If your account has been frozen for a while, we will queue it up for auto-cancellation. See our [Cancellation policy](../cancellation/index.md) for more details.
 2. For any upgrade or downgrade in plan level, will result in the new rate being charged at the next billing cycle. There will be no prorating for downgrades in between billing cycles.
 3. Downgrading your Service may cause the loss of features or capacity of your account. The Company does not accept any liability for such loss.
 4. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties, excluding only United States (federal or state) taxes. Where required, The Company will collect those taxes on behalf of taxing authority and remit those taxes to taxing authorities.
