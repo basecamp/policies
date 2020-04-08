@@ -48,7 +48,6 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 
 1. We make a promise to our customers to support our Services [until the end of the Internet](../until-the-end-of-the-internet/index.md). That means when it comes to security, privacy, and customer support, we will continue to maintain any legacy Services. Sometimes it becomes technically impossible to continue a feature or we redesign a part of our Services because we think it could be better or we decide to close new signups of a product. We reserve the right at any time to modify or discontinue, temporarily or permanently, any part of our Services with or without notice.
 2. Sometimes we change the pricing structure for our products. When we do that, we tend to exempt existing customers from those changes. However, we may choose to change the prices for existing customers. If we do so, we will give at least 30 days notice and will notify you via the email address on record. We may also post a notice about changes on our websites or the affected Services themselves.
-3. The Company shall not be liable to you or to any third party for any modification, price change, suspension or discontinuance of the Service.
 
 ## Copyright and Content Ownership
 
