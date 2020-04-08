@@ -85,6 +85,14 @@ We offer Application Program Interfaces ("API"s) for some of our Services (curre
 
 Some third-party providers have created integrations between our Services and theirs. You can find some of those integrations for Basecamp at https://basecamp.com/extras and for Highrise at https://highrisehq.com/extras/. We are not liable or accountable for any of these third-party integrations.
 
+## Liability
+
+We mention liability throughout these Terms but to put it all in one section:
+
+***You expressly understand and agree that the Company shall not be liable, in law or in equity, to you or to any third party for any direct, indirect, incidental, lost profits, special, consequential, punitive or exemplary damages, including, but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if the Company has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the Services; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Services; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the service; (v) or any other matter relating to this Terms of Service or the Services, whether as a breach of contract, tort (including negligence whether active or passive), or any other theory of liability.***
+
+In other words: choosing to use our Services does mean you are making a bet on us. If the bet does not work out, that's on you, not us. We do our darnedest to be as safe a bet as possible through careful management of the business; investments in security, infrastructure, and talent; and in general [giving a damn](https://basecamp.com/about). If you choose to use our Services, thank you for betting on us.
+
 ## General Conditions
 
 2. Technical support is only provided via email.
