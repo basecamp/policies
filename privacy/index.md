@@ -55,12 +55,16 @@ We don’t collect any characteristics of protected classifications including ag
 
 We also do not collect any biometric data. You are given the option to add a picture to your user profile, which could be a real picture of you or a picture of something else like your spirit animal. We do not extract any information from profile pictures: they are for your use alone.
 
+## When we access or share your information
 
-The only times we’ll ever share your info:
+Our default practice is to not access your information. The only times we’ll ever access or share your info are:
 
-* To provide products or services you've requested, with your permission. [List of third-party services we use](privacy/subprocessors.md).
-* To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](terms/index.md), or as otherwise required by law.
-* If Basecamp is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
+* **To provide products or services you've requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can see the list of third-party services we use in each product: [Basecamp](basecamp-subprocessors/index.md), [HEY](hey-subprocessors/index.md), [Highrise](highrise-subprocessors/index.md), [Campfire](campfire-subprocessors/index.md), [Backpack](backpack-subprocessors). Having subprocessors means we are using technology to access your data. No Basecamp human looks at your data for these purposes.
+* **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your account to help you with a Support case, we will ask for your consent before proceeding.
+* **To investigate, prevent, or take action regarding [restricted uses](../abuse/index.md).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We have an obligation to protect the privacy and safety of both our customers and the people reporting issues to us. We do our best to balance those responsibilities throughout the process. If we do discover you are using our products for a restricted purpose, we will report the incident to the appropriate authorities.
+* **When required under applicable law.** If the appropriate law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made.
+
+If Basecamp, LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
 
 ## Your Rights With Respect to Your Information
@@ -77,16 +81,6 @@ You may have heard about the General Data Protection Regulation (“GDPR”) in 
 * **Right to not be subject to Automated Decision-Making.** This is your right to object and prevent any decision that could have a legal, or similarly significant, effect on you from being made solely based on automated processes. This right is limited, however, if the decision is necessary for performance of any contract between you and us, is allowed by applicable European law, or is based on your explicit consent.
 
 Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [privacy@basecamp.com](mailto:privacy@basecamp.com).
-
-
-## Processors we use
-
-As part of the services we provide, and only to the extent necessary, we may use certain third party processors to process some or all of your personal information. For identification of these processors, and where they are located, please see our [Subprocessor listing](privacy/subprocessors.md). We have signed appropriate data processing contracts that comply with GDPR with each processor.
-
-
-## Law enforcement
-
-Basecamp won’t hand your data over to law enforcement unless a court order says we have to. We flat-out reject requests from local and federal law enforcement when they seek data without a court order. And unless we're legally prevented from it, we’ll always inform you when such requests are made.
 
 
 ## Security & Encryption
