@@ -27,13 +27,6 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 4. You must provide a valid email address and any other information requested in order to complete the signup process.
 5. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
 
-## API Terms
-
-Customers may access their Service data via the Application Program Interface ("API"). Any use of the API, including use of the API through a third-party product that accesses the Service, is bound by the terms of this agreement plus the following specific terms:
-
-1. You expressly understand and agree that the Company shall not be liable for any damages or losses resulting from your use of the API or third-party products that access data via the API.
-2. Abuse or excessively frequent requests to the Service via the API may result in the temporary or permanent suspension of your account's access to the API. The Company, in its sole discretion, will determine abuse or excessive usage of the API. The Company will make a reasonable attempt via email to warn the account owner prior to suspension.
-
 ## Payment, Refunds, Upgrading and Downgrading Terms
 
 1. The Service is offered with a free trial for 30 days. If you need more than 30 days, you will only be able to continue using the Service by paying in advance for additional usage. If you fail to pay for additional usage, your account will be frozen and inaccessible until payment is made.
@@ -61,6 +54,15 @@ Customers may access their Service data via the Application Program Interface ("
 2. We claim no intellectual property rights over the material you provide to the Service. All materials uploaded remain yours.
 3. The Company does not pre-screen content, but reserves the right (but not the obligation) in their sole discretion to refuse or remove any content that is available via the Service.
 4. The look and feel of the Service is copyright© to the Company. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company.
+
+## Services Adaptations and API Terms
+
+We offer Application Program Interfaces ("API"s) for some of our Services (currently Basecamp, Highrise, Campfire, and Backpack). Any use of the API, including through a third-party product that accesses the Services, is bound by the terms of this agreement plus the following specific terms:
+
+1. You expressly understand and agree that we are not liable for any damages or losses resulting from your use of the API or third-party products that access data via the API.
+2. Abuse or excessively frequent requests to the Services via the API may result in the temporary or permanent suspension of your account's access to the API. The Company, in its sole discretion, will determine abuse or excessive usage of the API. If we need to suspend your account's access, we will attempt to warn the account owner first. If your API usage could or has caused downtime, we may cut off access without prior notice.
+
+Some third-party providers have created integrations between our Services and theirs. You can find some of those integrations for Basecamp at https://basecamp.com/extras and for Highrise at https://highrisehq.com/extras/. We are not liable or accountable for any of these third-party integrations.
 
 ## General Conditions
 
