@@ -1,6 +1,6 @@
 ---
 title: 'Basecamp Security Response'
-description: 'Have you discovered a web security flaw that might impact Basecamp? Here's how you can report it.'
+description: 'Have you discovered a web security flaw that might impact Basecamp? Here’s how you can report it.'
 ---
 
 # Basecamp security response
