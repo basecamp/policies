@@ -92,9 +92,11 @@ All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Laye
 For more information about how we keep your information secure, please review our [security overview](security/index.md).
 
 
-## Deleted data
+## When you delete data in your product accounts
 
-When you cancel your account, we'll ensure that nothing is stored on our servers past 30 days. Anything you delete on your account while it's active will also be purged within 30 days (up until then it's available in the trash can).
+In many of our applications, we give you the option to trash data. Anything you trash on your product accounts while they are active will be kept in an accessible trash can for up to 30 days (it varies a little by product). After that, the trashed data are no longer accessible via the application and are deleted from our active servers within the next 30 days. We also have some backups of our application databases, which are kept for up to another 30 days. In total, when you trash things in our applications, they are purged within 90 days from all of our systems and logs. Retrieving data for a single account from a backup is cost-prohibitive and unduly burdensome so if you change your mind you’ll need to do so before your data are deleted from our active servers.
+
+We also delete your data after an account is cancelled. In this case, there is no period of data being kept in an accessible trash can so your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](../cancellation/index.md) for more details.
 
 
 ## EU-US and Swiss-US Privacy Shield policy
