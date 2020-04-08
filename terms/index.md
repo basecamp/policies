@@ -34,7 +34,7 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 3. If you are upgrading from a free plan to a paid plan, we will charge your card immediately and your billing cycle starts on the day of upgrade. For other upgrades or downgrades in plan level, the new rate starts from the next billing cycle.
 3. Downgrading your Service may cause the loss of features or capacity of your account. The Company does not accept any liability for such loss. If you want help navigating a downgrade, feel free to [reach out to us]({{ email_support }}).
 4. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. See our [Taxes policy](../taxes/index.md) for more details. Otherwise, you are responsible for payment of all taxes, levies, or duties.
-5. Refunds are processed according to our [fair refund policy](refund/index.md).
+5. We process refunds according to our [Fair Refund policy](../refund/index.md).
 
 ## Cancellation and Termination
 
