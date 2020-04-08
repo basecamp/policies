@@ -63,10 +63,12 @@ We can access your data for the following reasons:
 
 ## Copyright and Content Ownership
 
-1. All content posted on the Service must comply with U.S. copyright law.
-2. We claim no intellectual property rights over the material you provide to the Service. All materials uploaded remain yours.
-3. The Company does not pre-screen content, but reserves the right (but not the obligation) in their sole discretion to refuse or remove any content that is available via the Service.
-4. The look and feel of the Service is copyright© to the Company. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company.
+1. All content posted on the Services must comply with U.S. copyright law. We provide details on [how to file a copyright infringement claim](../copyright/index.md).
+2. We claim no intellectual property rights over the material you provide to the Services. All materials uploaded remain yours.
+3. We do not pre-screen content, but reserve the right (but not the obligation) in our sole discretion to refuse or remove any content that is available via the Service.
+4. The names, look, and feel of the Services are copyright© to the Company. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company.
+5. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Services, use of the Services, or access to the Services without the express written permission by the Company.
+6. You must not modify another website so as to falsely imply that it is associated with the Services or the Company.
 
 ## Services Adaptations and API Terms
 
@@ -82,8 +84,6 @@ Some third-party providers have created integrations between our Services and th
 2. Technical support is only provided via email.
 3. You understand that the Company uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service.
 4. You must not modify, adapt or hack the Service.
-5. You must not modify another website so as to falsely imply that it is associated with the Service or the Company.
-6. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without the express written permission by the Company.
 7. We may, but have no obligation to, remove content and accounts that we determine in our sole discretion are unlawful or violates any party’s intellectual property or these Terms of Service.
 11. The Company does not warrant that (i) the service will meet your specific requirements, (ii) the service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the service will meet your expectations, and (v) any errors in the Service will be corrected.
 12. You expressly understand and agree that the Company shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if the Company has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the service; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the service; (v) or any other matter relating to the service.
