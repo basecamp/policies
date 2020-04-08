@@ -70,6 +70,12 @@ We can access your data for the following reasons:
 5. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Services, use of the Services, or access to the Services without the express written permission by the Company.
 6. You must not modify another website so as to falsely imply that it is associated with the Services or the Company.
 
+## Features and Bugs
+
+We design our Services with care, based on our own experience and the experiences of customers who share their time and feedback. However, there is no such thing as a service that pleases everybody. We make no guarantees that our Services will meet your specific requirements or expectations.
+
+We also test all of our features extensively before shipping them. As with any software, our Services inevitably have some bugs. We track the bugs reported to us and work through priority ones, especially any related to security or privacy. Not all reported bugs will get fixed and we don't guarantee completely error-free Services.
+
 ## Services Adaptations and API Terms
 
 We offer Application Program Interfaces ("API"s) for some of our Services (currently Basecamp, Highrise, Campfire, and Backpack). Any use of the API, including through a third-party product that accesses the Services, is bound by the terms of this agreement plus the following specific terms:
@@ -85,7 +91,7 @@ Some third-party providers have created integrations between our Services and th
 3. You understand that the Company uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service.
 4. You must not modify, adapt or hack the Service.
 7. We may, but have no obligation to, remove content and accounts that we determine in our sole discretion are unlawful or violates any party’s intellectual property or these Terms of Service.
-11. The Company does not warrant that (i) the service will meet your specific requirements, (ii) the service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the service will meet your expectations, and (v) any errors in the Service will be corrected.
+
 12. You expressly understand and agree that the Company shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if the Company has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the service; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the service; (v) or any other matter relating to the service.
 13. The failure of the Company to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and the Company and govern your use of the Service, superceding any prior agreements between you and the Company (including, but not limited to, any prior versions of the Terms of Service).
 14. Questions about the Terms of Service should be sent to [support@basecamp.com](mailto:support@basecamp.com).
