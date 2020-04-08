@@ -24,7 +24,7 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 1. You are responsible for maintaining the security of your account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. We recommend users set up [two-factor authentication](https://m.signalvnoise.com/basecamp-no-longer-requires-google-for-two-factor-authentication/) for added security. In some of our Services, we may require it.
 2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](../abuse/index.md).
 3. You are responsible for all content posted and activity that occurs under your account. That includes content posted by others who either: (a) have access to your login credentials; or (b) have their own logins under your account.
-4. You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process.
+4. You must provide a valid email address and any other information requested in order to complete the signup process.
 5. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
 
 ## API Terms
