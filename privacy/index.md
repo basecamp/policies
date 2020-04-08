@@ -3,11 +3,13 @@ title: Privacy policy
 description: The privacy of your data — and it is your data, not ours! — is a big deal to us. Here's the rundown of what we collect and why, when we access your information, and your rights.
 ---
 
-# Basecamp privacy policy
+# Privacy policy
 
-*Last updated: December 20, 2018*
+*Last updated: April 8, 2020*
 
-The privacy of your data — and it is your data, not ours! — is a big deal to us. We’ll only ever access your account to help you with a problem or squash a software bug. We’ll never open any uploaded files unless you ask us to. We log all access to all accounts by IP address, so we can always verify that no unauthorized access has happened for as long as the logs are kept.
+The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
+
+This policy applies to all products build and maintained by Basecamp LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard.
 
 ## Identity & access
 
