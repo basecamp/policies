@@ -19,11 +19,35 @@ Our guiding principle is to collect only what we need. Here’s what that means 
 
 When you sign up for a Basecamp product, we typically ask for identifying information such as your name, email address, and maybe a company name. That’s just so you can personalize your new account, and we can send you invoices, updates, or other essential information. We sometimes also give you the option to add a profile picture that displays in our products, but we do not normally look at or access that picture. We’ll never sell your personal info to third parties, and we won’t use your name or company in marketing statements without your permission either.
 
-### Billing Information
+### Billing information
 
 When you pay for a Basecamp product, we ask for your credit card and billing address. That's so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn't ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number and as-of billing address, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States, to detect fraudulent credit card transactions, and to print on your invoices.
 
-When you write Basecamp with a question or to ask for help, we'll keep that correspondence, and the email address, for future reference. When you browse our marketing pages, we'll track that for statistical purposes (like conversion rates and to test new designs). We also store any information you volunteer, like surveys, for as long as it makes sense.
+### Geolocation data
+
+We log all access to all accounts by full IP address so that we can always verify no unauthorized access has happened. We keep this login data for as long as your product account is active.
+
+We also log full IP addresses used to sign up a product account. We keep this record forever because they are used to mitigate spammy signups.
+
+Web analytics data — described further below — are also tied temporarily to IP addresses to assist with troubleshooting cases. We blind all web analytics data after 30 days.
+
+### Website interactions
+
+When you browse our marketing pages or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information, along with the pages you are visiting, page load timing, and which website referred you for statistical purposes like conversion rates and to test new designs. We sometimes track specific link clicks to help inform some design decisions. These web analytics data are tied to your IP address and user account if applicable and you are signed into our Services. We blind all of these individual identifiers after 30 days.
+
+Historically — including within the last 12 months — we have used third-party web analytics software. We no longer do for our actively sold and developed products and their marketing sites (Basecamp and HEY). We are in the process of removing third party web analytics software from our other products and web properties.
+
+### Cookies and Do Not Track
+
+We do use persistent first-party cookies to store certain preferences, make it easier for you to use our applications, and support some in-house analytics. A cookie is a piece of text stored by your browser to help it remember your login information, site preferences, and more. You can adjust cookie retention settings in your own browser. To learn more about cookies, including how to see which cookies have been set and how to manage and delete them, please visit: www.allaboutcookies.org.
+
+At this time, our sites and applications do not respond to Do Not Track beacons sent by browser plugins.
+
+### Voluntary correspondence
+
+When you write Basecamp with a question or to ask for help, we keep that correspondence, including the email address, so that we have a history of past correspondences to reference if you reach out in the future.
+
+We also store any information you volunteer like surveys. Sometimes when we do customer interviews, we may ask for your permission to record the conversation for future reference or use. We only do so if you give your express consent.
 
 The only times we’ll ever share your info:
 
