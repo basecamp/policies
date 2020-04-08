@@ -85,7 +85,7 @@ At Basecamp, we apply the same data rights to all customers, regardless of their
 Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [privacy@basecamp.com](mailto:privacy@basecamp.com) or at Basecamp, LLC, 30 North Racine Avenue, Suite 200, Chicago, IL 60607 USA.
 
 
-## Security & Encryption
+## How we secure your data
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Most data are not encrypted while they live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest.
 
