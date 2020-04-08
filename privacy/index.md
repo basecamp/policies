@@ -69,18 +69,20 @@ If Basecamp, LLC is acquired by or merged with another company — we don’t pl
 
 ## Your Rights With Respect to Your Information
 
-You may have heard about the General Data Protection Regulation (“GDPR”) in Europe. GDPR gives people under its protection certain rights with respect to their personal information collected by us on the Site. Accordingly, Basecamp recognizes and will comply with GDPR and those rights, except as limited by applicable law. The rights under GDPR include:
+At Basecamp, we apply the same data rights to all customers, regardless of their location. Currently some of the most privacy-forward regulations in place are the European Union’s General Data Protection Regulation (“GDPR”) and California Consumer Privacy Act (“CCPA”) in the US. Basecamp recognizes all of the rights granted in these regulations, except as limited by applicable law. These rights include:
 
+* **Right to Know.** You have the right to know what personal information is collected, used, shared or sold. We outline both the categories and specific bits of data we collect, as well as how they are used, in this privacy policy.
 * **Right of Access.** This includes your right to access the personal information we gather about you, and your right to obtain information about the sharing, storage, security and processing of that information.
-* **Right to Correction.** This is your right to request correction of your personal information.
-* **Right to Erasure.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession (also known as the “Right to be forgotten”).  However, if applicable law requires us to comply with your request to delete your information, fulfillment of your request may prevent you from using Basecamp services and may result in closing your account.
+* **Right to Correction.** You have the right to request correction of your personal information.
+* **Right to Erasure / “To be Forgotten”.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, all of our service providers. Fulfillment of some data deletion requests may prevent you from using Basecamp services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
 * **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority.
-* **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed.
-* **Right to Object.** This is your right, in certain situations, to object to how or why your personal information is processed.
-* **Right to Portability.** This is your right to receive the personal information we have about you and the right to transmit it to another party.
-* **Right to not be subject to Automated Decision-Making.** This is your right to object and prevent any decision that could have a legal, or similarly significant, effect on you from being made solely based on automated processes. This right is limited, however, if the decision is necessary for performance of any contract between you and us, is allowed by applicable European law, or is based on your explicit consent.
+* **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of personal information. (Again: we never have and never will sell your personal data).
+* **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
+* **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party.
+* **Right to not be subject to Automated Decision-Making.** You have the right to object and prevent any decision that could have a legal, or similarly significant, effect on you from being made solely based on automated processes. This right is limited, however, if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
+* **Right to Non-Discrimination.** This right stems from the CCPA. We do and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights (such as the right “to be forgotten”) may, by virtue of your exercising those rights, prevent you from using our Services.
 
-Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [privacy@basecamp.com](mailto:privacy@basecamp.com).
+Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [privacy@basecamp.com](mailto:privacy@basecamp.com) or at Basecamp, LLC, 30 North Racine Avenue, Suite 200, Chicago, IL 60607 USA.
 
 
 ## Security & Encryption
