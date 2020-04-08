@@ -35,8 +35,8 @@ Basecamp uses third party subprocessors, such as cloud computing providers and c
 
 You can see which subprocessors we use by application:
 
-* [Basecamp subprocessors](../subprocessors/basecamp/index.md)
-* [HEY subprocessors](../subprocessors/hey/index.md)
-* [Highrise subprocessors](../subprocessors/highrise/index.md)
-* [Campfire subprocessors](../subprocessors/campfire/index.md)
-* [Backpack subprocessors](../subprocessors/backpack/index.md)
+* [Basecamp subprocessors](../basecamp-subprocessors/index.md)
+* [HEY subprocessors](../hey-subprocessors/index.md)
+* [Highrise subprocessors](../highrise-subprocessors/index.md)
+* [Campfire subprocessors](../campfire-subprocessors/index.md)
+* [Backpack subprocessors](../backpack-subprocessors/index.md)

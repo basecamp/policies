@@ -59,7 +59,7 @@ We can access your data for the following reasons:
   1. To help you with support requests you make. We'll ask for express consent before accessing your account.
   2. To safeguard Basecamp. We'll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
   3. To the extent required by applicable law.
-5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all subprocessors who handle personal data for our Services.
+5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all subprocessors who handle personal data for [Basecamp](../privacy/basecamp-subprocessors/index.md), [HEY](../privacy/hey-subprocessors/index.md), [Highrise](../privacy/highrisehq-subprocessors/index.md), [Campfire](../privacy/campfire-subprocessors/index.md), and [Backpack](../privacy/backpack-subprocessors/index.md).
 
 ## Copyright and Content Ownership
 
