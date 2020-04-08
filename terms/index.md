@@ -49,6 +49,18 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 1. We make a promise to our customers to support our Services [until the end of the Internet](../until-the-end-of-the-internet/index.md). That means when it comes to security, privacy, and customer support, we will continue to maintain any legacy Services. Sometimes it becomes technically impossible to continue a feature or we redesign a part of our Services because we think it could be better or we decide to close new signups of a product. We reserve the right at any time to modify or discontinue, temporarily or permanently, any part of our Services with or without notice.
 2. Sometimes we change the pricing structure for our products. When we do that, we tend to exempt existing customers from those changes. However, we may choose to change the prices for existing customers. If we do so, we will give at least 30 days notice and will notify you via the email address on record. We may also post a notice about changes on our websites or the affected Services themselves.
 
+## Uptime, Security, and Privacy
+
+1. Your use of the Services is at your sole risk. We provide these Services on an “as is” and “as available” basis. We do not offer service-level agreements for most of our Services — here’s [the one exception](https://basecamp.com/about/policies/sla) — but do take uptime of our applications seriously. Visit https://www.basecampstatus.com/ to see the status of our Services.
+2. We reserve the right to temporarily disable your account if your usage significantly exceeds the average usage of other customeres of the Services. Of course, we'll reach out to the account owner before taking any action except in rare cases where the level of use may negatively impact the performance of the Service for other customers.
+3. We take many measures to protect and secure your data through backups, redundancies, and encryption. We enforce encryption for data transmission from the public Internet. There are some edge cases where we may send your data through our network unencrypted. Please refer to our [Security Overview](../security/index.md) for full details.
+4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Basecamp may process your data as described in our Privacy Policy  and for no other purpose.
+We can access your data for the following reasons:
+  1. To help you with support requests you make. We'll ask for express consent before accessing your account.
+  2. To safeguard Basecamp. We'll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
+  3. To the extent required by applicable law.
+5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all subprocessors who handle personal data for our Services.
+
 ## Copyright and Content Ownership
 
 1. All content posted on the Service must comply with U.S. copyright law.
@@ -67,15 +79,12 @@ Some third-party providers have created integrations between our Services and th
 
 ## General Conditions
 
-1. Your use of the Service is at your sole risk. The service is provided on an “as is” and “as available” basis.
 2. Technical support is only provided via email.
 3. You understand that the Company uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service.
 4. You must not modify, adapt or hack the Service.
 5. You must not modify another website so as to falsely imply that it is associated with the Service or the Company.
 6. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without the express written permission by the Company.
 7. We may, but have no obligation to, remove content and accounts that we determine in our sole discretion are unlawful or violates any party’s intellectual property or these Terms of Service.
-9. You understand that the technical processing and transmission of the Service, including your content, may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
-10. We reserve the right to temporarily disable your account if your usage significantly exceeds the average usage of other Service customers. Of course, we'll reach out to the account owner before taking any action except in rare cases where the level of use may negatively impact the performance of the Service for other customers.
 11. The Company does not warrant that (i) the service will meet your specific requirements, (ii) the service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the service will meet your expectations, and (v) any errors in the Service will be corrected.
 12. You expressly understand and agree that the Company shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if the Company has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the service; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the service; (v) or any other matter relating to the service.
 13. The failure of the Company to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and the Company and govern your use of the Service, superceding any prior agreements between you and the Company (including, but not limited to, any prior versions of the Terms of Service).
