@@ -21,7 +21,7 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 
 ## Account Terms
 
-1. You are responsible for maintaining the security of your account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+1. You are responsible for maintaining the security of your account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. We recommend users set up [two-factor authentication](https://m.signalvnoise.com/basecamp-no-longer-requires-google-for-two-factor-authentication/) for added security. In some of our Services, we may require it.
 2. You are responsible for all content posted and activity that occurs under your account (even when content is posted by others who have their own logins under your account).
 3. You may not use the Service for any illegal purpose or to violate any laws in your jurisdiction (including but not limited to copyright laws).
 4. You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process.
