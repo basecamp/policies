@@ -1,10 +1,23 @@
+---
+title: Terms of Service
+description: All the terms that you agree to when you sign up for a Basecamp product.
+---
+
 # Basecamp Terms of Service
 
-By using the Basecamp ("Service"), you are agreeing to be bound by the following terms and conditions ("Terms of Service").
+*Last updated: April 8, 2020*
 
-Basecamp, LLC ("Company") reserves the right to update and change these Terms of Service without notice.
+From everyone at Basecamp, thank you for using our products! We build them to help you do your best work. There are millions of people using Basecamp products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
-Violation of any of the terms below may result in the termination of your account.
+When we say “Company”, “we”, “our”, or “us” in this document, we are referring to Basecamp, LLC. We spun off Highrise HQ, LLC in the past, but it has since rejoined Basecamp, LLC.
+
+When we say “Services”, we mean any product created and maintained by Basecamp, LLC. That includes Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard, whether delivered within a web browser, desktop application, mobile application, or another format.
+
+We may update these Terms of Service in the future. You can track all changes made since mid-2018 [on Github](https://github.com/basecamp/policies/commits/master). Typically these changes have been to clarify some of these terms by linking to an expanded related policy. Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://m.signalvnoise.com/).
+
+When you use our Services, now or in the future, you are agreeing to the latest Terms of Service. That's true for any of our existing and future products and all features that we add to our Services over time. There may be times where we do not exercise or enforce any right or provision of the Terms of Service; in doing so, we are not waiving that right or provision. **These terms do contain a limitation of our liability.**
+
+If you violate of any of the terms, we may terminate your account. That's a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://basecamp.com/about/team), [how we work](https://basecamp.com/handbook), and keeping an open door to [your feedback]({{ email_support }}).
 
 ## Account Terms
 
