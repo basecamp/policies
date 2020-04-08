@@ -49,6 +49,13 @@ When you write Basecamp with a question or to ask for help, we keep that corresp
 
 We also store any information you volunteer like surveys. Sometimes when we do customer interviews, we may ask for your permission to record the conversation for future reference or use. We only do so if you give your express consent.
 
+### Information we do not collect
+
+We don’t collect any characteristics of protected classifications including age, race, gender, religion, sexual orientation, gender identity, or gender expression. You may provide these data voluntarily, such as if you include a pronoun preference in your email signature when writing into our Support team.
+
+We also do not collect any biometric data. You are given the option to add a picture to your user profile, which could be a real picture of you or a picture of something else like your spirit animal. We do not extract any information from profile pictures: they are for your use alone.
+
+
 The only times we’ll ever share your info:
 
 * To provide products or services you've requested, with your permission. [List of third-party services we use](privacy/subprocessors.md).
