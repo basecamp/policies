@@ -89,7 +89,7 @@ Many of these rights can be exercised by signing in and directly updating your a
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Most data are not encrypted while they live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest.
 
-For more information about how we keep your information secure, please review our [security overview](security/index.md).
+For more information about how we keep your information secure, please review our [security overview](../security/index.md).
 
 
 ## When you delete data in your product accounts
