@@ -23,4 +23,4 @@ Bad refund policies are infuriating. You feel like the company is just trying to
 
 At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note]({{ site.email_support }}), tell us what's up, and we'll work with you to make sure you’re happy.
 
-**This policy applies to any product created and owned by Basecamp, LLC. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List. There are some nuances with HEY because its subscriptions are on an annual basis only. For more details, please visit [hey.com/policies/refund/hey](hey/index.md).*
+**This policy applies to any product created and owned by Basecamp, LLC. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List. There are [some nuances with HEY](hey/index.md) because its subscriptions are on an annual basis only.**
