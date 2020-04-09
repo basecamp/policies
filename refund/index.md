@@ -10,7 +10,7 @@ Bad refund policies are infuriating. You feel like the company is just trying to
 ## Examples of full refunds we’d grant.
 
 * If you were just charged for your next month of service but you meant to cancel, we’re happy to refund that extra charge.
-* If you forgot to cancel your account a couple months ago and you haven’t used Basecamp since then, we’ll give you a full refund for a few back months. No problem.
+* If you forgot to cancel your account a couple months ago and you haven’t used it since then, we’ll give you a full refund for a few back months. No problem.
 * If you tried one of our products for a couple months and you just weren’t happy with it, you can have your money back.
 
 ## Examples of partial refunds or credits we’d grant.
