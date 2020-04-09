@@ -11,7 +11,7 @@ The data privacy regulatory landscape is undergoing a lot of change. You probabl
 
 You can find our [Privacy policy](../index.md) here.
 
-- We are in compliance with the [GDPR]((https://gdpr.eu/)). We participate in the EU-US and Swiss-US Privacy Shield Framework to safeguard the transfer of personal data to the US.
+- We are in compliance with the [GDPR](https://gdpr.eu/). We participate in the EU-US and Swiss-US Privacy Shield Framework to safeguard the transfer of personal data to the US.
 - We are in the process of ensuring compliance with the [California Consumer Privacy Act](https://www.oag.ca.gov/privacy/ccpa) (CCPA) and have expanded your rights in our privacy policy accordingly.
 - We are also watching and preparing for other legislation in the US and in other countries.
 
