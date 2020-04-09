@@ -1,9 +1,9 @@
 ---
-title: Basecamp security overview
-description: Keeping customer data safe and secure is a huge responsibility and a top priority for Basecamp. Here's how we make it happen.
+title: Security overview
+description: Keeping customer data safe and secure is a huge responsibility and a top priority for us. Here's how we make it happen.
 ---
 
-# Basecamp security overview.
+# Security overview.
 
 ## We protect your data.
 
