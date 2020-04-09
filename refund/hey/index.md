@@ -1,13 +1,9 @@
 ---
 title: Refund policy
-description: "Bad refund policies are infuriating. We never want our customers to feel that way, so our refund policy is simple: If you’re ever unhappy with our products for any reason, we’ll take care of you."
+description: "Learn about how and when we offer refunds for HEY."
 ---
 
-# A fair refund policy.
-
-Bad refund policies are infuriating. You feel like the company is just trying to rip you off. We never want our customers to feel that way, so our refund policy is simple: If you’re ever unhappy with our products* for any reason, just contact [our support team]({{ site.email_support }}) and we’ll take care of you.
-
-## HEY, please explain more
+# A fair refund policy
 
 With HEY, we sell subscriptions on an annual basis only. If you cancel HEY, we make sure you aren’t charged in the future but your service subscription will remain in place until the end of that paid year. That gives you time to migrate to a new provider, change any logins that use your HEY email address, etc.
 
