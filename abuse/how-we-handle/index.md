@@ -5,7 +5,7 @@ description: Guiding principles and process for investigating abuse reports
 
 # How we handle abusive usage
 
-*Last updated: April DD, 2020*
+*Last updated: April 13, 2020*
 
 We build our products* to give teams a better way to work. We are proud of that purpose and trust that our customers use our products for appropriate endeavors.
 

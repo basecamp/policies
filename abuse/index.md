@@ -5,7 +5,7 @@ description: It is not okay to use Basecamp products for these restricted purpos
 
 # Use Restrictions
 
-*Last updated: April 8, 2020*
+*Last updated: April 13, 2020*
 
 Hundreds of thousands of teams use Basecamp products*. We are proud to give them a better way to work. We also recognize that technology is an amplifier: it can enable the helpful and the harmful. That’s why we’ve established this policy. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, [we will take action](how-we-handle/index.md).
 
