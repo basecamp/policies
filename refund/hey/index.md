@@ -3,11 +3,9 @@ title: Refund policy
 description: "Bad refund policies are infuriating. We never want our customers to feel that way, so our refund policy is simple: If you’re ever unhappy with our products for any reason, we’ll take care of you."
 ---
 
-[support]: https://hey.com/support
-
 # A fair refund policy.
 
-Bad refund policies are infuriating. You feel like the company is just trying to rip you off. We never want our customers to feel that way, so our refund policy is simple: If you’re ever unhappy with our products* for any reason, just contact [our support team][support] and we’ll take care of you.
+Bad refund policies are infuriating. You feel like the company is just trying to rip you off. We never want our customers to feel that way, so our refund policy is simple: If you’re ever unhappy with our products* for any reason, just contact [our support team]({{ site.email_support }}) and we’ll take care of you.
 
 ## HEY, please explain more
 
@@ -23,4 +21,4 @@ We’ll also consider giving credits for future cycles if something goes wrong o
 
 ## Get in touch
 
-At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note][support], tell us what’s up, and we’ll work with you to make sure you’re happy.
+At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note]({{ site.email_support }}), tell us what’s up, and we’ll work with you to make sure you’re happy.
