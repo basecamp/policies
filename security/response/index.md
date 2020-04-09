@@ -11,7 +11,7 @@ Keeping customer data safe and secure is a huge responsibility and a top priorit
 
 ## Reporting security problems
 
-Send urgent or sensitive reports directly to [security@basecamp.com]({{ site.email_security }}). Use [our public key][../Basecamp-security.pub] to keep your message safe and please provide us with a secure way to respond. We’ll get back to you as soon as we can, usually within 24 hours. Please follow up or [ping us on Twitter](https://twitter.com/basecamp) if you don’t hear back. **For requests that aren’t urgent or sensitive**: submit a [support request][{{ site.email_support }}].
+Send urgent or sensitive reports directly to [security@basecamp.com]({{ site.email_security }}). Use [our public key](../Basecamp-security.pub) to keep your message safe and please provide us with a secure way to respond. We’ll get back to you as soon as we can, usually within 24 hours. Please follow up or [ping us on Twitter](https://twitter.com/basecamp) if you don’t hear back. **For requests that aren’t urgent or sensitive**: submit a [support request][{{ site.email_support }}].
 
 ## Tracking and disclosing security issues
 
