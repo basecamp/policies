@@ -40,7 +40,7 @@ We respect the time and talent that drives new discoveries in web security techn
 * [Nathan Kontny](http://n8.tumblr.com)
 * [nGenuity Information Services](http://www.ngenuity-is.com)
 * [ONZRA](http://www.onzra.com)
-* []Óscar Repáraz](http://www.reparaz.net)
+* [Óscar Repáraz](http://www.reparaz.net)
 * [Rakan Alotaibi @hxteam](https://twitter.com/hxteam)
 * [Simon Brown](http://www.isimonbrown.co.uk)
 * [Tim Bach](https://twitter.com/tbach0729)
@@ -76,7 +76,7 @@ We respect the time and talent that drives new discoveries in web security techn
 * [Nitin Goplani](https://www.linkedin.com/in/nitingoplani)
 * [Sahil Saif](https://twitter.com/bewithsahilsaif)
 * [Rafael Pablos](http://silverneox.blogspot.com)
-* [Nutan Kumar Panda]
+* Nutan Kumar Panda
 * [Koutrouss Naddara](https://www.facebook.com/superbade)
 * [Gurjant Singh](https://twitter.com/GurjantSadhra)
 * [Mayank Kapoor](https://twitter.com/wHys0SerI0s)
