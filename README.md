@@ -1,21 +1,30 @@
+---
+title: 'Basecamp Policies and Terms of Service'
+description: 'All the policies and legal stuff for Basecamp customers. We try to make all our policies as clear, fair, and readable as possible.'
+---
+
 # Basecamp Policies, Terms, and Legal Stuff
 
 The rough print and the fine print. We try to make all our policies as clear, fair, and readable as possible.
 
-* [Terms of Service](terms.md)
-* [Privacy policy](privacy/privacy-policy.md)
-* [General Data Protection Regulation (GDPR)](privacy/gdpr.md)
-* [EU-US and Swiss-US Privacy Shield policy](privacy/privacy-shield.md)
-* [Refund policy](refund.md)
-* [Cancellation policy](cancellation.md)
-* [Copyright policy](copyright.md)
-* [Security overview](security/overview.md)
-* [Security vulnerability response](security/vulnerability-response.md)
-* [Until the End of the Internet](until-the-end-of-the-internet.md)
-* [U.S. local and state taxes](taxes.md)
-* Account ownership information for [Basecamp 2](https://2.basecamp-help.com/article/411-account-ownership) and [Basecamp 3](ownership.md)
-* [Service Level Agreement (SLA) for Basecamp Big](sla.md)
+* [Terms of Service](terms/index.md)
+* [Privacy policy](privacy/index.md)
+* [Privacy Regulations reference](privacy/regulations/index.md)
+* [Cancellation policy](cancellation/index.md)
+* [Refund policy](refund/index.md)
+* [Use Restrictions policy](abuse/index.md)
+* [Security overview](security/index.md)
+* [Until the End of the Internet](until-the-end-of-the-internet/index.md)
+* [U.S. local and state taxes](taxes/index.md)
+* Account ownership information for [Basecamp 2](https://2.basecamp-help.com/article/411-account-ownership) and [Basecamp 3](ownership-bc3/index.md)
+* [Service Level Agreement (SLA) for Basecamp Big](sla/index.md)
 
+
+## A Note About the Email Addresses
+
+If you try to click on any of the Support links in this repository, you'll get a 404 page. Don't despair! You can always reach us at support@basecamp.com. Highrise customers can also email support@highrisehq.com and HEY users can reach out to support@hey.com. Your emails all go to our same [friendly Support team](https://basecamp.com/support).
+
+So how come the links don't work in this repository? The short answer is: we made a technical tradeoff. The long answer is, we copy the policies in this repository to our product marketing sites. To make it easier to transfer, we are now using relative links, [this Jekyll plugin](https://github.com/benbalter/jekyll-relative-links) to convert Markdown links to a valid web URL, and some [Liquid](https://shopify.github.io/liquid/) variables.
 
 ## Public Contributions Welcome
 
