@@ -9,7 +9,7 @@ The data privacy regulatory landscape is undergoing a lot of change. You probabl
 
 ## Are Basecamp products in compliance?
 
-You can find our [Privacy policy](../index.md) here.
+First things first, you should view our full [Privacy policy](../index.md).
 
 - We are in compliance with the [GDPR](https://gdpr.eu/). We participate in the EU-US and Swiss-US Privacy Shield Framework to safeguard the transfer of personal data to the US.
 - We are in the process of ensuring compliance with the [California Consumer Privacy Act](https://www.oag.ca.gov/privacy/ccpa) (CCPA) and have expanded your rights in our privacy policy accordingly.
@@ -25,7 +25,7 @@ Increasingly, privacy regulations require processing of personal data be governe
 
 We provide a standard [Data Processing Addendum](https://app.hellosign.com/s/c0908a3d) (DPA) that is [GDPR-compliant](https://gdpr-info.eu/art-28-gdpr/) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. If you use our products to process any EU personal data, you need to enter into GDPR-compliant data processing agreements with any online services and third party vendors you rely on, including Basecamp, LLC.
 
-**✍️ [Sign the DPA online here](https://app.hellosign.com/s/c0908a3d).**
+**✍️ [Sign the DPA online](https://app.hellosign.com/s/c0908a3d).**
 
 Basecamp participates in the [EU-US and Swiss-US Privacy Shield Framework](https://www.privacyshield.gov/participant?id=a2zt0000000TP1OAAW&status=Active) to safeguard the transfer of personal data to the US, meeting the GDPR requirement for adequate data protection laws.
 
@@ -33,7 +33,7 @@ Basecamp participates in the [EU-US and Swiss-US Privacy Shield Framework](https
 
 Basecamp uses third party subprocessors, such as cloud computing providers and customer support software, to provide our services. We enter into GDPR-compliant data processing agreements with each subprocessor, and require the same of them.
 
-You can see which subprocessors we use by application:
+You can see which subprocessors we use by application by viewing the following linked lists:
 
 * [Basecamp subprocessors](../basecamp-subprocessors/index.md)
 * [HEY subprocessors](../hey-subprocessors/index.md)
