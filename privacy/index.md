@@ -29,7 +29,7 @@ We log all access to all accounts by full IP address so that we can always verif
 
 We also log full IP addresses used to sign up a product account. We keep this record forever because they are used to mitigate spammy signups.
 
-Web analytics data — described further below — are also tied temporarily to IP addresses to assist with troubleshooting cases. We blind all web analytics data after 30 days.
+Web analytics data — described further in the Website Interactions section — are also tied temporarily to IP addresses to assist with troubleshooting cases. We blind all web analytics data after 30 days.
 
 ### Website interactions
 
@@ -122,7 +122,7 @@ In compliance with the EU-US and Swiss-US Privacy Shield Principles, we commit t
 
 Basecamp (the company) has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/programs/bbb-privacy-shield/eu-dispute-resolution](https://bbbprograms.org/programs/bbb-privacy-shield/eu-dispute-resolution) for more information and to file a complaint. This service is provided at no cost to you. Please do not submit GDPR complaints to BBB EU Privacy Shield.
 
-If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. To learn more, please view the Privacy Shield Annex 1 at [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
+If your Privacy Shield complaint cannot be resolved through these described channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. To learn more, please view the Privacy Shield Annex 1 at [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
 ## Location of Site and Data
 
