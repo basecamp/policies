@@ -5,7 +5,7 @@ description: All the terms that you agree to when you sign up for a Basecamp pro
 
 # Terms of Service
 
-*Last updated: April 24, 2020*
+*Last updated: May 4, 2020*
 
 From everyone at Basecamp, thank you for using our products! We build them to help you do your best work. There are millions of people using Basecamp products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
@@ -64,7 +64,7 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 1. All content posted on the Services must comply with U.S. copyright law. We provide details on [how to file a copyright infringement claim](../copyright/index.md).
 2. We claim no intellectual property rights over the material you provide to the Services. All materials uploaded remain yours.
 3. We do not pre-screen content, but reserve the right (but not the obligation) in our sole discretion to refuse or remove any content that is available via the Service.
-4. The names, look, and feel of the Services are copyright© to the Company. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company.
+4. The names, look, and feel of the Services are copyright© to the Company. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company. You must request permission to use the Company's logo or any Service logos for promotional purposes. Please [email us]({{ site.email_support }}) requests to use logos. We reserve the right to rescind this permission if you violate these Terms of Service.
 5. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Services, use of the Services, or access to the Services without the express written permission by the Company.
 6. You must not modify another website so as to falsely imply that it is associated with the Services or the Company.
 
@@ -79,7 +79,8 @@ We also test all of our features extensively before shipping them. As with any s
 We offer Application Program Interfaces ("API"s) for some of our Services (currently Basecamp, Highrise, Campfire, and Backpack). Any use of the API, including through a third-party product that accesses the Services, is bound by the terms of this agreement plus the following specific terms:
 
 1. You expressly understand and agree that we are not liable for any damages or losses resulting from your use of the API or third-party products that access data via the API.
-2. Abuse or excessively frequent requests to the Services via the API may result in the temporary or permanent suspension of your account's access to the API. The Company, in its sole discretion, will determine abuse or excessive usage of the API. If we need to suspend your account's access, we will attempt to warn the account owner first. If your API usage could or has caused downtime, we may cut off access without prior notice.
+2. Third parties may not access and employ the API if the functionality is part of an application that remotely records, monitors, or reports a Service user's activity other *than time tracking*, both inside and outside the applications. The Company, in its sole discretion, will determine if an integration service violates this bylaw. A third party that has built and deployed an integration for the purpose of remote user surveillance will be required to remove that integration.
+3. Abuse or excessively frequent requests to the Services via the API may result in the temporary or permanent suspension of your account's access to the API. The Company, in its sole discretion, will determine abuse or excessive usage of the API. If we need to suspend your account's access, we will attempt to warn the account owner first. If your API usage could or has caused downtime, we may cut off access without prior notice.
 
 Some third-party providers have created integrations between our Services and theirs. You can find some of those integrations for Basecamp at https://basecamp.com/extras and for Highrise at https://highrisehq.com/extras/. We are not liable or accountable for any of these third-party integrations.
 
