@@ -5,7 +5,7 @@ description: We are required to collect and remit sales tax in a number of US st
 
 # Taxes!
 
-We are required to collect and remit sales tax in a number of US states and localities. Not all states tax the sale of software as a service (SaaS), but it’s becoming increasingly common. If your state or city is on the list below, you’ll see a line item on your monthly invoice for sales tax. The rate being collected on your invoice is determined by your billing address. As regulations change, we will update this list.
+We are required to collect and remit sales tax in a number of US states and localities. Not all states tax the sale of software as a service (SaaS), but it’s becoming increasingly common. If your state or city is on the list below, you’ll see a line item on your monthly invoice for sales tax. The rate being collected on your invoice is determined by your billing address and, in certain jurisdictions, whether you are using our products for business/commercial or personal purposes. As regulations change, we will update this list.
 
 ## Jurisdictions we collect and remit taxes for
 You’ll see sales tax on your invoice if you live in:
