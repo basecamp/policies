@@ -10,11 +10,13 @@ We are required to collect and remit sales tax in a number of US states and loca
 ## Jurisdictions we collect and remit taxes for
 You’ll see sales tax on your invoice if you live in:
 
+* Alaska (only [certain jurisdictions](https://arsstc.munirevs.com/show-page/?page=26) charge sales tax)
 * Arizona
 * Chicago (Illinois)
 * Connecticut
 * District of Columbia
 * Hawaii
+* Iowa
 * Massachusetts
 * New Mexico
 * Ohio
