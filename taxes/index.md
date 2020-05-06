@@ -42,7 +42,7 @@ If you need to change your billing information because you don’t actually resi
 Please [contact our Support team]({{ site.email_support }}) if you have trouble or if:
 
 * you believe you’re being charged in error.
-* your business is sales tax exempt. Include your tax exempt certificate and your product account ID or domain when you email Support. This information can typically be found in a URL when you are in the application:
+* your organization is sales tax exempt. Include your tax exempt certificate and your product account ID or domain when you email Support. If you are based in the US, please share your state-specific tax exempt documentation as not all US federal (IRS) exemptions are recognized by each state. Your account information can typically be found in a URL when you are in the application:
   * for HEY, just email us from your HEY account
   * basecamp.com/<span class="highlight">1234567</span>
   * <span class="highlight">domain</span>.basecamphq.com
