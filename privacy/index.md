@@ -5,11 +5,11 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: April 14, 2020*
+*Last updated: May 7, 2020*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
-This policy applies to all products build and maintained by Basecamp LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard.
+This policy applies to all products built and maintained by Basecamp LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard.
 
 ## What we collect and why
 
@@ -29,7 +29,7 @@ We log all access to all accounts by full IP address so that we can always verif
 
 We also log full IP addresses used to sign up a product account. We keep this record forever because they are used to mitigate spammy signups.
 
-Web analytics data — described further below — are also tied temporarily to IP addresses to assist with troubleshooting cases. We blind all web analytics data after 30 days.
+Web analytics data — described further in the Website Interactions section — are also tied temporarily to IP addresses to assist with troubleshooting cases. We blind all web analytics data after 30 days.
 
 ### Website interactions
 
@@ -39,7 +39,7 @@ Historically — including within the last 12 months — we have used third-part
 
 ### Cookies and Do Not Track
 
-We do use persistent first-party cookies to store certain preferences, make it easier for you to use our applications, and support some in-house analytics. A cookie is a piece of text stored by your browser to help it remember your login information, site preferences, and more. You can adjust cookie retention settings in your own browser. To learn more about cookies, including how to see which cookies have been set and how to manage and delete them, please visit: [www.allaboutcookies.org](https://www.allaboutcookies.org).
+We do use persistent first-party cookies to store certain preferences, make it easier for you to use our applications, and support some in-house analytics. A cookie is a piece of text stored by your browser to help it remember your login information, site preferences, and more. You can adjust cookie retention settings in your own browser. To learn more about cookies, including how to view which cookies have been set and how to manage and delete them, please visit: [www.allaboutcookies.org](https://www.allaboutcookies.org).
 
 At this time, our sites and applications do not respond to Do Not Track beacons sent by browser plugins.
 
@@ -59,13 +59,16 @@ We also do not collect any biometric data. You are given the option to add a pic
 
 Our default practice is to not access your information. The only times we’ll ever access or share your info are:
 
-* **To provide products or services you've requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can see the list of third-party services we use in each product: [Basecamp](basecamp-subprocessors/index.md), [HEY](hey-subprocessors/index.md), [Highrise](highrise-subprocessors/index.md), [Campfire](campfire-subprocessors/index.md), [Backpack](backpack-subprocessors/index.md). Having subprocessors means we are using technology to access your data. No Basecamp human looks at your data for these purposes.
+* **To provide products or services you've requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use in each product: [Basecamp](basecamp-subprocessors/index.md), [HEY](hey-subprocessors/index.md), [Highrise](highrise-subprocessors/index.md), [Campfire](campfire-subprocessors/index.md), [Backpack](backpack-subprocessors/index.md). Having subprocessors means we are using technology to access your data. No Basecamp human looks at your data for these purposes.
 * **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your account to help you with a Support case, we will ask for your consent before proceeding.
 * **To investigate, prevent, or take action regarding [restricted uses](../abuse/index.md).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We have an obligation to protect the privacy and safety of both our customers and the people reporting issues to us. We do our best to balance those responsibilities throughout the process. If we do discover you are using our products for a restricted purpose, we will report the incident to the appropriate authorities.
 * **When required under applicable law.** If the appropriate law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. ***We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order.***
 
 If Basecamp, LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
+## Location of Site and Data
+
+Our products and other web properties are operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
 ## Your Rights With Respect to Your Information
 
@@ -122,15 +125,10 @@ In compliance with the EU-US and Swiss-US Privacy Shield Principles, we commit t
 
 Basecamp (the company) has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/programs/bbb-privacy-shield/eu-dispute-resolution](https://bbbprograms.org/programs/bbb-privacy-shield/eu-dispute-resolution) for more information and to file a complaint. This service is provided at no cost to you. Please do not submit GDPR complaints to BBB EU Privacy Shield.
 
-If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. To learn more, please see the Privacy Shield Annex 1 at [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
-
-## Location of Site and Data
-
-Our products and other web properties are operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
-
+If your Privacy Shield complaint cannot be resolved through these described channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. To learn more, please view the Privacy Shield Annex 1 at [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
 ## Changes & questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can see a history of the changes to our policies since mid-2018 [on Github](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://m.signalvnoise.com/).
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since mid-2018 [on Github](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://m.signalvnoise.com/).
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@basecamp.com](mailto:privacy@basecamp.com) and we’ll be happy to answer them!
