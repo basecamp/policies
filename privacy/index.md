@@ -89,7 +89,7 @@ Many of these rights can be exercised by signing in and directly updating your a
 
 If you have questions about exercising these rights or need assistance, please contact us at [privacy@basecamp.com](mailto:privacy@basecamp.com) or at Basecamp, LLC, 30 North Racine Avenue, Suite 200, Chicago, IL 60607 USA. For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
 
-To identify your specific authority to file a complaint or find out more about GDPR, EU individuals should go to [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
+If you are in the EU, you can identify your specific authority to file a complaint or find out more about GDPR, at [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
 
 ## How we secure your data
