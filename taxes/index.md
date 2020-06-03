@@ -9,7 +9,7 @@ Taxes are an important part of functional society. Where software-as-a-service (
 
 ## Jurisdictions we collect and remit taxes for
 
-### within the US
+### Within the US
 We collect sales tax on all products from customers based in:
 
 * Alaska (only [certain jurisdictions](https://arsstc.munirevs.com/show-page/?page=26) charge sales tax)
@@ -34,7 +34,7 @@ We collect sales tax on all products from customers based in:
 
 Each US state has their own sales tax exemption rules. If your organization is tax-exempt, please share your *state-specific* tax exemption documentation with us. Because not all US federal exemptions are recognized by each state, an IRS tax exemption letter is not enough.
 
-### within the EU
+### Within the EU
 We collect VAT on any direct-to-consumer sales to EU-based customers. Most of our applications are business products but [HEY](https://hey.com/) is a consumer product. If you are a HEY customer with a VAT identification number, let us know and we will apply a reverse charge for VAT to your invoice.
 
 * Austria
