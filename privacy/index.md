@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: May 7, 2020*
+*Last updated: June 4, 2020*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -51,7 +51,7 @@ We also store any information you volunteer like surveys. Sometimes when we do c
 
 ### Information we do not collect
 
-We don’t collect any characteristics of protected classifications including age, race, gender, religion, sexual orientation, gender identity, or gender expression. You may provide these data voluntarily, such as if you include a pronoun preference in your email signature when writing into our Support team.
+We don’t collect any characteristics of protected classifications including age, race, gender, religion, sexual orientation, gender identity, gender expression, or physical and mental abilities or disabilities. You may provide these data voluntarily, such as if you include a pronoun preference in your email signature when writing into our Support team.
 
 We also do not collect any biometric data. You are given the option to add a picture to your user profile, which could be a real picture of you or a picture of something else that represents you best. We do not extract any information from profile pictures: they are for your use alone.
 
