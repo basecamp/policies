@@ -83,7 +83,7 @@ At Basecamp, we apply the same data rights to all customers, regardless of their
 * **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
 * **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party.
 * **Right to not be subject to Automated Decision-Making.** You have the right to object and prevent any decision that could have a legal, or similarly significant, effect on you from being made solely based on automated processes. This right is limited, however, if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
-* **Right to Non-Discrimination.** This right stems from the CCPA. We do and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights (such as the right “to be forgotten”) may, by virtue of your exercising those rights, prevent you from using our Services.
+* **Right to Non-Discrimination.** This right stems from the CCPA. We do not and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights (such as the right “to be forgotten”) may, by virtue of your exercising those rights, prevent you from using our Services.
 
 Many of these rights can be exercised by signing in and directly updating your account information.
 
