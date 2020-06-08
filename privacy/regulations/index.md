@@ -41,6 +41,8 @@ You can see which subprocessors we use by application by viewing the following l
 * [Campfire subprocessors](../campfire-subprocessors/index.md)
 * [Backpack subprocessors](../backpack-subprocessors/index.md)
 
+We also use other software as a company that are not part of providing our services but may collect your personal information for other purposes. You can view this list of processors in the following page: [Company processors](../company-processors/index.md)
+
 ## CCPA: our role as a service provider
 
 In the CCPA, there is an important distinction between what are referred to as “service providers”, “businesses”, and “third parties”. You can see how the regulation defines these words by visiting the California Attorney General’s website: https://www.oag.ca.gov/privacy/ccpa.

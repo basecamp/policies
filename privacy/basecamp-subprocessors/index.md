@@ -13,10 +13,8 @@ The following is a list of personal data subprocessors we use. These subprocesso
 * [Braintree](https://www.braintreepayments.com/legal/payment-services-agreement-us). Payment processing services.
 * [Customer.io](https://customer.io/gdpr.html). Transactional email service.
 * [Google Cloud Platform](https://cloud.google.com/security/gdpr/resource-center/). Cloud services provider.
-* [HelloSign](https://www.hellosign.com/trust/compliance/gdpr). Electronic signature service.
 * [Help Scout](https://www.helpscout.net/company/legal/gdpr/). Help desk software.
-* [Mailchimp](https://mailchimp.com/gdpr/). Email newsletter service.
+* [Mailchimp](https://mailchimp.com/gdpr/). Transactional email service.
 * [Sentry](https://blog.sentry.io/2018/03/14/gdpr-sentry-and-you). Error reporting software.
 * [TaxJar](https://support.taxjar.com/article/526-taxjar-security-and-privacy-questions). Sales tax calculation.
 * [Twilio](https://www.twilio.com/gdpr). Text messaging service.
-* [Wufoo](https://help.wufoo.com/articles/en_US/kb/wufoo-gdpr). Form/survey provider.
