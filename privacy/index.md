@@ -94,7 +94,7 @@ If you are in the EU, you can identify your specific authority to file a complai
 
 ## How we secure your data
 
-All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Most data are not encrypted while they live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest.
+All data is encrypted via SSL/TLS when transmitted from our servers to your browser. The database backups are also encrypted. Every field containing personal data is encrypted with its own key before being saved to our database and, finally, the disks storing the data are encrypted too. Our servers have to decrypt the data to send it when you need it, but but we go to great lengths to secure your data at rest.
 
 For more information about how we keep your information secure, please review our [security overview](../security/index.md).
 
