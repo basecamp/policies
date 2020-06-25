@@ -31,6 +31,14 @@ Our software infrastructure is updated regularly with the latest security patche
 
 All credit card transactions are processed using secure encryption—the same level of encryption used by leading banks. Card information is transmitted, stored, and processed securely on a <a href="https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard">PCI-Compliant network</a>.
 
+## Constant monitoring
+
+We have a team dedicated to maintaining your account’s security on our systems and monitoring tools we’ve set up to alert us to any nefarious activity against our domains. To date, we've _never_ had a data breach.
+
+We also audit internal data access. If a Basecamp employee wrongly accesses customer data, they will face penalties ranging from termination to prosecution. Again, to our knowledge, this hasn't happened.
+
+We have processes and defenses in place to keep our streak of 0 data breaches going. But in the unfortunate circumstances someone malicious does successfully mount an attack, we will immediately notify all affected customers.
+
 ## Over 20 years in business.
 
 We've been around the block and we've seen a lot of companies come and go. Security isn't just about technology, it's about trust. Since 1999, we've worked hard to earn the trust of over hundreds of thousands of companies world wide. We'll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at Basecamp.
