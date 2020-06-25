@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: June 8, 2020*
+*Last updated: June 24, 2020*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -21,7 +21,7 @@ When you sign up for a Basecamp product, we typically ask for identifying inform
 
 ### Billing information
 
-When you pay for a Basecamp product, we ask for your credit card and billing address. That's so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn't ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number and as-of billing address, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States, to detect fraudulent credit card transactions, and to print on your invoices.
+When you pay for a Basecamp product, we ask for your credit card and billing address. That’s so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn't ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number and as-of billing address, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States, to detect fraudulent credit card transactions, and to print on your invoices.
 
 ### Geolocation data
 
@@ -94,9 +94,11 @@ If you are in the EU, you can identify your specific authority to file a complai
 
 ## How we secure your data
 
-All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Most data are not encrypted while they live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest.
+All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted.
 
-For more information about how we keep your information secure, please review our [security overview](../security/index.md).
+For products except HEY, most data are not encrypted while they live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](../security/index.md).
+
+With HEY, the security overview still applies _and_ we’ve gone even further by encrypting the database at-work. Every field containing personal data is encrypted with its own key. The disks storing the data keys are encrypted as well. Our servers decrypt the data to send it to you when you need it. You can learn more about our approach towards security with HEY at [https://hey.com/security/](https://hey.com/security/).
 
 
 ## When you delete data in your product accounts
