@@ -31,9 +31,9 @@ Our software infrastructure is updated regularly with the latest security patche
 
 All credit card transactions are processed using secure encryption—the same level of encryption used by leading banks. Card information is transmitted, stored, and processed securely on a <a href="https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard">PCI-Compliant network</a>.
 
-## 20 years in business.
+## Over 20 years in business.
 
-We've been around the block and we've seen a lot of companies come and go. Security isn't just about technology, it's about trust. Over the past 20 years we've worked hard to earn the trust of over hundreds of thousands of companies world wide. We'll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at Basecamp.
+We've been around the block and we've seen a lot of companies come and go. Security isn't just about technology, it's about trust. Since 1999, we've worked hard to earn the trust of over hundreds of thousands of companies world wide. We'll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at Basecamp.
 
 ## Want to know more?
 
