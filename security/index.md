@@ -37,7 +37,7 @@ We've been around the block and we've seen a lot of companies come and go. Secur
 
 ## Want to know more?
 
-[Read our security whitepaper](Basecamp Security Overview.pdf) for additional details.
+[Read our security whitepaper](Basecamp Security Overview.pdf) for additional details. We take even further security steps with HEY. Go to [https://hey.com/security/](https://hey.com/security/) to learn more.
 
 ## Have a concern? Need to report an incident?
 
