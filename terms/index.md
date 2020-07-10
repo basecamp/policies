@@ -5,7 +5,7 @@ description: All the terms that you agree to when you sign up for a Basecamp pro
 
 # Terms of Service
 
-*Last updated: May 7, 2020*
+*Last updated: July 9, 2020*
 
 From everyone at Basecamp, thank you for using our products! We build them to help you do your best work. There are millions of people using Basecamp products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
@@ -51,7 +51,7 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 
 1. Your use of the Services is at your sole risk. We provide these Services on an “as is” and “as available” basis. We do not offer service-level agreements for most of our Services — here’s [the one exception](https://basecamp.com/about/policies/sla) — but do take uptime of our applications seriously. Visit [https://www.basecampstatus.com/](https://www.basecampstatus.com/) to see the status of our Services.
 2. We reserve the right to temporarily disable your account if your usage significantly exceeds the average usage of other customers of the Services. Of course, we'll reach out to the account owner before taking any action except in rare cases where the level of use may negatively impact the performance of the Service for other customers.
-3. We take many measures to protect and secure your data through backups, redundancies, and encryption. We enforce encryption for data transmission from the public Internet. There are some edge cases where we may send your data through our network unencrypted. Please refer to our [Security Overview](../security/index.md) for full details.
+3. We take many measures to protect and secure your data through backups, redundancies, and encryption. We enforce encryption for data transmission from the public Internet. There are some edge cases where we may send your data through our network unencrypted. Please refer to our [Security Overview](../security/index.md) for full details and our [Security Response page](../security/response/index.md) for how to report a security incident or threat.
 4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Basecamp may process your data as described in our [Privacy Policy](../privacy/index.md) and for no other purpose. We as humans can access your data for the following reasons:
   - To help you with support requests you make. We'll ask for express consent before accessing your account.
   - To safeguard Basecamp. We'll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
