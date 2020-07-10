@@ -5,7 +5,9 @@ description: We are required to collect and remit sales tax in a number of juris
 
 # Taxes!
 
-Taxes are an important part of functional society. Where software-as-a-service (SaaS) is taxable, we collect and remit consumption tax to governments at the local, state, and/or federal levels. If your billing address is in one of the following jurisdictions, you’ll see a line item on your invoice for sales tax or VAT. The tax rate and rules are determined by each jurisdiction and sometimes vary by whether you are using our products for business/commercial or personal purposes. As regulations change, we will update this list.
+Taxes are an important part of functional society. Where software-as-a-service (SaaS) is taxable, we collect and remit consumption tax to governments at the local, state, and/or federal levels. If your billing address is in one of the following jurisdictions, you’ll see an *additional* line item on your invoice for sales tax or VAT. The subscription prices on our product websites are all exclusive of sales tax and VAT.
+
+The tax rate and rules are determined by each jurisdiction and sometimes vary by whether you are using our products for business/commercial or personal purposes. As regulations change, we will update this list.
 
 ## Jurisdictions we collect and remit taxes for
 
