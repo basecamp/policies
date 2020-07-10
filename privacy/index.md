@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: July 9, 2020*
+*Last updated: July 10, 2020*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -59,12 +59,21 @@ We also do not collect any biometric data. You are given the option to add a pic
 
 Our default practice is to not access your information. The only times we’ll ever access or share your info are:
 
-* **To provide products or services you've requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use in each product: [Basecamp](basecamp-subprocessors/index.md), [HEY](hey-subprocessors/index.md), [Highrise](highrise-subprocessors/index.md), [Campfire](campfire-subprocessors/index.md), [Backpack](backpack-subprocessors/index.md). Having subprocessors means we are using technology to access your data. No Basecamp human looks at your data for these purposes. We also use some other processors for other business functions, which you can view: [Company processors](company-processors/index.md).
-* **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your account to help you with a Support case, we will ask for your consent before proceeding.
-* **To investigate, prevent, or take action regarding [restricted uses](../abuse/index.md).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We have an obligation to protect the privacy and safety of both our customers and the people reporting issues to us. We do our best to balance those responsibilities throughout the process. If we do discover you are using our products for a restricted purpose, we will report the incident to the appropriate authorities.
-* **When required under applicable law.** If the appropriate law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. ***We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order.***
+**To provide products or services you've requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use in each product: [Basecamp](basecamp-subprocessors/index.md), [HEY](hey-subprocessors/index.md), [Highrise](highrise-subprocessors/index.md), [Campfire](campfire-subprocessors/index.md), [Backpack](backpack-subprocessors/index.md). Having subprocessors means we are using technology to access your data. No Basecamp human looks at your data for these purposes. We also use some other processors for other business functions, which you can view: [Company processors](company-processors/index.md).
 
-If Basecamp, LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
+**To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your account to help you with a Support case, we will ask for your consent before proceeding.
+
+**To investigate, prevent, or take action regarding [restricted uses](../abuse/index.md).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We have an obligation to protect the privacy and safety of both our customers and the people reporting issues to us. We do our best to balance those responsibilities throughout the process. If we do discover you are using our products for a restricted purpose, we will report the incident to the appropriate authorities.
+
+**When required under applicable law.**
+
+Basecamp, LLC is a US company and all data infrastructure are located in the US.
+
+* If US law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside the US approaches Basecamp with a request, our default stance is to refuse unless the US government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement. ***We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order.***
+* Similarly, If Basecamp receives a request to preserve data, we refuse unless compelled by either the US Federal Stored Communications Act, 18 U.S.C. Section 2703(f) or a properly served US subpoena for civil matters. In both of these situations, we have to comply. In these situations, we notify affected customers as soon as possible unless we are legally prohibited from doing so. We do not share preserved data unless absolutely required under the Stored Communications Act. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we destroy any preserved copies we made of customer data once the preservation period lapses.
+* If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly by following these instructions for [HEY](https://hey.com/faqs/#if-i-don-t-like-hey-can-i-export-my-email-and-contacts), [Basecamp 3](https://3.basecamp-help.com/article/150-export-your-basecamp-data), [Basecamp 2](https://2.basecamp-help.com/article/247-exporting-account-data), [Basecamp Classic](https://help.basecamp.com/basecamp/questions/164-can-we-export-our-basecamp-classic-data), [Highrise](https://help.highrisehq.com/imports-exports/), [Campfire](https://help.basecamp.com/campfire/questions/482-can-i-export-my-data-out-of-campfire), and [Backpack](https://help.37signals.com/backpack/questions/255-can-i-export-my-data-out-of-backpack).
+
+Finally, if Basecamp, LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
 ## Location of Site and Data
 
