@@ -5,11 +5,12 @@ description: Everything you need to know about canceling your Basecamp product a
 
 # Cancellation policy
 
-*Last updated: April 13, 2020*
+*Last updated: July 13, 2020*
 
 We want satisfied customers, not hostages. That’s why we make it easy for you to cancel your account directly in all of our apps — no phone calls required, no questions asked.
 
 Account owners can follow these instructions to cancel in-app:
+* HEY: navigate to "Account & Billing" from the Me menu (top-right corner of the app) and select "Cancel your account".
 * [Basecamp 3](https://3.basecamp-help.com/article/156-cancel-your-basecamp-account)
 * [Basecamp 2](https://2.basecamp-help.com/article/243-canceling-and-pausing#cancel): billing liaisons may also cancel Basecamp 2 accounts
 * [Basecamp Classic](https://help.37signals.com/billing/questions/316-information-about-adjusting-your-plan-or-canceling-your-account#Basecamp)
