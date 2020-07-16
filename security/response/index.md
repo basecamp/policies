@@ -115,3 +115,4 @@ We respect the time and talent that drives new discoveries in web security techn
 * [Sumit Sahoo](https://www.facebook.com/54H00)
 * [Vishnu Prasanth G](https://www.linkedin.com/in/gvprasanth)
 * [Ashish Padelkar](https://twitter.com/ashish_padelkar)
+* [Hazim Aslam](https://twitter.com/hazimaslam)
