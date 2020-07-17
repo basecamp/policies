@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: July 10, 2020*
+*Last updated: July 17, 2020*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -116,10 +116,15 @@ In many of our applications, we give you the option to trash data. Anything you 
 
 We also delete your data after an account is cancelled. In this case, there is no period of data being kept in an accessible trash can so your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](../cancellation/index.md) for more details.
 
+## When transferring personal data from the EU
+
+The GDPR requires that any data transferred out of the EU must be treated with the same level of protection as EU privacy laws grant. The privacy laws of the United States generally do not meet that requirement. Therefore, we provide a standard Data Processing Addendum (DPA) that is [GDPR-compliant](https://gdpr-info.eu/art-28-gdpr/) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed.
+
+**✍️ [EU-based customers can sign the DPA online](https://app.hellosign.com/s/c0908a3d).**
 
 ## EU-US and Swiss-US Privacy Shield policy
 
-The GDPR requires that data transfer out of the EU must only happen to countries deemed as having adequate data protection laws. The United States generally doesn’t meet that requirement. [Privacy Shield](https://www.privacyshield.gov/) is an agreement between certain European jurisdictions and the United States that allows for the transfer of personal data from the EU to the US. Participation in the Privacy Shield program is voluntary.
+[Privacy Shield](https://www.privacyshield.gov/) is an agreement between certain European jurisdictions and the United States that allows for the transfer of personal data from the EU to the US. Participation in the Privacy Shield program is voluntary.
 
 ### We comply with the frameworks for EU, UK, and Swiss data that are transferred into the United States
 
