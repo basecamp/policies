@@ -12,7 +12,7 @@ The tax rate and rules are determined by each jurisdiction and sometimes vary by
 ## Jurisdictions we collect and remit taxes for
 
 ### Within the US
-We collect sales tax on all products from customers based in:
+We collect sales tax from customers based in:
 
 * Alaska (only [certain jurisdictions](https://arsstc.munirevs.com/show-page/?page=26) charge sales tax)
 * Arizona
@@ -23,6 +23,7 @@ We collect sales tax on all products from customers based in:
 * Iowa
 * Massachusetts
 * New Mexico
+* New York
 * Ohio
 * Pennsylvania
 * Rhode Island
