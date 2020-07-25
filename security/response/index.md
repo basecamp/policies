@@ -116,3 +116,5 @@ We respect the time and talent that drives new discoveries in web security techn
 * [Vishnu Prasanth G](https://www.linkedin.com/in/gvprasanth)
 * [Ashish Padelkar](https://twitter.com/ashish_padelkar)
 * [Hazim Aslam](https://twitter.com/hazimaslam)
+* [Bram Gagliardi (securibee)](https://securib.ee/)
+
