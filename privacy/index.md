@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: July 17, 2020*
+*Last updated: July 30, 2020*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -96,7 +96,7 @@ At Basecamp, we apply the same data rights to all customers, regardless of their
 
 Many of these rights can be exercised by signing in and directly updating your account information.
 
-If you have questions about exercising these rights or need assistance, please contact us at [privacy@basecamp.com](mailto:privacy@basecamp.com) or at Basecamp, LLC, 30 North Racine Avenue, Suite 200, Chicago, IL 60607 USA. For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
+If you have questions about exercising these rights or need assistance, please contact us at [privacy@basecamp.com](mailto:privacy@basecamp.com) or at Basecamp, LLC, 2045 W Grand Ave Ste B, PMB 53289, Chicago, IL 60612 USA. For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
 
 If you are in the EU, you can identify your specific authority to file a complaint or find out more about GDPR, at [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
@@ -134,14 +134,14 @@ Basecamp is subject to the investigatory and enforcement powers of the Federal T
 
 The Privacy Shield Frameworks uphold specific principles, many of which are already outlined in the section on Your Rights. For clarity, pursuant to the Privacy Shield Frameworks, the following principles apply to all EU, UK, and Swiss data that has been transferred into the United States:
 
-- Individuals have the right to access their personal data and to update, correct, and/or amend information that is incomplete. Individuals also have the right to request erasure of personal information that has been processed in violation of the principles. Individuals wishing to exercise these rights may do so by by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [privacy@basecamp.com](mailto:privacy@basecamp.com) or at Basecamp, LLC, 30 North Racine Avenue, Suite 200, Chicago, IL 60607 USA.
+- Individuals have the right to access their personal data and to update, correct, and/or amend information that is incomplete. Individuals also have the right to request erasure of personal information that has been processed in violation of the principles. Individuals wishing to exercise these rights may do so by by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [privacy@basecamp.com](mailto:privacy@basecamp.com) or at Basecamp, LLC, 2045 W Grand Ave Ste B, PMB 53289, Chicago, IL 60612 USA.
 - We remain liable for the onward transfer of personal data to third parties acting as our agents unless we can prove we were not a party to the events giving rise to the damages.
 -	We do not sell personal data nor do we permit it to be used for reasons other than those for which it was originally provided. If this practice should change in the future, we will update this policy accordingly and provide individuals with opt-out or opt-in choice as appropriate.
 -	We may be required to release personal data in response to lawful requests from public authorities including to meet national security and law enforcement requirements.
 
 ### We commit to resolving all complaints
 
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union, United Kingdom, or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Jeremy Daer at Basecamp at privacy@basecamp.com, or by mail at Basecamp, LLC, 30 North Racine Avenue, Suite 200, Chicago, IL 60607 USA.
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union, United Kingdom, or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Jeremy Daer at Basecamp at privacy@basecamp.com, or by mail at Basecamp, LLC, 2045 W Grand Ave Ste B, PMB 53289, Chicago, IL 60612 USA.
 
 Basecamp (the company) has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/privacy-shield-complaints/](https://bbbprograms.org/privacy-shield-complaints/) for more information and to file a complaint. This service is provided at no cost to you. Please do not submit GDPR complaints to BBB EU Privacy Shield.
 
