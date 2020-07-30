@@ -37,8 +37,8 @@ You can notify us of either copyright infringement claims or DCMA counter-notifi
 **By email**: [report@basecamp.com](mailto:report@basecamp.com)
 
 **By mail**: Basecamp, LLC
-30 North Racine Avenue, Suite 200
+2045 W Grand Ave Ste B, PMB 53289
 ATTN: David H. Hansson
-Chicago, Illinois 60607
+Chicago, IL 60612 USA
 
 **This policy and process applies to any product created and owned by Basecamp, LLC. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List.*
