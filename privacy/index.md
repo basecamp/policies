@@ -5,11 +5,11 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: July 30, 2020*
+*Last updated: August 5, 2020*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
-This policy applies to all products built and maintained by Basecamp LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard.
+This policy applies to all products built and maintained by Basecamp LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard. For candidates applying to jobs at Basecamp LLC, please review our [Recruitment Privacy policy](recruitment/index.md).
 
 ## What we collect and why
 
@@ -75,11 +75,7 @@ Basecamp, LLC is a US company and all data infrastructure are located in the US.
 
 Finally, if Basecamp, LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
-## Location of Site and Data
-
-Our products and other web properties are operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
-
-## Your Rights With Respect to Your Information
+## Your rights with respect to your information
 
 At Basecamp, we apply the same data rights to all customers, regardless of their location. Currently some of the most privacy-forward regulations in place are the European Union’s General Data Protection Regulation (“GDPR”) and California Consumer Privacy Act (“CCPA”) in the US. Basecamp recognizes all of the rights granted in these regulations, except as limited by applicable law. These rights include:
 
@@ -100,7 +96,6 @@ If you have questions about exercising these rights or need assistance, please c
 
 If you are in the EU, you can identify your specific authority to file a complaint or find out more about GDPR, at [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
-
 ## How we secure your data
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted.
@@ -109,22 +104,27 @@ For products except HEY, most data are not encrypted while they live in our data
 
 With HEY, the security overview still applies _and_ we’ve gone even further by encrypting the database at-work. Every field containing personal data is encrypted with its own key. The disks storing the data keys are encrypted as well. Our servers decrypt the data to send it to you when you need it. You can learn more about our approach towards security with HEY at [https://hey.com/security/](https://hey.com/security/).
 
-
-## When you delete data in your product accounts
+## What happens when you delete data in your product accounts
 
 In many of our applications, we give you the option to trash data. Anything you trash on your product accounts while they are active will be kept in an accessible trash can for up to 30 days (it varies a little by product). After that, the trashed data are no longer accessible via the application and are deleted from our active servers within the next 30 days. We also have some backups of our application databases, which are kept for up to another 30 days. In total, when you trash things in our applications, they are purged within 90 days from all of our systems and logs. Retrieving data for a single account from a backup is cost-prohibitive and unduly burdensome so if you change your mind you’ll need to do so before your data are deleted from our active servers.
 
 We also delete your data after an account is cancelled. In this case, there is no period of data being kept in an accessible trash can so your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](../cancellation/index.md) for more details.
 
+## Location of site and data
+
+Our products and other web properties are operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
+
 ## When transferring personal data from the EU
 
-The GDPR requires that any data transferred out of the EU must be treated with the same level of protection as EU privacy laws grant. The privacy laws of the United States generally do not meet that requirement. Therefore, we provide a standard Data Processing Addendum (DPA) that is [GDPR-compliant](https://gdpr-info.eu/art-28-gdpr/) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed.
+The GDPR requires that any data transferred out of the EU must be treated with the same level of protection as EU privacy laws grant. The privacy laws of the United States generally do not meet that requirement. That is why since GDPR went into effect, Basecamp has offered a data processing addendum and voluntarily participated in the EU-US and Swiss-US Privacy Shield Framework.
+
+Our data processing addendum include the European Commission’s Standard Contractual Clauses to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed.
 
 **✍️ [EU-based customers can sign the DPA online](https://app.hellosign.com/s/c0908a3d).**
 
 ## EU-US and Swiss-US Privacy Shield policy
 
-[Privacy Shield](https://www.privacyshield.gov/) is an agreement between certain European jurisdictions and the United States that allows for the transfer of personal data from the EU to the US. Participation in the Privacy Shield program is voluntary.
+[Privacy Shield](https://www.privacyshield.gov/) is an agreement between certain European jurisdictions and the United States that up until July 16, 2020, allowed for the transfer of personal data from the EU to the US. Participation in the Privacy Shield program is voluntary.
 
 ### We comply with the frameworks for EU, UK, and Swiss data that are transferred into the United States
 
