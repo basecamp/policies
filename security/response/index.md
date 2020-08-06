@@ -39,29 +39,29 @@ We respect the time and talent that drives new discoveries in web security techn
 * [John Firebaugh](http://jfire.io)
 * [Kamil Sevi](https://twitter.com/kamilsevi)
 * [Marko Karppinen](http://www.karppinen.fi)
-* [Matasano Security](http://www.matasano.com)
+* Matasano Security
 * [MustLive](http://websecurity.com.ua)
 * [Nathan Kontny](http://n8.tumblr.com)
 * [nGenuity Information Services](http://www.ngenuity-is.com)
 * [ONZRA](http://www.onzra.com)
 * [Óscar Repáraz](http://www.reparaz.net)
 * [Rakan Alotaibi @hxteam](https://twitter.com/hxteam)
-* [Simon Brown](http://www.isimonbrown.co.uk)
-* [Tim Bach](https://twitter.com/tbach0729)
-* [Jan Habermann](https://twitter.com/habermann24)
+* Simon Brown
+* Tim Bach
+* Jan Habermann
 * [John Menerick](http://securesql.info)
-* [Prajal Kulkarni](http://prajalkulkarni.blogspot.com)
-* [Ajay Singh Negi](http://www.computersecuritywithethicalhacking.blogspot.in)
-* [Harsha Vardhan Boppana (Login Security Solution (P) Limited)](http://www.harshavardhan.me)
+* Prajal Kulkarni
+* Ajay Singh Negi
+* Harsha Vardhan Boppana (Login Security Solution (P) Limited)
 * [Frans Rosén](https://www.detectify.com)
 * [Rafay Baloch](http://rafayhackingarticles.net)
 * [M.R. Vignesh Kumar](https://twitter.com/vigneshkumarmr)
 * [Himanshu Kumar Das](https://twitter.com/mehimansu)
 * [Krutarth Shukla](https://twitter.com/KrutarthShukla)
 * [Ahmad Ashraff](https://twitter.com/yappare)
-* [InverseKey](http://inversekey.com)
+* InverseKey
 * Adino Namchu
-* [Atulkumar Hariba Shedage](http://securitysolution.co.in)
+* Atulkumar Hariba Shedage
 * [West Arete](http://westarete.com)
 * [Abhinav Karnawat \/ w4rri0r \/](http://www.w4rri0r.com)
 * [Mahadev subedi](https://twitter.com/blinkms)
@@ -69,7 +69,7 @@ We respect the time and talent that drives new discoveries in web security techn
 * [Ehraz Ahmed](https://ehraz.co)
 * [Umraz Ahmed](https://twitter.com/umrazahmed)
 * [Ahsan Akhtar](http://www.peopleperhour.com/freelancer/ahsan/website-web-application-security/335173)
-* [Jose Pino](https://twitter.com/Fr4phc0r3)
+* Jose Pino
 * [Priyal Viroja](https://www.linkedin.com/pub/priyal-viroja/64/490/a25)
 * [Chris Raethke (Bugcrowd)](https://bugcrowd.com)
 * [Siddhesh Gawde](https://twitter.com/pen3t3r)
@@ -78,13 +78,13 @@ We respect the time and talent that drives new discoveries in web security techn
 * [Hammad Shamsi](https://www.facebook.com/NiNJA.Sh3iFU)
 * [Saurabh Chandrakant Nemade](https://www.facebook.com/saurabh.nemade)
 * [Nitin Goplani](https://www.linkedin.com/in/nitingoplani)
-* [Sahil Saif](https://twitter.com/bewithsahilsaif)
+* Sahil Saif
 * [Rafael Pablos](http://silverneox.blogspot.com)
 * Nutan Kumar Panda
 * [Koutrouss Naddara](https://www.facebook.com/superbade)
 * [Gurjant Singh](https://twitter.com/GurjantSadhra)
 * [Mayank Kapoor](https://twitter.com/wHys0SerI0s)
-* [FailHunters Crew](http://www.failhunters.com)
+* FailHunters Crew
 * [Daniel Alvear(MaztoR IN-Security)](https://twitter.com/mazt0r)
 * [Ali Hassan Ghori (@alihasanghauri)](http://alihassanpenetrationtester.blogspot.com/)
 * [Rodolfo Godalle Jr.](https://www.facebook.com/junior.ns1de)
@@ -92,21 +92,21 @@ We respect the time and talent that drives new discoveries in web security techn
 * [Daksh Patel](https://www.facebook.com/dakshxss)
 * [Jovan Šikanja](http://www.e-sigurnost.net)
 * [Muhammad Talha Khan](https://www.facebook.com/MTK911)
-* [Yash Pandya](https://twitter.com/eryash9_yash)
+* Yash Pandya
 * [Mark Dodwell](https://twitter.com/madeofcode)
 * [Gabe Marshall](http://www.gabemarshall.me)
 * [Matt Jaynes](http://mattjaynes.com/)
 * [Nakul Mohan (@Anonymous\_India)](https://www.facebook.com/nakul.cia)
 * [Hardik Tailor](https://twitter.com/iamhardiktailor)
-* [Marques Johansson](https://plus.google.com/+MarquesJohansson)
+* Marques Johansson
 * [Rishiraj Sharma](https://twitter.com/ehrishiraj)
 * [Yogendra Sharma](https://twitter.com/FuzzBaBa)
 * [Prashant Padmashali](https://www.linkedin.com/in/prashantpadmashali/)
-* [Apoorv Joshi](https://twitter.com/apo143u)
+* Apoorv Joshi
 * [Shivam Kumar Agarwal, Nithish Varghese, and Sahil Srivastava](https://twitter.com/netanalysts)
-* [Shahmeer Amir](http://www.maadssec.com)
+* Shahmeer Amir
 * [Hamid Ashraf](https://twitter.com/hamihax)
-* [Babar Khan Akhunzada](http://www.babarkhan.ml)
+* Babar Khan Akhunzada
 * [Ramin Farajpour Cami](https://twitter.com/MF4rr3ll)
 * [Yassine Aboukir](https://www.yassineaboukir.com/)
 * [Vikas Anil Sharma](https://twitter.com/VikzSharma)
