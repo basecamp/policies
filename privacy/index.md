@@ -5,11 +5,11 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: July 30, 2020*
+*Last updated: August 6, 2020*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
-This policy applies to all products built and maintained by Basecamp LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard.
+This policy applies to all products built and maintained by Basecamp LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard. For candidates applying to jobs at Basecamp LLC, please review our [Recruitment Privacy policy](recruitment/index.md).
 
 ## What we collect and why
 
@@ -70,16 +70,12 @@ Our default practice is to not access your information. The only times we’ll e
 Basecamp, LLC is a US company and all data infrastructure are located in the US.
 
 * If US law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside the US approaches Basecamp with a request, our default stance is to refuse unless the US government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement. ***We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order.***
-* Similarly, If Basecamp receives a request to preserve data, we refuse unless compelled by either the US Federal Stored Communications Act, 18 U.S.C. Section 2703(f) or a properly served US subpoena for civil matters. In both of these situations, we have to comply. In these situations, we notify affected customers as soon as possible unless we are legally prohibited from doing so. We do not share preserved data unless absolutely required under the Stored Communications Act or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we destroy any preserved copies we made of customer data once the preservation period lapses.
+* Similarly, if Basecamp receives a request to preserve data, we refuse unless compelled by either the US Federal Stored Communications Act, 18 U.S.C. Section 2703(f) or a properly served US subpoena for civil matters. In both of these situations, we have to comply. In these situations, we notify affected customers as soon as possible unless we are legally prohibited from doing so. We do not share preserved data unless absolutely required under the Stored Communications Act or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we destroy any preserved copies we made of customer data once the preservation period lapses.
 * If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly by following these instructions for [HEY](https://hey.com/faqs/#if-i-don-t-like-hey-can-i-export-my-email-and-contacts), [Basecamp 3](https://3.basecamp-help.com/article/150-export-your-basecamp-data), [Basecamp 2](https://2.basecamp-help.com/article/247-exporting-account-data), [Basecamp Classic](https://help.basecamp.com/basecamp/questions/164-can-we-export-our-basecamp-classic-data), [Highrise](https://help.highrisehq.com/imports-exports/), [Campfire](https://help.basecamp.com/campfire/questions/482-can-i-export-my-data-out-of-campfire), and [Backpack](https://help.37signals.com/backpack/questions/255-can-i-export-my-data-out-of-backpack).
 
 Finally, if Basecamp, LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
-## Location of Site and Data
-
-Our products and other web properties are operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
-
-## Your Rights With Respect to Your Information
+## Your rights with respect to your information
 
 At Basecamp, we apply the same data rights to all customers, regardless of their location. Currently some of the most privacy-forward regulations in place are the European Union’s General Data Protection Regulation (“GDPR”) and California Consumer Privacy Act (“CCPA”) in the US. Basecamp recognizes all of the rights granted in these regulations, except as limited by applicable law. These rights include:
 
@@ -88,7 +84,7 @@ At Basecamp, we apply the same data rights to all customers, regardless of their
 * **Right to Correction.** You have the right to request correction of your personal information.
 * **Right to Erasure / “To be Forgotten”.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, all of our service providers. Fulfillment of some data deletion requests may prevent you from using Basecamp services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
 * **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority. To identify your specific authority or find out more about this right, EU individuals should go to [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
-* **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of personal information. (Again: we never have and never will sell your personal data).
+* **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of personal information. (Again: we never have and never will sell your personal data.)
 * **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
 * **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party.
 * **Right to not be subject to Automated Decision-Making.** You have the right to object and prevent any decision that could have a legal, or similarly significant, effect on you from being made solely based on automated processes. This right is limited, however, if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
@@ -100,7 +96,6 @@ If you have questions about exercising these rights or need assistance, please c
 
 If you are in the EU, you can identify your specific authority to file a complaint or find out more about GDPR, at [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
-
 ## How we secure your data
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted.
@@ -109,22 +104,27 @@ For products except HEY, most data are not encrypted while they live in our data
 
 With HEY, the security overview still applies _and_ we’ve gone even further by encrypting the database at-work. Every field containing personal data is encrypted with its own key. The disks storing the data keys are encrypted as well. Our servers decrypt the data to send it to you when you need it. You can learn more about our approach towards security with HEY at [https://hey.com/security/](https://hey.com/security/).
 
-
-## When you delete data in your product accounts
+## What happens when you delete data in your product accounts
 
 In many of our applications, we give you the option to trash data. Anything you trash on your product accounts while they are active will be kept in an accessible trash can for up to 30 days (it varies a little by product). After that, the trashed data are no longer accessible via the application and are deleted from our active servers within the next 30 days. We also have some backups of our application databases, which are kept for up to another 30 days. In total, when you trash things in our applications, they are purged within 90 days from all of our systems and logs. Retrieving data for a single account from a backup is cost-prohibitive and unduly burdensome so if you change your mind you’ll need to do so before your data are deleted from our active servers.
 
 We also delete your data after an account is cancelled. In this case, there is no period of data being kept in an accessible trash can so your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](../cancellation/index.md) for more details.
 
+## Location of site and data
+
+Our products and other web properties are operated in the United States. If you are located in the European Union or elsewhere outside of the United States, **please be aware that any information you provide to us will be transferred to and stored in the United States**. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
+
 ## When transferring personal data from the EU
 
-The GDPR requires that any data transferred out of the EU must be treated with the same level of protection as EU privacy laws grant. The privacy laws of the United States generally do not meet that requirement. Therefore, we provide a standard Data Processing Addendum (DPA) that is [GDPR-compliant](https://gdpr-info.eu/art-28-gdpr/) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed.
+The GDPR requires that any data transferred out of the EU must be treated with the same level of protection that the EU privacy laws grant. The privacy laws of the United States generally do not meet that requirement. That is why since GDPR went into effect, Basecamp has offered a data processing addendum and voluntarily participated in the EU-US Privacy Shield Framework as well as the Swiss-US Privacy Shield Framework.
+
+Our data processing addendum include the European Commission’s Standard Contractual Clauses to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed.
 
 **✍️ [EU-based customers can sign the DPA online](https://app.hellosign.com/s/c0908a3d).**
 
 ## EU-US and Swiss-US Privacy Shield policy
 
-[Privacy Shield](https://www.privacyshield.gov/) is an agreement between certain European jurisdictions and the United States that allows for the transfer of personal data from the EU to the US. Participation in the Privacy Shield program is voluntary.
+The EU-US [Privacy Shield](https://www.privacyshield.gov/) is an agreement between certain European jurisdictions and the United States that up until July 16, 2020, allowed for the transfer of personal data from the EU to the US. Participation in the Privacy Shield program is voluntary. The Swiss-US Privacy Shield is a similar program for data transferred to the US from Switzerland and is still in effect.
 
 ### We comply with the frameworks for EU, UK, and Swiss data that are transferred into the United States
 
@@ -141,11 +141,11 @@ The Privacy Shield Frameworks uphold specific principles, many of which are alre
 
 ### We commit to resolving all complaints
 
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union, United Kingdom, or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Jeremy Daer at Basecamp at privacy@basecamp.com, or by mail at Basecamp, LLC, 2045 W Grand Ave Ste B, PMB 53289, Chicago, IL 60612 USA.
+In compliance with the EU-US Privacy Shield Principles and the Swiss-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union, United Kingdom, or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Jeremy Daer at Basecamp at privacy@basecamp.com, or by mail at Basecamp, LLC, 2045 W Grand Ave Ste B, PMB 53289, Chicago, IL 60612 USA.
 
-Basecamp (the company) has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/privacy-shield-complaints/](https://bbbprograms.org/privacy-shield-complaints/) for more information and to file a complaint. This service is provided at no cost to you. Please do not submit GDPR complaints to BBB EU Privacy Shield.
+Basecamp (the company) has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and the Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/privacy-shield-complaints/](https://bbbprograms.org/privacy-shield-complaints/) for more information and to file a complaint. This service is provided at no cost to you. Please do not submit GDPR complaints to BBB EU Privacy Shield.
 
-If your Privacy Shield complaint cannot be resolved through these described channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. To learn more, please view the Privacy Shield Annex 1 at [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
+If your EU-US Privacy Shield complaint cannot be resolved through these described channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. To learn more, please view the Privacy Shield Annex 1 at [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
 ## Changes & questions
 
