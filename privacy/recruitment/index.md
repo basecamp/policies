@@ -5,7 +5,7 @@ description: The rundown on what happens to your job application.
 
 # Recruitment Privacy policy
 
-*Last updated: August 5, 2020*
+*Last updated: August 6, 2020*
 
 ## What we collect, where we store it, and how long we keep it
 
@@ -27,20 +27,18 @@ We keep records in Basecamp for some applicants, only those who progress to late
 * Internal assessment notes about your application and interviews;
 * Reference contact information and notes on the results of reference checks.
 
-We store your data in Workable and in Basecamp for one year. You may ask us to access, correct, update, or delete your data at any time by emailing Andrea LaRowe, [andrea@basecamp.com](mailto:andrea@basecamp.com).
-
-If we want to keep your information for longer than one year (for instance, if we think we may want to contact you for a future open position), we'll request your explicit consent via email to continue to store your personal data with an updated time frame.
+We store your data in Workable and in Basecamp until we successfully fill the open position. If we want to keep your information for longer than that — for instance, if we think we may want to contact you for a future open position — we'll request your explicit consent via email to continue to store your personal data with an updated time frame. You may ask us to access, correct, update, or delete your data at any time by emailing Andrea LaRowe, [andrea@basecamp.com](mailto:andrea@basecamp.com).
 
 If you submit an unsolicited job application through a channel other than Workable, you'll receive direction to re-submit your application through Workable. Any personal information you've included, like a resume, will be immediately deleted.
 
 If you have questions about your personal data as a job applicant, you can contact:
 Basecamp, LLC
-Andrea LaRowe, andrea@basecamp.com
+Andrea LaRowe, [andrea@basecamp.com](mailto:andrea@basecamp.com)
 2045 W Grand Ave Ste B
 PMB 53289
 Chicago, IL 60612
 
-If you are in the EU, you can identify your specific authority to file a GDPR complaint at https://edpb.europa.eu/about-edpb/board/members_en.
+If you are in the EU, you can identify your specific authority to file a GDPR complaint at [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
 Complete information about how Workable responsibly stores your data can be found in [their privacy policy](https://www.workable.com/privacy). Complete information about how we protect all data stored within Basecamp can be found in our [Privacy policy](../index.md) and [Security overview](../../index.md).
 
