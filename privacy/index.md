@@ -37,6 +37,10 @@ When you browse our marketing pages or applications, your browser automatically 
 
 Historically — including within the last 12 months — we have used third-party web analytics software. We no longer do for our actively sold and developed products and their marketing sites (Basecamp and HEY). We are in the process of removing third party web analytics software from our other products and web properties.
 
+### Anti-bot assessments
+
+We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services with HEY as a means of spam protection. We have a legitimate interest in protecting our app and the broader Internet community from spam. When you fill specific forms in HEY, the CAPTCHA service evaluates various information (e.g IP address, how long the visitor has been on the app, mouse movements) to check whether the data is possibly filled out by an automated program instead of a human. We retain these data via our subprocessor forever because they are used for anti-spam mitigation.
+
 ### Cookies and Do Not Track
 
 We do use persistent first-party cookies to store certain preferences, make it easier for you to use our applications, and support some in-house analytics. A cookie is a piece of text stored by your browser to help it remember your login information, site preferences, and more. You can adjust cookie retention settings in your own browser. To learn more about cookies, including how to view which cookies have been set and how to manage and delete them, please visit: [www.allaboutcookies.org](https://www.allaboutcookies.org).
