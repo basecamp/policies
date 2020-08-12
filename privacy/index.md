@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: August 6, 2020*
+*Last updated: August 12, 2020*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -36,6 +36,10 @@ Web analytics data — described further in the Website Interactions section —
 When you browse our marketing pages or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information, along with the pages you are visiting, page load timing, and which website referred you for statistical purposes like conversion rates and to test new designs. We sometimes track specific link clicks to help inform some design decisions. These web analytics data are tied to your IP address and user account if applicable and you are signed into our Services. We blind all of these individual identifiers after 30 days.
 
 Historically — including within the last 12 months — we have used third-party web analytics software. We no longer do for our actively sold and developed products and their marketing sites (Basecamp and HEY). We are in the process of removing third party web analytics software from our other products and web properties.
+
+### Anti-bot assessments
+
+We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services with HEY as a means of spam protection. We have a legitimate interest in protecting our app and the broader Internet community from spam. When you fill specific forms in HEY, the CAPTCHA service evaluates various information (e.g IP address, how long the visitor has been on the app, mouse movements) to check whether the data is possibly filled out by an automated program instead of a human. We retain these data via our subprocessor forever because they are used for anti-spam mitigation.
 
 ### Cookies and Do Not Track
 
