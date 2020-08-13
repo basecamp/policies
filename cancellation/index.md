@@ -31,7 +31,9 @@ We won’t bill you again once you cancel. We don’t automatically prorate any 
 ## Basecamp-initiated cancellations
 
 We may cancel accounts if they have been inactive for an extended period:
-* For trial accounts: 30 days after a trial has expired without being upgraded
+* For trial accounts:
+    * For HEY: 60 days after a trial has expired without being upgraded
+    * For other services: 30 days after a trial has expired without being upgraded
 * For frozen accounts: 180 days after being frozen due to billing failures
 * For free accounts: after 365 days of inactivity
 
