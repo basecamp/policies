@@ -14,7 +14,6 @@ The following is a list of personal data subprocessors we use. These subprocesso
 * [Google Cloud Platform](https://cloud.google.com/security/gdpr/resource-center/). Cloud services provider.
 * [Help Scout](https://www.helpscout.net/company/legal/gdpr/). Help desk software.
 * [Heroku](https://devcenter.heroku.com/articles/gdpr). Cloud services provider.
-* [Mailchimp](https://mailchimp.com/gdpr/). Email newsletter service.
 * [Mailgun](https://www.mailgun.com/gdpr/). Email service provider.
 * [Sentry](https://blog.sentry.io/2018/03/14/gdpr-sentry-and-you). Error reporting software.
 * [Slack](https://slack.com/intl/en-ca/terms-of-service/data-processing). Optional integration feature.
