@@ -34,7 +34,7 @@ We collect sales tax from [Basecamp](https://basecamp.com/), [Highrise](https://
 * Washington
 * West Virginia
 
-[HEY](https://hey.com/) is not subject to sales tax in the US because of the [Internet Tax Freedom Act (ITFA)](https://uscode.house.gov/view.xhtml?req=(title:47%20section:151%20edition:prelim). Email service falls under the definition of "Internet access" under the ITFA.
+[HEY](https://hey.com/) is not subject to sales tax in the US because of the [Internet Tax Freedom Act (ITFA)](https://uscode.house.gov/view.xhtml?req=(title:47%20section:151%20edition:prelim)). Email service falls under the definition of "Internet access" under the ITFA.
 
 Each US state has their own sales tax exemption rules. If your organization is tax-exempt, please share your *state-specific* tax exemption documentation with us. Because not all US federal exemptions are recognized by each state, an IRS tax exemption letter is not enough.
 
