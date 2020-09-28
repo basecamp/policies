@@ -5,14 +5,14 @@ description: We are required to collect and remit sales tax in a number of juris
 
 # Taxes!
 
-Taxes are an important part of functional society. Where software-as-a-service (SaaS) is taxable, we collect and remit consumption tax to governments at the local, state, and/or federal levels. If your billing address is in one of the following jurisdictions, you’ll see an *additional* line item on your invoice for sales tax or VAT. The subscription prices on our product websites are all exclusive of sales tax and VAT.
+Taxes are an important part of functional society. Where our products are taxable, we collect and remit consumption tax to governments at the local, state, and/or federal levels. If your billing address is in one of the following jurisdictions, you’ll see an *additional* line item on your invoice for sales tax or VAT. The subscription prices on our product websites are all exclusive of sales tax and VAT.
 
 The tax rate and rules are determined by each jurisdiction and sometimes vary by whether you are using our products for business/commercial or personal purposes. As regulations change, we will update this list.
 
 ## Jurisdictions we collect and remit taxes for
 
 ### Within the US
-We collect sales tax from customers based in:
+We collect sales tax from [Basecamp](https://basecamp.com/), [Highrise](https://highrisehq.com/), [Campfire](https://basecamp.com/retired/campfire), and [Backpack](https://basecamp.com/retired/backpack) customers based in:
 
 * Alaska (only [certain jurisdictions](https://arsstc.munirevs.com/show-page/?page=26) charge sales tax)
 * Arizona
@@ -23,7 +23,6 @@ We collect sales tax from customers based in:
 * Iowa
 * Massachusetts
 * New Mexico
-* New York
 * Ohio
 * Pennsylvania
 * Rhode Island
@@ -34,6 +33,8 @@ We collect sales tax from customers based in:
 * Utah
 * Washington
 * West Virginia
+
+[HEY](https://hey.com/) is not subject to sales tax in the US because of the [Internet Tax Freedom Act (ITFA)](https://uscode.house.gov/view.xhtml?req=(title:47%20section:151%20edition:prelim). Email service falls under the definition of "Internet access" under the ITFA.
 
 Each US state has their own sales tax exemption rules. If your organization is tax-exempt, please share your *state-specific* tax exemption documentation with us. Because not all US federal exemptions are recognized by each state, an IRS tax exemption letter is not enough.
 
