@@ -5,7 +5,7 @@ description: All the terms that you agree to when you sign up for a Basecamp pro
 
 # Terms of Service
 
-*Last updated: July 10, 2020*
+*Last updated: October 5, 2020*
 
 From everyone at Basecamp, thank you for using our products! We build them to help you do your best work. There are millions of people using Basecamp products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
@@ -59,6 +59,7 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 
 5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all subprocessors who handle personal data for [Basecamp](../privacy/basecamp-subprocessors/index.md), [HEY](../privacy/hey-subprocessors/index.md), [Highrise](../privacy/highrise-subprocessors/index.md), [Campfire](../privacy/campfire-subprocessors/index.md), and [Backpack](../privacy/backpack-subprocessors/index.md).
 6. Under the California Consumer Privacy Act (“CCPA”), Basecamp is a “service provider”, not a “business” or “third party”, with respect to your use of the Services. That means we process any data you share with us only for the purpose you signed up for and as described in these Terms of Service, [Privacy policy](../privacy/index.md), and [other policies](../index.md). We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements under the CCPA and not use Basecamp’s Services in a way that violates the regulations.
+7. These Service Terms incorporate the Basecamp Data Processing Addendum (“DPA”), when the General Data Protection regulation (“GDPR”) applies to your use of Basecamp Services to process Customer Data as defined in the DPA. The DPA is effective as of October 5, 2020 and replaces and supersedes any previously agreed data processing addendum between you and Basecamp, LLC relating to the GDPR.
 
 ## Copyright and Content Ownership
 
