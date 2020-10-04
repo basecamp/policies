@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: August 12, 2020*
+*Last updated: October 5, 2020*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -122,13 +122,13 @@ Our products and other web properties are operated in the United States. If you 
 
 The GDPR requires that any data transferred out of the EU must be treated with the same level of protection that the EU privacy laws grant. The privacy laws of the United States generally do not meet that requirement. That is why since GDPR went into effect, Basecamp has offered a data processing addendum and voluntarily participated in the EU-US Privacy Shield Framework as well as the Swiss-US Privacy Shield Framework.
 
-Our data processing addendum include the European Commission’s Standard Contractual Clauses to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed.
+We have incorporated a Data Processing Addendum to our [Terms of Service](../terms/index.md) that is in effect when the GDPR applies to your use of Basecamp Services to process Customer Data as defined in the DPA. The DPA includes the European Commission’s Standard Contractual Clauses (both controller-processor and controller-controller) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. The DPA is extensive so to aid our customers, we have provided both a summary of what they mean and how Basecamp, LLC upholds our responsibilities in our [Privacy Regulation Reference](regulations/index.md). If you prefer to have an executed copy of the Data Processing Addendum, you may [sign a copy online](https://app.hellosign.com/s/c0908a3d). Regardless of whether you execute or not, we protect and secure your data to the high standards set out in the addendum.
 
-**✍️ [EU-based customers can sign the DPA online](https://app.hellosign.com/s/c0908a3d).**
+There are also a few ad-hoc cases where EU personal data may be transferred to the US related to Basecamp, LLC operations. For instance, if someone in the US comments on our company blog or a customer participates in one of our infrequent surveys or someone applies to one of our open positions or buys swag on our company shop. Such transfers are only occasional and transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR.
 
 ## EU-US and Swiss-US Privacy Shield policy
 
-The EU-US [Privacy Shield](https://www.privacyshield.gov/) is an agreement between certain European jurisdictions and the United States that up until July 16, 2020, allowed for the transfer of personal data from the EU to the US. Participation in the Privacy Shield program is voluntary. The Swiss-US Privacy Shield is a similar program for data transferred to the US from Switzerland and is still in effect.
+The EU-US [Privacy Shield](https://www.privacyshield.gov/) is an agreement between certain European jurisdictions and the United States that up until July 16, 2020, allowed for the transfer of personal data from the EU to the US. Participation in the Privacy Shield program is voluntary. The Swiss-US Privacy Shield is a similar program for data transferred to the US from Switzerland that was in effect until September 8, 2020.
 
 ### We comply with the frameworks for EU, UK, and Swiss data that are transferred into the United States
 
