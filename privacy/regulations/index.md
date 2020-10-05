@@ -13,7 +13,7 @@ If you have any questions, comments, or concerns about our [Privacy policy](../i
 
 ## European Union General Data Protection Regulation (GDPR)
 
-Basecamp is an American company and our data infrastructure is currently based in the US. That means if you are in another country in the world and you use our products, your data are transferred to the US. The EU has stronger privacy laws than the US and a core tenant of the GDPR is that if you transfer any personal data of EU residents out of the EU, you must protect it to the same level as guaranteed under EU law. There are two factors to this: 
+Basecamp is an American company and our data infrastructure is currently based in the US. That means if you are in another country in the world and you use our products, your data are transferred to the US. The EU has stronger privacy laws than the US and a core tenant of the GDPR is that if you transfer any personal data of EU residents out of the EU, you must protect it to the same level as guaranteed under EU law. There are two factors to this:
 
 1. The practices that businesses take handling personal data; and
 2. The laws of the countries where you transfer the EU personal data to
@@ -24,8 +24,8 @@ We are serious about treating our customers fairly. We have a [Customer Bill of 
 
 We’re able to offer this Customer Bill of Rights because of the choices we make as a business. Please do read our [Privacy Policy](../index.md) and our [Security Overview](/security/index.md) in full. Some highlights:
 
-* We never have and never will sell customer data. 
-* We don’t run ads for other services in our products. 
+* We never have and never will sell customer data.
+* We don’t run ads for other services in our products.
 * We limit the data we collect: if we don’t need it, we don’t ask for it.
 * We limit the permissions our apps request on your devices.
 * We put a lot of security measures into place including in-transit encryption and requiring employees and contractors to sign non-disclosure agreements.
@@ -46,7 +46,7 @@ Even so, these laws are relevant for why extra mechanisms need to be in place to
 
 ### Data processing addendum
 
-As of October 5, 2020, we have incorporated a Data Processing Addendum (DPA) to our [Terms of Service](/terms/index.md). This addendum is in effect when the General Data Protection Regulation applies to your use of Basecamp Services to process Customer Data as defined in the DPA. The DPA includes the European Commission’s Standard Contractual Clauses (both controller-processor and controller-controller) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. If you would like to have a signed copy of the DPA for your records, you may [sign a copy online](https://app.hellosign.com/s/c0908a3d). We provide the same privacy rights and protection to all customers, regardless of whether they choose to execute a DPA.
+As of October 5, 2020, we have incorporated a Data Processing Addendum (DPA) to our [Terms of Service](/terms/index.md). You can find the DPA linked within clause 7 of the Uptime, Security and Privacy section. This addendum is in effect when the General Data Protection Regulation applies to your use of Basecamp Services to process Customer Data as defined in the DPA. The DPA includes the European Commission’s Standard Contractual Clauses (both controller-processor and controller-controller) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. If you would like to have a signed copy of the DPA for your records, you may [sign a copy online](https://app.hellosign.com/s/c0908a3d). We provide the same privacy rights and protection to all customers, regardless of whether they choose to execute a DPA.
 
 On July 16, 2020, the Court of Justice of the European Union (CJEU) made a ruling, colloquially called “Schrems II”. The CJEU ruled that when you use the Standard Contractual Clauses as the basis for the transfer of personal data from the EU to the US (and a few other countries) on the basis of Standard Contractual Clauses, extra scrutiny and safeguards must be in place. This ruling has opened up a lot of questions, including what qualifies as those extra safeguards. This [crowdsourced webpage](https://iapp.org/resources/article/dpa-and-government-guidance-on-schrems-ii-2/) lists statements made by different Data Protection Authorities to date. Following the Schrems II ruling, we went back over our data flows and our obligations under the Standard Contractual Clauses. We wanted to make sure we can live up to those obligations, and we can. We also researched the means of recourse we could take in the theoretical event we are served a FISA warrant (which again, has not happened to date).
 
@@ -54,7 +54,7 @@ If you are a Data Controller under GDPR (i.e a business working with personal da
 
 ### A note about Privacy Shield
 
-Since its establishment, Basecamp has also voluntarily participated in the [EU-US and Swiss-US Privacy Shield Framework](https://www.privacyshield.gov/). The same Schrems II ruling from the Court of Justice of the European Union invalidated the EU-US Privacy Shield program as a mechanism for data transfer from the EU to the US. On September 8, 2020, Switzerland’s Federal Data Protection and Information Commissioner also invalidated the Swiss-US Privacy Shield program. 
+Since its establishment, Basecamp has also voluntarily participated in the [EU-US and Swiss-US Privacy Shield Framework](https://www.privacyshield.gov/). The same Schrems II ruling from the Court of Justice of the European Union invalidated the EU-US Privacy Shield program as a mechanism for data transfer from the EU to the US. On September 8, 2020, Switzerland’s Federal Data Protection and Information Commissioner also invalidated the Swiss-US Privacy Shield program.
 
 We are still certified under, and follow, both Privacy Shield Frameworks. *However, they no longer serve as legal mechanisms for the transfer of EU personal data to the US.*
 
