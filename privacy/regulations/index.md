@@ -5,7 +5,7 @@ description: Privacy laws are in a lot of flux. Here’s info you should know.
 
 # Privacy Regulations Reference
 
-*Last updated: October 5, 2020*
+*Last updated: October 8, 2020*
 
 The data privacy regulatory landscape is undergoing a lot of change. You probably have heard about the EU General Data Protection Regulation (GDPR) that went into effect on May 25, 2018. There are also other regulations in effect or in the works around the world. We’ve written up this reference document to put helpful information regarding our products and privacy regulations in one place. Please also view our full [Privacy policy](../index.md).
 
@@ -13,7 +13,7 @@ If you have any questions, comments, or concerns about our [Privacy policy](../i
 
 ## European Union General Data Protection Regulation (GDPR)
 
-Basecamp is an American company and our data infrastructure is currently based in the US. That means if you are in another country in the world and you use our products, your data are transferred to the US. The EU has stronger privacy laws than the US and a core tenant of the GDPR is that if you transfer any personal data of EU residents out of the EU, you must protect it to the same level as guaranteed under EU law. There are two factors to this:
+Basecamp is an American company and our data infrastructure is currently based in the US. That means if you are in another country in the world and you use our products, your data are transferred to the US. The EU has stronger privacy laws than the US and a core tenet of the GDPR is that if you transfer any personal data of EU residents out of the EU, you must protect it to the same level as guaranteed under EU law. There are two factors to this:
 
 1. The practices that businesses take handling personal data; and
 2. The laws of the countries where you transfer the EU personal data to
