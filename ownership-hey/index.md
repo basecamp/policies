@@ -28,4 +28,4 @@ If we're unable to verify the legitimacy of the request, or if it's being disput
 
 ## Still have a question?
 
-Please get in touch with our [support team][(mailto:support@hey.com) and we’ll be happy to answer them!
+Please get in touch with our [support team](mailto:support@hey.com) and we’ll be happy to answer them!
