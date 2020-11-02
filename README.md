@@ -13,7 +13,8 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [Taxes](taxes/index.md)
 * Account ownership information for [Basecamp 2](https://2.basecamp-help.com/article/411-account-ownership) and [Basecamp 3](ownership-bc3/index.md)
 * [Service Level Agreement (SLA) for Basecamp Big](sla/index.md)
-
+* [How to manage the HEY account of someone who is incapacitated or has died](incapacitated/index.md)
+* [HEY for Work Ownership and Administration Policy](ownership-hey/index.md)
 
 ## A Note About the Email Addresses
 
