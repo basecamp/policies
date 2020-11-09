@@ -7,8 +7,6 @@ description: 'For HEY for You accounts'
 
 First, we are so sorry. Managing administrative aspects is often the last thing you may want to do under these circumstances. We’ve tried to set up a process that makes managing your loved one’s HEY for You account as smooth as possible while also honoring the privacy and security obligations we have to our customers.
 
-HEY for Work accounts are owned by the organization detailed during signup, if this is a legal entity. If the organization is unincorporated, the account is owned by the individual who signed up for the account.
-
 **If you just want to stop the account from being billed and do not need access to any data,** the fastest way to do this is by cancelling the associated credit card directly via the credit card company.
 
 **If you have the login credentials of the account,** you can manage billing, export data, and cancel an account through the Account & Billing page. You can access the Account & Billing page via the Me menu.
