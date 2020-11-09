@@ -5,13 +5,15 @@ description: All the terms that you agree to when you sign up for a Basecamp pro
 
 # Terms of Service
 
-*Last updated: October 5, 2020*
+*Last updated: November 9, 2020*
 
 From everyone at Basecamp, thank you for using our products! We build them to help you do your best work. There are millions of people using Basecamp products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
 When we say “Company”, “we”, “our”, or “us” in this document, we are referring to Basecamp, LLC. We spun off Highrise HQ, LLC in the past, but it has since rejoined Basecamp, LLC.
 
 When we say “Services”, we mean any product created and maintained by Basecamp, LLC. That includes Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard, whether delivered within a web browser, desktop application, mobile application, or another format.
+
+When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services. We have specific ownership policies for our products: [Basecamp 3](https://basecamp.com/about/policies/ownership-bc3), [Basecamp 2](https://2.basecamp-help.com/article/411-account-ownership), [Basecamp Classic](https://help.basecamp.com/basecamp/questions/147-what-is-an-account-owner-how-can-i-change-the-account-owner-on-my-basecamp-classic-account), [HEY for Work](https://hey.com/policies/ownership-hey/), [Highrise](https://support.highrise-help.com/article/305-account-ownership), [Backpack](https://help.37signals.com/backpack/questions/404-what-is-an-account-owner-how-can-i-change-the-account-owner-on-my-backpack-account)
 
 We may update these Terms of Service in the future. You can track all changes made since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Typically these changes have been to clarify some of these terms by linking to an expanded related policy. Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://m.signalvnoise.com/).
 
