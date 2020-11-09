@@ -16,11 +16,11 @@ The Account Manager can:
 * **Access and export all data in an account:** that means they have the ability to read every email sent or received within the HEY for Work account.
 * **Manage all aspects of the account’s subscription:** including updating billing information, adding more users, and cancelling an account.
 * **Configure and manage all technical aspects of an account's setup:** including verifying domain ownership and DNS-related records.
-* **Request a change to reassign the account management:** by [emailing us](mailto:support@hey.com) with the request.
+* **Change account managers:** We encourage customers designate someone you trust to help co-manage your organization's HEY account in case the primary Account Manager is out of office. Account managers can add or remove other co-managers directly in HEY. The one exception is: it is not possible within the app to revoke Account Manager permissions from the primary Account Manager who set up the account. In order to make changes to this primary Account Manager, please [email us](mailto:support@hey.com) with the request.
 
-## How can we change the Account Manager?
+## Can Basecamp help us change the Account Manager?
 
-If the account is owned by a legal entity, we can reassign account management if provided with enough proof that the request is coming from a top-level organizational leader. To start a request to change the Account Manager, an owner or chief executive of the organization must [email our support team](mailto:support@hey.com).
+If the account is owned by a legal entity, we at Basecamp can reassign account management if provided with enough proof that the request is coming from a top-level organizational leader. To start a request to change the Account Manager, an owner or chief executive of the organization must [email our support team](mailto:support@hey.com).
 
 From there, we'll ask for more verification of identity and relationship to the organization as well as ensure that there are no pending disputes of ownership. This process will likely take several days, as we need to make absolutely sure the request is legitimate.
 
