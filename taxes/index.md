@@ -38,8 +38,8 @@ We collect sales tax from [Basecamp](https://basecamp.com/), [Highrise](https://
 
 Each US state has their own sales tax exemption rules. If your organization is tax-exempt, please share your *state-specific* tax exemption documentation with us. Because not all US federal exemptions are recognized by each state, an IRS tax exemption letter is not enough.
 
-### Within the EU
-We collect VAT on any direct-to-consumer sales to EU-based customers. Most of our applications are business products but [HEY](https://hey.com/) is a consumer product. If you are a HEY customer with a VAT identification number, let us know and we will apply a reverse charge for VAT to your invoice.
+### Within Europe
+We collect VAT on any direct-to-consumer sales to EU-based customers and customers in the UK. Most of our applications are business products but [HEY](https://hey.com/) is a consumer product. If you are a HEY customer with a VAT identification number, let us know and we will apply a reverse charge for VAT to your invoice.
 
 * Austria
 * Belgium
