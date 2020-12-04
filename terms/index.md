@@ -5,7 +5,7 @@ description: All the terms that you agree to when you sign up for a Basecamp pro
 
 # Terms of Service
 
-*Last updated: November 9, 2020*
+*Last updated: December 4, 2020*
 
 From everyone at Basecamp, thank you for using our products! We build them to help you do your best work. There are millions of people using Basecamp products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
@@ -56,6 +56,7 @@ If you violate any of the terms, we may terminate your account. That's a broad s
 3. We take many measures to protect and secure your data through backups, redundancies, and encryption. We enforce encryption for data transmission from the public Internet. There are some edge cases where we may send your data through our network unencrypted. Please refer to our [Security Overview](../security/index.md) for full details and our [Security Response page](../security/response/index.md) for how to report a security incident or threat.
 4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Basecamp may process your data as described in our [Privacy Policy](../privacy/index.md) and for no other purpose. We as humans can access your data for the following reasons:
   - **To help you with support requests you make.** We'll ask for express consent before accessing your account.
+  - **On the rare occasions when an error occurs that stops an automated process partway through.** We get automated alerts when such errors occur. When we can fix the issue and restart automated processing without looking at any personal data, we do. In rare cases, we have to look at a minimum amount of personal data to fix the issue. In these rare cases, aim to fix the root cause as much as possible to avoid the errors from reoccurring.
   - **To safeguard Basecamp.** We'll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
   - **To the extent required by applicable law.** As a US company with all data infrastructure located in the US, we only preserve or share customer data if compelled by a US government authority with a legally binding order or proper request under the Stored Communications Act. If a non-US authority approaches Basecamp for assistance, our default stance is to refuse unless the order has been approved by the US government, which compels us to comply through procedures outlined in an established mutual legal assistance treaty or agreement mechanism.
 
