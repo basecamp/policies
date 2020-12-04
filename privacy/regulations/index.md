@@ -5,7 +5,7 @@ description: Privacy laws are in a lot of flux. Here’s info you should know.
 
 # Privacy Regulations Reference
 
-*Last updated: October 8, 2020*
+*Last updated: December 4, 2020*
 
 The data privacy regulatory landscape is undergoing a lot of change. You probably have heard about the EU General Data Protection Regulation (GDPR) that went into effect on May 25, 2018. There are also other regulations in effect or in the works around the world. We’ve written up this reference document to put helpful information regarding our products and privacy regulations in one place. Please also view our full [Privacy policy](../index.md).
 
@@ -28,7 +28,7 @@ We’re able to offer this Customer Bill of Rights because of the choices we mak
 * We don’t run ads for other services in our products.
 * We limit the data we collect: if we don’t need it, we don’t ask for it.
 * We limit the permissions our apps request on your devices.
-* We put a lot of security measures into place including in-transit encryption and requiring employees and contractors to sign non-disclosure agreements.
+* We put a lot of security measures into place including in-transit encryption, encryption at-rest, and requiring employees and contractors to sign non-disclosure agreements.
 * When you email us at [privacy@basecamp.com](mailto:privacy@basecamp.com), someone from our Privacy Working Group will get back to you. You are always speaking with a human! No bots.
 
 We do work with sub-processors. We've listed links to our current sub-processors at the end of this page. With each vendor, we assess their commitment to privacy and we sign a data processing addendum with them that include the controller-processor [Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en).
@@ -46,11 +46,11 @@ Even so, these laws are relevant for why extra mechanisms need to be in place to
 
 ### Data processing addendum
 
-As of October 5, 2020, we have incorporated a Data Processing Addendum (DPA) to our [Terms of Service](../../terms/index.md). You can find the DPA linked within clause 7 of the Uptime, Security and Privacy section. This addendum is in effect when the General Data Protection Regulation applies to your use of Basecamp Services to process Customer Data as defined in the DPA. The DPA includes the European Commission’s Standard Contractual Clauses (both controller-processor and controller-controller) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. If you would like to have a signed copy of the DPA for your records, you may [sign a copy online](https://app.hellosign.com/s/c0908a3d). We provide the same privacy rights and protection to all customers, regardless of whether they choose to execute a DPA.
+As of October 5, 2020, we have incorporated a Data Processing Addendum (DPA) to our [Terms of Service](../../terms/index.md). You can find the DPA linked within clause 7 of the Uptime, Security and Privacy section. This addendum is in effect when the General Data Protection Regulation applies to your use of Basecamp Services to process Customer Data as defined in the DPA. The DPA includes the European Commission’s Standard Contractual Clauses (both controller-processor and controller-controller) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. If you would like to have a signed copy of the DPA for your records, you may [sign a copy online](https://app.hellosign.com/s/c0908a3d). We provide the same privacy rights and protection to all customers, regardless of whether they choose to execute a DPA. The European Commission recently [proposed updates](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12741-Commission-Implementing-Decision-on-standard-contractual-clauses-for-the-transfer-of-personal-data-to-third-countries) to these Standard Contractual Clauses and if officially adopted, we will update our DPA to incorporate the updated clauses within the granted transition period.
 
 On July 16, 2020, the Court of Justice of the European Union (CJEU) made a ruling, colloquially called “Schrems II”. The CJEU ruled that when you use the Standard Contractual Clauses as the basis for the transfer of personal data from the EU to the US (and a few other countries) on the basis of Standard Contractual Clauses, extra scrutiny and safeguards must be in place. This ruling has opened up a lot of questions, including what qualifies as those extra safeguards. This [crowdsourced webpage](https://iapp.org/resources/article/dpa-and-government-guidance-on-schrems-ii-2/) lists statements made by different Data Protection Authorities to date. Following the Schrems II ruling, we went back over our data flows and our obligations under the Standard Contractual Clauses. We wanted to make sure we can live up to those obligations, and we can. We also researched the means of recourse we could take in the theoretical event we are served a FISA warrant (which again, has not happened to date).
 
-If you are a Data Controller under GDPR (i.e a business working with personal data of EU residents), we encourage you to take stock of your personal data flows and vendors too. We also continue looking out for practical guidance from a variety of Data Protection Authorities in the EU and encourage you to do the same.
+If you are a Data Controller under GDPR (i.e a business working with personal data of EU residents), we encourage you to take stock of your personal data flows and vendors too. The European Data Protection Board issued [a draft set of guidelines](https://edpb.europa.eu/our-work-tools/public-consultations-art-704/2020/recommendations-012020-measures-supplement-transfer_en) on November 11, 2020 with specific recommendations for EU-based businesses transferring personal data out of the EU.
 
 ### A note about Privacy Shield
 
