@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: December 4, 2020*
+*Last updated: December 9, 2020*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -39,7 +39,7 @@ Historically — including within the last 12 months — we have used third-part
 
 ### Anti-bot assessments
 
-We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services with HEY as a means of spam protection. We have a legitimate interest in protecting our app and the broader Internet community from spam. When you fill specific forms in HEY, the CAPTCHA service evaluates various information (e.g IP address, how long the visitor has been on the app, mouse movements) to check whether the data is possibly filled out by an automated program instead of a human. We retain these data via our subprocessor forever because they are used for anti-spam mitigation.
+We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services across our applications to mitigate brute force logins and in HEY as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your accounts and fill specific forms in HEY, the CAPTCHA service evaluates various information (e.g IP address, how long the visitor has been on the app, mouse movements) to check whether the data is possibly filled out by an automated program instead of a human. We retain these data via our subprocessor forever because they are used for anti-spam mitigation.
 
 ### Cookies and Do Not Track
 
