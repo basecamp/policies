@@ -5,7 +5,7 @@ description: Guiding principles and process for investigating abuse reports
 
 # How we handle abusive usage
 
-*Last updated: April 13, 2020*
+*Last updated: January 19, 2021*
 
 We build our products* to give teams a better way to work. We are proud of that purpose and trust that our customers use our products for appropriate endeavors.
 
@@ -15,7 +15,7 @@ Sometimes, though, we discover potential abusive usage as detailed in our [Use R
 
 ### Human oversight
 
-Who’s “we”, you ask? It’s us: folks from the Basecamp team. We have an internal committee who review all potential abuse cases. This committee includes our executives, David and Jason, and representatives from multiple departments across the company. On rare occasions for particularly sensitive situations or if legally required, we may also seek counsel from external experts.
+Who’s “we”, you ask? It’s us: folks from the Basecamp team. Our internal abuse oversight committee includes our executives, David and Jason, and representatives from multiple departments across the company. On rare occasions for particularly sensitive situations or if legally required, we may also seek counsel from external experts.
 
 ### Balanced responsibilities
 
@@ -57,11 +57,15 @@ We strive to balance privacy and safety for all those involved:
 - As we review the evidence, we look for indications of existing negative impact. We also assess the severity of any potential negative impact, regardless of intent. When relevant, we look for and follow available guidelines from expert institutions.
 - If we cannot come to a fair assessment from the information available, we may decide to access a customer account without notice. We do not make this decision lightly. Customer privacy is a big deal to us and we only pursue this course of action if the evidence we have already is very concerning, but not definitive.
 
+While some violations are flatly obvious, others are subjective, nuanced, and difficult to adjudicate. We give each case adequate time and attention, commensurate with the violation, criticality, and severity of the charge.
+
 ### What happens if someone really broke the rules?
 
 We will terminate an account without advance notice if there is evidence it is being used for a restricted purpose that has, is, or will cause severe harm. If applicable, we will also report the incident to the appropriate authorities.
 
 For other cases, we’ll take a case-by-case approach to clear things up.
+
+Further, as a small, privately owned independent business that puts our values and conscience ahead of growth at all costs, we reserve the right to deny service to anyone we ultimately feel uncomfortable doing business with.
 
 ### Can you appeal a decision?
 
