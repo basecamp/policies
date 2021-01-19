@@ -15,7 +15,7 @@ Sometimes, though, we discover potential abusive usage as detailed in our [Use R
 
 ### Human oversight
 
-Who’s “we”, you ask? It’s us: folks from the Basecamp team. We have an internal committee who review all potential abuse cases. This committee includes our executives, David and Jason, and representatives from multiple departments across the company. On rare occasions for particularly sensitive situations or if legally required, we may also seek counsel from external experts.
+Who’s “we”, you ask? It’s us: folks from the Basecamp team. Our internal abuse oversight committee includes our executives, David and Jason, and representatives from multiple departments across the company. On rare occasions for particularly sensitive situations or if legally required, we may also seek counsel from external experts.
 
 ### Balanced responsibilities
 
