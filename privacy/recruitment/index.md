@@ -27,16 +27,11 @@ We keep records in Basecamp for some applicants, only those who progress to late
 - Internal assessment notes about your application and interviews;
 - Reference contact information and notes on the results of reference checks.
 
-We store your data in Workable and in Basecamp until we successfully fill the open position. If we want to keep your information for longer than that — for instance, if we think we may want to contact you for a future open position — we'll request your explicit consent via email to continue to store your personal data with an updated time frame. You may ask us to access, correct, update, or delete your data at any time by emailing Andrea LaRowe, [andrea@basecamp.com](mailto:andrea@basecamp.com).
+We store your data in Workable and in Basecamp until we successfully fill the open position. If we want to keep your information for longer than that — for instance, if we think we may want to contact you for a future open position — we'll request your explicit consent via email to continue to store your personal data with an updated time frame. You may ask us to access, correct, update, or delete your data at any time by emailing Amaury Martiny, [amaury@reacher.email](mailto:amaury@reacher.email).
 
 If you submit an unsolicited job application through a channel other than Workable, you'll receive direction to re-submit your application through Workable. Any personal information you've included, like a resume, will be immediately deleted.
 
-If you have questions about your personal data as a job applicant, you can contact:
-PROXIMA B SASU
-Andrea LaRowe, [andrea@basecamp.com](mailto:andrea@basecamp.com)
-2045 W Grand Ave Ste B
-PMB 53289
-Chicago, IL 60612
+If you have questions about your personal data as a job applicant, you can contact: Amaury Martiny, [amaury@reacher.email](mailto:amaury@reacher.email).
 
 If you are in the EU, you can identify your specific authority to file a GDPR complaint at [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
@@ -46,4 +41,4 @@ Complete information about how Workable responsibly stores your data can be foun
 
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://m.signalvnoise.com/).
 
-Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@basecamp.com](mailto:privacy@basecamp.com).
+Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [amaury@reacher.email](mailto:amaury@reacher.email).

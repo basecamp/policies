@@ -1,6 +1,6 @@
 ---
 title: Company Processors
-description: Basecamp LLC uses some other third-party processors for company purposes outside of delivering our services.
+description: PROXIMA B SASU uses some other third-party processors for company purposes outside of delivering our services.
 ---
 
 # Company processors

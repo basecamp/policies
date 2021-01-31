@@ -9,7 +9,7 @@ description: Privacy laws are in a lot of flux. Here’s info you should know.
 
 The data privacy regulatory landscape is undergoing a lot of change. You probably have heard about the EU General Data Protection Regulation (GDPR) that went into effect on May 25, 2018. There are also other regulations in effect or in the works around the world. We’ve written up this reference document to put helpful information regarding our products and privacy regulations in one place. Please also view our full [Privacy policy](../index.md).
 
-If you have any questions, comments, or concerns about our [Privacy policy](../index.md), your data, or your rights with respect to your information, please email us at [privacy@basecamp.com](mailto:privacy@basecamp.com).
+If you have any questions, comments, or concerns about our [Privacy policy](../index.md), your data, or your rights with respect to your information, please email us at [amaury@reacher.email](mailto:amaury@reacher.email).
 
 ## European Union General Data Protection Regulation (GDPR)
 
@@ -29,7 +29,7 @@ We’re able to offer this Customer Bill of Rights because of the choices we mak
 * We limit the data we collect: if we don’t need it, we don’t ask for it.
 * We limit the permissions our apps request on your devices.
 * We put a lot of security measures into place including in-transit encryption, encryption at-rest, and requiring employees and contractors to sign non-disclosure agreements.
-* When you email us at [privacy@basecamp.com](mailto:privacy@basecamp.com), someone from our Privacy Working Group will get back to you. You are always speaking with a human! No bots.
+* When you email us at [amaury@reacher.email](mailto:amaury@reacher.email), someone from our Privacy Working Group will get back to you. You are always speaking with a human! No bots.
 
 We do work with sub-processors. We've listed links to our current sub-processors at the end of this page. With each vendor, we assess their commitment to privacy and we sign a data processing addendum with them that include the controller-processor [Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en).
 
@@ -40,7 +40,7 @@ The US does not have a national consumer privacy law akin to GDPR. We’d love t
 
 There are national US security laws that are relevant to GDPR. Chief amongst them are: the [Foreign Intelligence Surveillance Act (FISA)](https://it.ojp.gov/PrivacyLiberty/authorities/statutes/1286) and Executive Order 12-333. FISA establishes ways for US law enforcement and intelligence agencies to gather information within the US about non-US entities suspected of espionage or terrorism. Executive Order 12-333 sets out how US intelligence agencies can gather information, including outside the borders of the US.
 
-Virtually every American software service is subject to FISA. That includes all the American big tech companies you can think of as well as any European service that uses cloud infrastructure from Amazon Web Services, Microsoft Azure, or Google Cloud Computing. It also includes small tech American companies like us, Basecamp LLC. However **to date, Basecamp has never been served a FISA order or National Security Letter.**
+Virtually every American software service is subject to FISA. That includes all the American big tech companies you can think of as well as any European service that uses cloud infrastructure from Amazon Web Services, Microsoft Azure, or Google Cloud Computing. It also includes small tech American companies like us, PROXIMA B SASU. However **to date, Basecamp has never been served a FISA order or National Security Letter.**
 
 Even so, these laws are relevant for why extra mechanisms need to be in place to allow the legal transfer of personal data from the EU to the US. Since GDPR went into effect in 2018, Basecamp has offered two such mechanisms: a data processing addendum; and voluntary participation in the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework. Currently, the data processing addendum is the primary mechanism as the Privacy Shield frameworks were invalidated in July and September 2020 respectively.
 

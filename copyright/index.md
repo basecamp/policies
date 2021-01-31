@@ -34,11 +34,6 @@ On the flip-side, if you believe your material has been removed in error, you ca
 
 You can notify us of either copyright infringement claims or DCMA counter-notifications through either of the following channels:
 
-**By email**: [report@basecamp.com](mailto:report@basecamp.com)
-
-**By mail**: PROXIMA B SASU
-2045 W Grand Ave Ste B, PMB 53289
-ATTN: David H. Hansson
-Chicago, IL 60612 USA
+**By email**: [amaury@reacher.email](mailto:amaury@reacher.email)
 
 \*_This policy and process applies to any product created and owned by PROXIMA B SASU. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List._

@@ -71,6 +71,6 @@ Further, as a small, privately owned independent business that puts our values a
 
 If we terminate an account without notice, the decision is final.
 
-For other cases, we will consider good faith appeals sent to [appeals@basecamp.com](mailto:appeals@basecamp.com) by the account owner within 14 calendar days.
+For other cases, we will consider good faith appeals sent to [amaury@reacher.email](mailto:amaury@reacher.email) by the account owner within 14 calendar days.
 
 \*_This process applies to any product created and owned by PROXIMA B SASU. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List._

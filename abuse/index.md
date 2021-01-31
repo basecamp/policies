@@ -24,9 +24,9 @@ While our use restrictions are comprehensive, they can’t be exhaustive — it�
 
 ## How to report abuse
 
-For cases of suspected malware, spyware, phishing, spamming, and cybersquatting, please alert us at [abuse@basecamp.com](mailto:abuse@basecamp.com).
+For cases of suspected malware, spyware, phishing, spamming, and cybersquatting, please alert us at [amaury@reacher.email](mailto:amaury@reacher.email).
 
-For all other cases, please let us know by emailing [report@basecamp.com](mailto:report@basecamp.com). If you’re not 100% sure if something rises to the level of our use restrictions policy, report it anyway.
+For all other cases, please let us know by emailing [amaury@reacher.email](mailto:amaury@reacher.email). If you’re not 100% sure if something rises to the level of our use restrictions policy, report it anyway.
 
 Please share as much as you are comfortable with about the account, the content or behavior you are reporting, and how you found it. Sending us a URL or screenshots is super helpful. If you need a secure file transfer, let us know and we will send you a link. We will not disclose your identity to anyone associated with the reported account. For copyright cases, we've outlined extra instructions on [how to notify us about infringement claims](../copyright/index.md).
 

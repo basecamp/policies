@@ -7,7 +7,7 @@ description: 'Everything you need to know about Basecamp account ownership.'
 [help-owners]: https://basecamp.com/help/3/guides/account/ownership
 [help-adminland]: https://basecamp.com/help/3/guides/account/adminland
 [support]: https://basecamp.com/support
-[support-email]: mailto:support@basecamp.com
+[support-email]: mailto:amaury@reacher.email
 
 # Who owns a Basecamp 3 account?
 

@@ -5,11 +5,11 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-_Last updated: December 9, 2020_
+_Last updated: January 31, 2020_
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
-This policy applies to all products built and maintained by Basecamp LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard. For candidates applying to jobs at Basecamp LLC, please review our [Recruitment Privacy policy](recruitment/index.md).
+This policy applies to all products built and maintained by PROXIMA B SASU including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard. For candidates applying to jobs at PROXIMA B SASU, please review our [Recruitment Privacy policy](recruitment/index.md).
 
 ## What we collect and why
 
@@ -63,7 +63,7 @@ We also do not collect any biometric data. You are given the option to add a pic
 
 Our default practice is to not access your information. The only times we’ll ever access or share your info are:
 
-**To provide products or services you've requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use in each product: [Basecamp](basecamp-subprocessors/index.md), [HEY](hey-subprocessors/index.md), [Highrise](highrise-subprocessors/index.md), [Campfire](campfire-subprocessors/index.md), [Backpack](backpack-subprocessors/index.md). Having subprocessors means we are using technology to access your data. No Basecamp human looks at your data for these purposes unless an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases and when they happen, we look for root cause solutions as much as possible to avoid them from reoccurring. We also use some other processors for other business functions, which you can view: [Company processors](company-processors/index.md).
+**To provide products or services you've requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use in each product: [Reacher](reacher-subprocessors/index.md). Having subprocessors means we are using technology to access your data. No Basecamp human looks at your data for these purposes unless an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases and when they happen, we look for root cause solutions as much as possible to avoid them from reoccurring. We also use some other processors for other business functions, which you can view: [Company processors](company-processors/index.md).
 
 **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your account to help you with a Support case, we will ask for your consent before proceeding.
 
@@ -71,11 +71,10 @@ Our default practice is to not access your information. The only times we’ll e
 
 **When required under applicable law.**
 
-PROXIMA B SASU is a US company and all data infrastructure are located in the US.
+PROXIMA B SASU is a FRANCE company and all data infrastructure are located in the FRANCE.
 
-- If US law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside the US approaches Basecamp with a request, our default stance is to refuse unless the US government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement. **_We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order._**
-- Similarly, if Basecamp receives a request to preserve data, we refuse unless compelled by either the US Federal Stored Communications Act, 18 U.S.C. Section 2703(f) or a properly served US subpoena for civil matters. In both of these situations, we have to comply. In these situations, we notify affected customers as soon as possible unless we are legally prohibited from doing so. We do not share preserved data unless absolutely required under the Stored Communications Act or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we destroy any preserved copies we made of customer data once the preservation period lapses.
-- If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly by following these instructions for [HEY](https://hey.com/faqs/#if-i-don-t-like-hey-can-i-export-my-email-and-contacts), [Basecamp 3](https://3.basecamp-help.com/article/150-export-your-basecamp-data), [Basecamp 2](https://2.basecamp-help.com/article/247-exporting-account-data), [Basecamp Classic](https://help.basecamp.com/basecamp/questions/164-can-we-export-our-basecamp-classic-data), [Highrise](https://help.highrisehq.com/imports-exports/), [Campfire](https://help.basecamp.com/campfire/questions/482-can-i-export-my-data-out-of-campfire), and [Backpack](https://help.37signals.com/backpack/questions/255-can-i-export-my-data-out-of-backpack).
+- If FRANCE law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside FRANCE approaches Basecamp with a request, our default stance is to refuse unless the FRANCE government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement. **_We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order._**
+- If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly by contacting amaury@reacher.email.
 - If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we only share the bare minimum needed such as billing addresses and tax exemption information.
 
 Finally, if PROXIMA B SASU is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
@@ -97,7 +96,7 @@ At Basecamp, we apply the same data rights to all customers, regardless of their
 
 Many of these rights can be exercised by signing in and directly updating your account information.
 
-If you have questions about exercising these rights or need assistance, please contact us at [privacy@basecamp.com](mailto:privacy@basecamp.com) or at PROXIMA B SASU, 2045 W Grand Ave Ste B, PMB 53289, Chicago, IL 60612 USA. For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
+If you have questions about exercising these rights or need assistance, please contact us at [amaury@reacher.email](mailto:amaury@reacher.email) or at PROXIMA B SASU, 15 Avenue Sainte Foy, 92200 Neuilly-sur-Seine, FRANCE. For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
 
 If you are in the EU, you can identify your specific authority to file a complaint or find out more about GDPR, at [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
@@ -139,14 +138,14 @@ Basecamp is subject to the investigatory and enforcement powers of the Federal T
 
 The Privacy Shield Frameworks uphold specific principles, many of which are already outlined in the section on Your Rights. For clarity, pursuant to the Privacy Shield Frameworks, the following principles apply to all EU, UK, and Swiss data that has been transferred into the United States:
 
-- Individuals have the right to access their personal data and to update, correct, and/or amend information that is incomplete. Individuals also have the right to request erasure of personal information that has been processed in violation of the principles. Individuals wishing to exercise these rights may do so by by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [privacy@basecamp.com](mailto:privacy@basecamp.com) or at PROXIMA B SASU, 2045 W Grand Ave Ste B, PMB 53289, Chicago, IL 60612 USA.
+- Individuals have the right to access their personal data and to update, correct, and/or amend information that is incomplete. Individuals also have the right to request erasure of personal information that has been processed in violation of the principles. Individuals wishing to exercise these rights may do so by by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [amaury@reacher.email](mailto:amaury@reacher.email) or at PROXIMA B SASU, 15 Avenue Sainte Foy, 92200 Neuilly-sur-Seine, FRANCE.
 - We remain liable for the onward transfer of personal data to third parties acting as our agents unless we can prove we were not a party to the events giving rise to the damages.
 - We do not sell personal data nor do we permit it to be used for reasons other than those for which it was originally provided. If this practice should change in the future, we will update this policy accordingly and provide individuals with opt-out or opt-in choice as appropriate.
 - We may be required to release personal data in response to lawful requests from public authorities including to meet national security and law enforcement requirements.
 
 ### We commit to resolving all complaints
 
-In compliance with the EU-US Privacy Shield Principles and the Swiss-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union, United Kingdom, or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Jeremy Daer at Basecamp at privacy@basecamp.com, or by mail at PROXIMA B SASU, 2045 W Grand Ave Ste B, PMB 53289, Chicago, IL 60612 USA.
+In compliance with the EU-US Privacy Shield Principles and the Swiss-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union, United Kingdom, or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Jeremy Daer at Basecamp at amaury@reacher.email, or by mail at PROXIMA B SASU, 15 Avenue Sainte Foy, 92200 Neuilly-sur-Seine, FRANCE.
 
 Basecamp (the company) has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and the Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/privacy-shield-complaints/](https://bbbprograms.org/privacy-shield-complaints/) for more information and to file a complaint. This service is provided at no cost to you. Please do not submit GDPR complaints to BBB EU Privacy Shield.
 
@@ -156,4 +155,4 @@ If your EU-US Privacy Shield complaint cannot be resolved through these describe
 
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://m.signalvnoise.com/).
 
-Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@basecamp.com](mailto:privacy@basecamp.com) and we’ll be happy to answer them!
+Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [amaury@reacher.email](mailto:amaury@reacher.email) and we’ll be happy to answer them!

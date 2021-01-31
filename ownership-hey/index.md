@@ -24,7 +24,7 @@ If the account is owned by a legal entity, we at Basecamp can reassign account m
 
 From there, we’ll ask for more verification of identity and relationship to the organization as well as ensure that there are no pending disputes of ownership. This process will likely take several days, as we need to make absolutely sure the request is legitimate.
 
-If we’re unable to verify the legitimacy of the request, or if it’s being disputed by the current Account Manager, we may require a properly served court order for Basecamp LLC to proceed.
+If we’re unable to verify the legitimacy of the request, or if it’s being disputed by the current Account Manager, we may require a properly served court order for PROXIMA B SASU to proceed.
 
 ## Still have a question?
 
