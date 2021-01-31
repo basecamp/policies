@@ -1,13 +1,13 @@
 ---
 title: Terms of Service
-description: All the terms that you agree to when you sign up for a Basecamp product.
+description: All the terms that you agree to when you sign up for a Reacher product.
 ---
 
 # Terms of Service
 
 _Last updated: January 31, 2021_
 
-From everyone at Basecamp, thank you for using our products! We build them to help you do your best work. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
+From everyone at Reacher, thank you for using our products! We build them to help you do your best work. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
 When we say “Company”, “we”, “our”, or “us” in this document, we are referring to PROXIMA B SASU.s
 
@@ -51,19 +51,18 @@ If you violate any of the terms, we may terminate your account. That's a broad s
 
 ## Uptime, Security, and Privacy
 
-1. Your use of the Services is at your sole risk. We provide these Services on an “as is” and “as available” basis. We do not offer service-level agreements for most of our Services — here’s [the one exception](https://basecamp.com/about/policies/sla) — but do take uptime of our applications seriously. Visit [https://www.basecampstatus.com/](https://www.basecampstatus.com/) to see the status of our Services.
+1. Your use of the Services is at your sole risk. We provide these Services on an “as is” and “as available” basis. We do not offer service-level agreements for most any of our Services but do take uptime of our applications seriously.
 2. We reserve the right to temporarily disable your account if your usage significantly exceeds the average usage of other customers of the Services. Of course, we'll reach out to the account owner before taking any action except in rare cases where the level of use may negatively impact the performance of the Service for other customers.
 3. We take many measures to protect and secure your data through backups, redundancies, and encryption. We enforce encryption for data transmission from the public Internet. There are some edge cases where we may send your data through our network unencrypted. Please refer to our [Security Overview](../security/index.md) for full details and our [Security Response page](../security/response/index.md) for how to report a security incident or threat.
-4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Basecamp may process your data as described in our [Privacy Policy](../privacy/index.md) and for no other purpose. We as humans can access your data for the following reasons:
+4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Reacher may process your data as described in our [Privacy Policy](../privacy/index.md) and for no other purpose. We as humans can access your data for the following reasons:
 
 - **To help you with support requests you make.** We'll ask for express consent before accessing your account.
 - **On the rare occasions when an error occurs that stops an automated process partway through.** We get automated alerts when such errors occur. When we can fix the issue and restart automated processing without looking at any personal data, we do. In rare cases, we have to look at a minimum amount of personal data to fix the issue. In these rare cases, we aim to fix the root cause as much as possible to avoid the errors from reoccurring.
-- **To safeguard Basecamp.** We'll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
-- **To the extent required by applicable law.** As a US company with all data infrastructure located in the US, we only preserve or share customer data if compelled by a US government authority with a legally binding order or proper request under the Stored Communications Act. If a non-US authority approaches Basecamp for assistance, our default stance is to refuse unless the order has been approved by the US government, which compels us to comply through procedures outlined in an established mutual legal assistance treaty or agreement mechanism. If Basecamp is audited by a tax authority, we only share the bare minimum billing information needed to complete the audit.
+- **To safeguard Reacher.** We'll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
+- **To the extent required by applicable law.** As a US company with all data infrastructure located in the US, we only preserve or share customer data if compelled by a US government authority with a legally binding order or proper request under the Stored Communications Act. If a non-US authority approaches Reacher for assistance, our default stance is to refuse unless the order has been approved by the US government, which compels us to comply through procedures outlined in an established mutual legal assistance treaty or agreement mechanism. If Reacher is audited by a tax authority, we only share the bare minimum billing information needed to complete the audit.
 
 5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all subprocessors who handle personal data for [Reacher](../privacy/reacher-subprocessors/index.md) and [Reacher Help Center](../privacy/reacher-help-center-subprocessors/index.md).
-6. Under the California Consumer Privacy Act (“CCPA”), Basecamp is a “service provider”, not a “business” or “third party”, with respect to your use of the Services. That means we process any data you share with us only for the purpose you signed up for and as described in these Terms of Service, [Privacy policy](../privacy/index.md), and [other policies](../index.md). We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements under the CCPA and not use Basecamp’s Services in a way that violates the regulations.
-7. These Service Terms incorporate the [Basecamp Data Processing Addendum (“DPA”)](../privacy/regulations/dpa/Basecamp_Data_Processing_Addendum_v202010.pdf), when the General Data Protection regulation (“GDPR”) applies to your use of Basecamp Services to process Customer Data as defined in the DPA. The DPA is effective as of October 5, 2020 and replaces and supersedes any previously agreed data processing addendum between you and PROXIMA B SASU relating to the GDPR. If you prefer to have an executed copy of the Data Processing Addendum, you may [sign a copy online](https://app.hellosign.com/s/c0908a3d). Regardless of whether you execute or not, we protect and secure your data to the high standards set out in the addendum.
+6. Under the California Consumer Privacy Act (“CCPA”), Reacher is a “service provider”, not a “business” or “third party”, with respect to your use of the Services. That means we process any data you share with us only for the purpose you signed up for and as described in these Terms of Service, [Privacy policy](../privacy/index.md), and [other policies](../index.md). We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements under the CCPA and not use Reacher’s Services in a way that violates the regulations.
 
 ## Copyright and Content Ownership
 
@@ -82,13 +81,13 @@ We also test all of our features extensively before shipping them. As with any s
 
 ## Services Adaptations and API Terms
 
-We offer Application Program Interfaces ("API"s) for some of our Services (currently Basecamp, Highrise, Campfire, and Backpack). Any use of the API, including through a third-party product that accesses the Services, is bound by the terms of this agreement plus the following specific terms:
+We offer Application Program Interfaces ("API"s) for some of our Services (currently Reacher). Any use of the API, including through a third-party product that accesses the Services, is bound by the terms of this agreement plus the following specific terms:
 
 1. You expressly understand and agree that we are not liable for any damages or losses resulting from your use of the API or third-party products that access data via the API.
 2. Third parties may not access and employ the API if the functionality is part of an application that remotely records, monitors, or reports a Service user's activity _other than time tracking_, both inside and outside the applications. The Company, in its sole discretion, will determine if an integration service violates this bylaw. A third party that has built and deployed an integration for the purpose of remote user surveillance will be required to remove that integration.
 3. Abuse or excessively frequent requests to the Services via the API may result in the temporary or permanent suspension of your account's access to the API. The Company, in its sole discretion, will determine abuse or excessive usage of the API. If we need to suspend your account's access, we will attempt to warn the account owner first. If your API usage could or has caused downtime, we may cut off access without prior notice.
 
-Some third-party providers have created integrations between our Services and theirs. You can find some of those integrations for Basecamp at https://basecamp.com/extras and for Highrise at https://highrisehq.com/extras/. We are not liable or accountable for any of these third-party integrations.
+Some third-party providers have created integrations between our Services and theirs. We are not liable or accountable for any of these third-party integrations.
 
 ## Liability
 
@@ -96,6 +95,6 @@ We mention liability throughout these Terms but to put it all in one section:
 
 **_You expressly understand and agree that the Company shall not be liable, in law or in equity, to you or to any third party for any direct, indirect, incidental, lost profits, special, consequential, punitive or exemplary damages, including, but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if the Company has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the Services; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Services; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the service; (v) or any other matter relating to this Terms of Service or the Services, whether as a breach of contract, tort (including negligence whether active or passive), or any other theory of liability._**
 
-In other words: choosing to use our Services does mean you are making a bet on us. If the bet does not work out, that's on you, not us. We do our darnedest to be as safe a bet as possible through careful management of the business; investments in security, infrastructure, and talent; and in general [giving a damn](https://basecamp.com/about). If you choose to use our Services, thank you for betting on us.
+In other words: choosing to use our Services does mean you are making a bet on us. If the bet does not work out, that's on you, not us. We do our darnedest to be as safe a bet as possible through careful management of the business; investments in security, infrastructure, and talent; and in general giving a damn. If you choose to use our Services, thank you for betting on us.
 
 If you have a question about any of the Terms of Service, please [contact our Support team](mailto:amaury@reacher.email).
