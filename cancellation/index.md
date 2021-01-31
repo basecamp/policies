@@ -19,7 +19,7 @@ Account owners can follow these instructions to cancel in-app:
 * [Campfire](https://help.37signals.com/billing/questions/316-information-about-adjusting-your-plan-or-canceling-your-account#Campfire)
 * [37Suite](https://help.37signals.com/billing/questions/316-information-about-adjusting-your-plan-or-canceling-your-account#Suite)
 
-Our legal responsibility is to account owners, which means we cannot cancel an account at the request of anyone else. If for whatever reason you no longer know who the account owner is, [contact us]({{ site.email_support }}). We will gladly reach out to any current account owners at the email addresses we have on file.
+Our legal responsibility is to account owners, which means we cannot cancel an account at the request of anyone else. If for whatever reason you no longer know who the account owner is, [contact us](mailto:amaury@reacher.email). We will gladly reach out to any current account owners at the email addresses we have on file.
 
 ## What happens when you cancel?
 
@@ -27,7 +27,7 @@ You won’t be able to access your account once you cancel, so make sure you dow
 
 We’ll permanently delete your account data within 30 days from our servers and logs, and within 60 days from our backups. Retrieving data for a single account from a backup isn’t possible, so if you change your mind you’ll need to do it within the first 30 days. **Data can’t be recovered once it has been permanently deleted.**
 
-We won’t bill you again once you cancel. We don’t automatically prorate any unused time you may have left but if you haven’t used your account in months or just started a new billing cycle, [contact us]({{ site.email_support }}) for a [fair refund](../refund/index.md). We’ll treat you right.
+We won’t bill you again once you cancel. We don’t automatically prorate any unused time you may have left but if you haven’t used your account in months or just started a new billing cycle, [contact us](mailto:amaury@reacher.email) for a [fair refund](../refund/index.md). We’ll treat you right.
 
 ## Basecamp-initiated cancellations
 

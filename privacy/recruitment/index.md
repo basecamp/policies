@@ -39,6 +39,6 @@ Complete information about how Workable responsibly stores your data can be foun
 
 ## Changes & questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://m.signalvnoise.com/).
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since 2021 [on GitHub](https://github.com/reacherhq/policies/commits/master). Whenever we make a significant change to our policies, we will also announce them via email.
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [amaury@reacher.email](mailto:amaury@reacher.email).

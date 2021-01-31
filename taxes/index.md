@@ -81,7 +81,7 @@ If you need to change your billing information because you don’t actually resi
 * [Backpack](https://help.backpackit.com/backpack/questions/251-how-do-we-update-or-change-the-credit-card-you-re-billing)
 
 ## We’re here to help
-Please [contact our Support team]({{ site.email_support }}) if you have trouble or if:
+Please [contact our Support team](mailto:amaury@reacher.email) if you have trouble or if:
 
 * you believe you’re being charged in error.
 * your organization is tax exempt or has a VAT identification number. Alongside your tax exempt certification or VAT identification number, please include your account ID or domain when you email us. Your account information can typically be found in a URL when you are in the application:

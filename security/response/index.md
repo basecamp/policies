@@ -17,7 +17,7 @@ Keeping customer data safe and secure is a huge responsibility and a top priorit
 
 **For other urgent or sensitive reports**, please email our [Security team]({{ site.email_security }}). If you feel it necessary, use [our public key](../Basecamp-security.pub) to keep your message safe and please provide us with a secure way to respond. We’ll respond as soon as we can. Please follow up or [ping us on Twitter](https://twitter.com/basecamp) if you don’t hear back.
 
-**For requests that aren’t urgent or sensitive**: submit a [support request]({{ site.email_support }}).
+**For requests that aren’t urgent or sensitive**: submit a [support request](mailto:amaury@reacher.email).
 
 ## Tracking and disclosing security issues
 

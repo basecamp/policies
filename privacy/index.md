@@ -5,11 +5,11 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-_Last updated: January 31, 2020_
+_Last updated: January 31, 2021_
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
-This policy applies to all products built and maintained by PROXIMA B SASU including Reacher (all versions). For candidates applying to jobs at PROXIMA B SASU, please review our [Recruitment Privacy policy](recruitment/index.md).
+This policy applies to all products built and maintained by PROXIMA B SASU including Reacher (all versions) and Reacher Help Center. For candidates applying to jobs at PROXIMA B SASU, please review our [Recruitment Privacy policy](recruitment/index.md).
 
 ## What we collect and why
 
@@ -147,6 +147,6 @@ If your EU-US Privacy Shield complaint cannot be resolved through these describe
 
 ## Changes & questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since mid-2018 [on GitHub](https://github.com/reacherhq/policies/commits/master). Whenever we make a significant change to our policies, we will also announce them via email.
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since 2021 [on GitHub](https://github.com/reacherhq/policies/commits/master). Whenever we make a significant change to our policies, we will also announce them via email.
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [amaury@reacher.email](mailto:amaury@reacher.email) and we’ll be happy to answer them!

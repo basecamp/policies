@@ -10,4 +10,4 @@ We use third party subprocessors, such as cloud computing providers and customer
 The following is a list of personal data subprocessors we use. These subprocessors are all located in the United States:
 
 * [Vercel](https://vercel.com/legal/privacy-policy). Cloud services provider.
-* [Notion](https://www.notion.so/Privacy-Policy-20fed54c37524cf485d9958c43426a82). Knowledge base service.
+* [Notion](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac). Knowledge base service.
