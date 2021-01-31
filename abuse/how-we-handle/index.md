@@ -5,9 +5,9 @@ description: Guiding principles and process for investigating abuse reports
 
 # How we handle abusive usage
 
-*Last updated: January 19, 2021*
+_Last updated: January 19, 2021_
 
-We build our products* to give teams a better way to work. We are proud of that purpose and trust that our customers use our products for appropriate endeavors.
+We build our products\* to give teams a better way to work. We are proud of that purpose and trust that our customers use our products for appropriate endeavors.
 
 Sometimes, though, we discover potential abusive usage as detailed in our [Use Restrictions policy](../index.md). When that happens, we investigate using the following guiding principles and process.
 
@@ -73,4 +73,4 @@ If we terminate an account without notice, the decision is final.
 
 For other cases, we will consider good faith appeals sent to [appeals@basecamp.com](mailto:appeals@basecamp.com) by the account owner within 14 calendar days.
 
-**This process applies to any product created and owned by Basecamp, LLC. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List.*
+\*_This process applies to any product created and owned by PROXIMA B SASU. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List._
