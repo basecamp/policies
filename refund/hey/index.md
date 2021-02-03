@@ -16,13 +16,15 @@ Here are examples of refunds for HEY for You we’d grant:
 
 We’ll also consider giving credits for future cycles if something goes wrong on our side. For example, if we had extended downtime (multiple hours in a day, or multiple days in a month) or you emailed customer service and it took multiple days to get back to you, we’ll issue a partial credit to your account.
 
+If you cancel and request a refund within the first year, your @hey.com email address will be recycled after 90 days and made available to someone else.
+
 ## HEY for Work
 HEY for Work subscriptions are paid on a monthly basis for each user (manager, co-worker) within an account. But we know that change happens, folks join or move on, and sometimes cleaning up email addresses that may no longer be needed might accidentally slip through the cracks.
 
 Here are examples of refunds for HEY for Work we'd grant:
 
-- If you were just charged for the next of service but you meant to cancel, we're happy to refund that extra charge.
-- If you forgot to remove a co-worker from the account a couple months ago, we'll give you a full refund for a few back months. No problem.
+- If you were just charged for the next month of service but you meant to cancel, we're happy to refund that extra charge.
+- If you forgot to remove a user from the account a couple months ago, we'll give you a full refund for a few back months. The email address for a removed user can be re-used later in your account.
 - If you tried out HEY for Work for your organization for a couple months and you just weren't happy with it, you can have your money back.
 
 ## Get in touch
