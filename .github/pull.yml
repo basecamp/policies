@@ -1,0 +1,6 @@
+version: "1"
+rules:
+  - base: master
+    upstream: basecamp:master
+    mergeMethod: merge
+    
