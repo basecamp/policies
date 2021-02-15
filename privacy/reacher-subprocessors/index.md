@@ -15,3 +15,4 @@ The following is a list of personal data subprocessors we use. These subprocesso
 * [Netlify](https://www.netlify.com/gdpr-ccpa/). Cloud hosting provider.
 * [Sentry](https://blog.sentry.io/2018/03/14/gdpr-sentry-and-you). Error reporting software.
 * [SimpleAnalytics](https://simpleanalytics.com/privacy). Analytics services.
+* [Crisp Chat](https://crisp.chat/en/privacy/). Customer messaging platform.
