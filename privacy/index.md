@@ -65,7 +65,7 @@ We offer optional mobile apps for Basecamp and HEY. Our philosophy is to ask for
 
 * For our iOS apps, we'll ask for permission to use push notifications upon first sign-in.
 * Android apps do not require permission to send push notifications.
-* For our Basecamp 2 app on Android 5, we’ll ask for permission upon installation to read and write to your device files so that you can select attachments from your device to upload and download files from our apps to your device.
+* For our Basecamp 2 app on Android 5, the OS will prompt for permission upon installation to read and write to your device files so that you can select attachments from your device to upload and download files from our apps to your device.
 
 It’s impossible for our apps to try to use a sensitive OS feature without requesting access explicitly from you, so you’ll always know exactly when and what we’re requesting. You will never be required to grant any permission (although a given feature may not work or work well without it).
 
