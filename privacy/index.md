@@ -1,11 +1,11 @@
 ---
 title: Privacy policy
-description: The privacy of your data — and it is your data, not ours! — is a big deal to us. Here's the rundown of what we collect and why, when we access your information, and your rights.
+description: The privacy of your data — and it is your data, not ours! — is a big deal to us. Here’s the rundown of what we collect and why, when we access your information, and your rights.
 ---
 
 # Privacy policy
 
-*Last updated: December 9, 2020*
+*Last updated: March 4, 2021*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -58,6 +58,16 @@ We also store any information you volunteer like surveys. Sometimes when we do c
 We don’t collect any characteristics of protected classifications including age, race, gender, religion, sexual orientation, gender identity, gender expression, or physical and mental abilities or disabilities. You may provide these data voluntarily, such as if you include a pronoun preference in your email signature when writing into our Support team.
 
 We also do not collect any biometric data. You are given the option to add a picture to your user profile, which could be a real picture of you or a picture of something else that represents you best. We do not extract any information from profile pictures: they are for your use alone.
+
+### How we approach mobile app permissions
+
+We offer optional mobile apps for Basecamp and HEY. Our philosophy is to ask for the bare minimum of permissions from you to give you a great app experience with maximum privacy. By default, we have access to the network to ensure the app can connect to and communicate with the Internet. In most cases, we ask for permission just-in-time so that you can decide if you want to grant access to things like contacts, camera, and calendar. A few exceptions:
+
+* For our iOS apps, we'll ask for permission to use push notifications upon first sign-in.
+* Android apps do not require permission to send push notifications.
+* For our Basecamp 2 app on Android 5, we’ll ask for permission upon installation to read and write to your device files so that you can select attachments from your device to upload and download files from our apps to your device.
+
+It’s impossible for our apps to try to use a sensitive OS feature without requesting access explicitly from you, so you’ll always know exactly when and what we’re requesting. You will never be required to grant any permission (although a given feature may not work or work well without it).
 
 ## When we access or share your information
 
