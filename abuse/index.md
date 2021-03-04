@@ -5,14 +5,16 @@ description: It is not okay to use Basecamp products for these restricted purpos
 
 # Use Restrictions
 
-*Last updated: January 19, 2021*
+*Last updated: March 4, 2021*
 
-Hundreds of thousands of teams use Basecamp products*. We are proud to give them a better way to work. We also recognize that however good the maker’s intentions, technology can amplify the ability to cause great harm. That’s why we’ve established this policy. We feel an ethical obligation to counter such harm: both in terms of dealing with instances where Basecamp is used (and abused) to further such harm, and to state unequivocally that Basecamp is not a safe haven for people who wish to commit such harm. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, [we will take action](how-we-handle/index.md).
+Hundreds of thousands of teams use Basecamp products*. We are proud to give them a better way to work. We also recognize that however good the maker’s intentions, technology can amplify the ability to cause great harm. That’s why we’ve established this policy. We feel an ethical obligation to counter such harm: both in terms of dealing with instances where Basecamp is used (and abused) to further such harm, and to state unequivocally that the products we make at Basecamp are not safe havens for people who wish to commit such harm. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, [we will take action](how-we-handle/index.md).
 
 ## Restricted purposes
 
 * **Violence, or threats thereof**: If an activity qualifies as violent crime in the United States or where you live, you may not use Basecamp products to plan, perpetrate, or threaten that activity.
 * **Child exploitation, sexualization, or abuse**: We don’t tolerate any activities that create, disseminate, or otherwise cause child abuse. Keep away and stop. Just stop.
+* **Hate speech**: You cannot use our products to advocate for the extermination, domination, or oppression of people.
+* **Harassment**: Intimidating or targeting people or groups through repeated communication, including using racial slurs or dehumanizing language, is not welcome at Basecamp.
 * **Doxing**: If you are using Basecamp products to share other peoples’ private personal information for the purposes of harassment, we don’t want anything to do with you.
 * **Malware or spyware**: Code for good, not evil. If you are using our products to make or distribute anything that qualifies as malware or spyware — including remote user surveillance — begone.
 * **Phishing or otherwise attempting fraud**: It is not okay to lie about who you are or who you affiliate with to steal from, extort, or otherwise harm others.
