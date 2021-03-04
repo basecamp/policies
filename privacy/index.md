@@ -1,11 +1,11 @@
 ---
 title: Privacy policy
-description: The privacy of your data — and it is your data, not ours! — is a big deal to us. Here's the rundown of what we collect and why, when we access your information, and your rights.
+description: The privacy of your data — and it is your data, not ours! — is a big deal to us. Here’s the rundown of what we collect and why, when we access your information, and your rights.
 ---
 
 # Privacy policy
 
-*Last updated: December 9, 2020*
+*Last updated: March 4, 2021*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -21,7 +21,7 @@ When you sign up for a Basecamp product, we typically ask for identifying inform
 
 ### Billing information
 
-When you pay for a Basecamp product, we ask for your credit card and billing address. That’s so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn't ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number and as-of billing address, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States or VAT in the EU, to detect fraudulent credit card transactions, and to print on your invoices.
+When you pay for a Basecamp product, we ask for your credit card and billing address. That’s so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn’t ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number and as-of billing address, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States or VAT in the EU, to detect fraudulent credit card transactions, and to print on your invoices.
 
 ### Geolocation data
 
@@ -59,11 +59,21 @@ We don’t collect any characteristics of protected classifications including ag
 
 We also do not collect any biometric data. You are given the option to add a picture to your user profile, which could be a real picture of you or a picture of something else that represents you best. We do not extract any information from profile pictures: they are for your use alone.
 
+### How we approach mobile app permissions
+
+We offer optional mobile apps for Basecamp and HEY. Our philosophy is to ask for the bare minimum of permissions from you to give you a great app experience with maximum privacy. By default, we have access to the network to ensure the app can connect to and communicate with the Internet. In most cases, we ask for permission just-in-time so that you can decide if you want to grant access to things like contacts, camera, and calendar. A few exceptions:
+
+* For our iOS apps, we'll ask for permission to use push notifications upon first sign-in.
+* Android apps do not require permission to send push notifications.
+* For our Basecamp 2 app on Android 5, we’ll ask for permission upon installation to read and write to your device files so that you can select attachments from your device to upload and download files from our apps to your device.
+
+It’s impossible for our apps to try to use a sensitive OS feature without requesting access explicitly from you, so you’ll always know exactly when and what we’re requesting. You will never be required to grant any permission (although a given feature may not work or work well without it).
+
 ## When we access or share your information
 
 Our default practice is to not access your information. The only times we’ll ever access or share your info are:
 
-**To provide products or services you've requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use in each product: [Basecamp](basecamp-subprocessors/index.md), [HEY](hey-subprocessors/index.md), [Highrise](highrise-subprocessors/index.md), [Campfire](campfire-subprocessors/index.md), [Backpack](backpack-subprocessors/index.md). Having subprocessors means we are using technology to access your data. No Basecamp human looks at your data for these purposes unless an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases and when they happen, we look for root cause solutions as much as possible to avoid them from reoccurring. We also use some other processors for other business functions, which you can view: [Company processors](company-processors/index.md).
+**To provide products or services you’ve requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use in each product: [Basecamp](basecamp-subprocessors/index.md), [HEY](hey-subprocessors/index.md), [Highrise](highrise-subprocessors/index.md), [Campfire](campfire-subprocessors/index.md), [Backpack](backpack-subprocessors/index.md). Having subprocessors means we are using technology to access your data. No Basecamp human looks at your data for these purposes unless an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases and when they happen, we look for root cause solutions as much as possible to avoid them from reoccurring. We also use some other processors for other business functions, which you can view: [Company processors](company-processors/index.md).
 
 **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your account to help you with a Support case, we will ask for your consent before proceeding.
 
