@@ -45,7 +45,7 @@ We’ve been around the block and we’ve seen a lot of companies come and go. S
 
 ## Want to know more?
 
-[We've got three pages of additional details in our security overview](Basecamp Security Overview.pdf) for you. We take even further security steps with HEY. Go to [https://hey.com/security/](https://hey.com/security/) to learn more.
+[We've got three pages of additional details in our security overview](basecamp-security-overview.pdf) for you. We take even further security steps with HEY. Go to [https://hey.com/security/](https://hey.com/security/) to learn more.
 
 ## Have a concern? Need to report an incident?
 
