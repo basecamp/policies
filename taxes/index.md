@@ -21,6 +21,7 @@ We collect sales tax from [Basecamp](https://basecamp.com/), [Highrise](https://
 * District of Columbia
 * Hawaii
 * Iowa
+* Maryland
 * Massachusetts
 * New Mexico
 * Ohio
