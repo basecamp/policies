@@ -5,7 +5,7 @@ description: 'Read the service level agreement for Basecamp Big accounts.'
 
 [support]: https://basecamp.com/support
 [uptime]: https://basecamp.com/3/uptime
-[status]: https://status.basecamp.com
+[status]: https://basecamp.com/status
 
 # Basecamp Big SLA
 Thousands of companies rely on Basecamp. Just like you, Basecamp is our company's lifeline. It’s where we make decisions, share designs, debate ideas, broadcast companywide announcements, and keep up to date on what everyone's working on. That's why we guarantee 99.99% monthly uptime to teams on Basecamp Big.
