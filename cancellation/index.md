@@ -13,11 +13,11 @@ Account owners can follow these instructions to cancel in-app:
 * HEY: if you’ve paid for HEY, navigate to "Account & Billing" from the Me menu (top-right corner of the app) and select "Cancel your subscription". You can continue using your account until your paid period expires and your account is automatically canceled, or you can close it earlier after your subscription is stopped, from the "Account & Billing" section, selecting "Close your account now". If you haven’t paid for HEY, you can directly close your account from the "Account & Billing" section.
 * [Basecamp 3](https://3.basecamp-help.com/article/156-cancel-your-basecamp-account)
 * [Basecamp 2](https://2.basecamp-help.com/article/243-canceling-and-pausing#cancel): billing liaisons may also cancel Basecamp 2 accounts
-* [Basecamp Classic](https://help.37signals.com/billing/questions/316-information-about-adjusting-your-plan-or-canceling-your-account#Basecamp)
+* [Basecamp Classic](https://classic.basecamp-help.com/article/527-cancellation-refund)
 * [Highrise](https://support.highrise-help.com/article/297-upgrade-downgrade-or-cancel#cancel)
-* [Backpack](https://help.37signals.com/billing/questions/316-information-about-adjusting-your-plan-or-canceling-your-account#Backpack)
-* [Campfire](https://help.37signals.com/billing/questions/316-information-about-adjusting-your-plan-or-canceling-your-account#Campfire)
-* [37Suite](https://help.37signals.com/billing/questions/316-information-about-adjusting-your-plan-or-canceling-your-account#Suite)
+* [Backpack](https://support.backpack-help.com/article/280-how-do-i-cancel-my-account)
+* [Campfire](https://support.campfire-help.com/article/146-how-do-i-cancel-my-account)
+* [37Suite](https://suite.basecamp-help.com/article/656-breaking-or-canceling-the-suite)
 
 Our legal responsibility is to account owners, which means we cannot cancel an account at the request of anyone else. If for whatever reason you no longer know who the account owner is, [contact us]({{ site.email_support }}). We will gladly reach out to any current account owners at the email addresses we have on file.
 
