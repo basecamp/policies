@@ -27,7 +27,7 @@ When you pay for a Basecamp product, we ask for your credit card and billing add
 
 We log all access to all accounts by full IP address so that we can always verify no unauthorized access has happened. We keep this login data for as long as your product account is active.
 
-We also log full IP addresses used to sign up a product account. We keep this record forever because they are used to mitigate spammy signups.
+We also log full IP addresses used to sign up a product account. We keep this record forever for all our apps except for HEY, because they are used to mitigate spammy signups. For HEY, we keep the IP addresses used to sign up for a product account until the account is deleted from our servers. 
 
 Web analytics data — described further in the Website Interactions section — are also tied temporarily to IP addresses to assist with troubleshooting cases. We blind all web analytics data after 30 days.
 
