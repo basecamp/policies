@@ -5,7 +5,7 @@ description: Everything you need to know about canceling your Basecamp product a
 
 # Cancellation policy
 
-*Last updated: August 14, 2020*
+*Last updated: September 3, 2021*
 
 We want satisfied customers, not hostages. That’s why we make it easy for you to cancel your account directly in all of our apps — no phone calls required, no questions asked.
 
@@ -18,6 +18,8 @@ Account owners can follow these instructions to cancel in-app:
 * [Backpack](https://support.backpack-help.com/article/280-how-do-i-cancel-my-account)
 * [Campfire](https://support.campfire-help.com/article/146-how-do-i-cancel-my-account)
 * [37Suite](https://suite.basecamp-help.com/article/656-breaking-or-canceling-the-suite)
+* [Ta-da List](https://123.tadalist.com/help.html)
+* Writeboard: standalone writeboards can be deleted by clicking "Delete writeboard" below the document’s contents.
 
 Our legal responsibility is to account owners, which means we cannot cancel an account at the request of anyone else. If for whatever reason you no longer know who the account owner is, [contact us]({{ site.email_support }}). We will gladly reach out to any current account owners at the email addresses we have on file.
 
