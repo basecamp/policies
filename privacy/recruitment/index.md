@@ -27,7 +27,7 @@ We keep records in Basecamp for some applicants, only those who progress to late
 * Internal assessment notes about your application and interviews;
 * Reference contact information and notes on the results of reference checks.
 
-We store your data in Workable and in Basecamp until we successfully fill the open position. If we want to keep your information for longer than that — for instance, if we think we may want to contact you for a future open position — we'll request your explicit consent via email to continue to store your personal data with an updated time frame. You may ask us to access, correct, update, or delete your data at any time by emailing Andrea LaRowe, [andrea@basecamp.com](mailto:andrea@basecamp.com).
+For most candidates, we'll store your data in Workable and in Basecamp until we successfully fill the open position. We'll keep your personal data for _up to two years_ if you advance to a take-home exercise or interview stage of our hiring process. We do this to maintain a pool of recent, qualified applicants, should the position re-open or should we decide to hire for another similar role. You can ask us to access, correct, update, or delete your data at any time by emailing Andrea LaRowe, [andrea@basecamp.com](mailto:andrea@basecamp.com).
 
 If you submit an unsolicited job application through a channel other than Workable, you'll receive direction to re-submit your application through Workable. Any personal information you've included, like a resume, will be immediately deleted.
 
