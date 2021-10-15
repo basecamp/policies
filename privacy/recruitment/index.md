@@ -5,7 +5,7 @@ description: The rundown on what happens to your job application.
 
 # Recruitment Privacy policy
 
-*Last updated: August 6, 2020*
+*Last updated: October 15, 2021*
 
 ## What we collect, where we store it, and how long we keep it
 
