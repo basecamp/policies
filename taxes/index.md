@@ -80,6 +80,8 @@ If you need to change your billing information because you don’t actually resi
 * [Campfire](https://support.campfire-help.com/article/148-how-do-i-update-or-change-our-credit-card)
 * [Backpack](https://support.backpack-help.com/article/283-how-do-we-update-or-change-the-credit-card-you-re-billing)
 
+For [HEY](https://hey.com), Click your profile menu, select "Account Setup", then choose "Billing & Invoices".
+
 ## We’re here to help
 Please [contact our Support team]({{ site.email_support }}) if you have trouble or if:
 
