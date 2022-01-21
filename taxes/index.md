@@ -68,7 +68,24 @@ We collect VAT on any direct-to-consumer sales to EU-based customers. Most of ou
 * Slovakia
 * Slovenia
 * Spain
-* United Kingdom  
+* United Kingdom
+
+## Within Canada
+We collect GST/HST (and PST where applicable) on sales to Canadian customers based in:
+
+* Alberta
+* British Columbia (+ PST)
+* Manitoba
+* New Brunswick
+* Newfoundland and Labrador
+* Northwest Territories
+* Nova Scotia
+* Nunavut
+* Ontario
+* Prince Edward Island
+* Quebec
+* Saskatchewan
+* Yukon
 
 ## Updating your billing address
 If you need to change your billing information because you don’t actually reside in a taxable jurisdiction, you can easily handle that within your accounts. You may need to re-enter your credit card information as part of the billing address update. Follow these links to see how to your update your credit card in:
