@@ -70,7 +70,7 @@ We collect VAT on any direct-to-consumer sales to EU-based customers. Most of ou
 * Spain
 * United Kingdom
 
-## Within Canada
+### Within Canada
 We collect GST/HST (and PST where applicable) on sales to Canadian customers based in:
 
 * Alberta
