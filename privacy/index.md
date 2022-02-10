@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: September 28, 2021*
+*Last updated: February 10, 2022*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -33,9 +33,7 @@ Web analytics data — described further in the Website Interactions section —
 
 ### Website interactions
 
-When you browse our marketing pages or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information, along with the pages you are visiting, page load timing, and which website referred you for statistical purposes like conversion rates and to test new designs. We sometimes track specific link clicks to help inform some design decisions. These web analytics data are tied to your IP address and user account if applicable and you are signed into our Services. We blind all of these individual identifiers after 30 days.
-
-Historically — including within the last 12 months — we have used third-party web analytics software. We no longer do for our actively sold and developed products and their marketing sites (Basecamp and HEY). We are in the process of removing third party web analytics software from our other products and web properties.
+When you browse our marketing pages or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information, along with the pages you are visiting, page load timing, and which website referred you for statistical purposes like conversion rates and to test new designs. We sometimes track specific link clicks to help inform some design decisions. These web analytics data are tied to your IP address and user account if applicable and you are signed into our Services. We blind all of these individual identifiers after 30 days. Other web analytics we utilize are described further in the Cookies and Do Not Track section.
 
 ### Anti-bot assessments
 
@@ -43,7 +41,11 @@ We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services across our appl
 
 ### Cookies and Do Not Track
 
-We do use persistent first-party cookies to store certain preferences, make it easier for you to use our applications, and support some in-house analytics. A cookie is a piece of text stored by your browser to help it remember your login information, site preferences, and more. You can adjust cookie retention settings in your own browser. To learn more about cookies, including how to view which cookies have been set and how to manage and delete them, please visit: [www.allaboutcookies.org](https://www.allaboutcookies.org).
+We do use persistent first-party cookies to store certain preferences, make it easier for you to use our applications, and support some in-house analytics. 
+
+We partner with Google for some marketing activities. If you are coming to Basecamp from a Google ad, and are in the United States, Google will send a cookie to your browser to determine whether you visited Basecamp.com because of a particular advertisement you viewed. This enables us to evaluate the effectiveness of these ads.
+
+A cookie is a piece of text stored by your browser. It may help remember login information and site preferences. It might also collect information such as your browser type, operating system, web pages visited, duration of visit, content viewed, and other click-stream data. You can adjust cookie retention settings in your own browser. To learn more about cookies, including how to view which cookies have been set and how to manage and delete them, please visit: [www.allaboutcookies.org](https://www.allaboutcookies.org).
 
 At this time, our sites and applications do not respond to Do Not Track beacons sent by browser plugins.
 
