@@ -11,6 +11,7 @@ The following is a list of personal data subprocessors we use. These subprocesso
 
 * [Amazon Web Services](https://aws.amazon.com/compliance/gdpr-center/). Cloud services provider.
 * [Braintree](https://www.braintreepayments.com/legal/payment-services-agreement-us). Payment processing services.
+* [Datadog](https://www.datadoghq.com/legal/privacy/). Infrastructure and application monitoring.
 * [Google Cloud Platform](https://cloud.google.com/security/gdpr/resource-center/). Cloud services provider.
 * [hCaptcha](https://hcaptcha.com/privacy). Anti-bot and spam protection.
 * [Help Scout](https://www.helpscout.net/company/legal/gdpr/). Help desk software.
