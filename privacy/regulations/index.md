@@ -5,7 +5,7 @@ description: Privacy laws are in a lot of flux. Here’s info you should know.
 
 # Privacy Regulations Reference
 
-*Last updated: September 28, 2021*
+*Last updated: May 19, 2022*
 
 The data privacy regulatory landscape is undergoing a lot of change. You probably have heard about the EU General Data Protection Regulation (GDPR) that went into effect on May 25, 2018. There are also other regulations in effect or in the works around the world. We’ve written up this reference document to put helpful information regarding our products and privacy regulations in one place. Please also view our full [Privacy policy](../index.md).
 
