@@ -19,59 +19,51 @@ Our guiding principle is to collect only what we need. Here’s what that means 
 
 ### Identity & access
 
-When you sign up for a Basecamp product, we typically ask for identifying information such as your name, email address, and maybe a company name. That’s just so you can personalize your new account, and we can send you invoices, updates, or other essential information. We sometimes also give you the option to add a profile picture that displays in our products, but we do not normally look at or access that picture. We’ll never sell your personal info to third parties, and we won’t use your name or company in marketing statements without your permission either.
+When you sign up for a 37signals product, we ask for identifying information such as your name, email address, and maybe a company name. That’s so you can personalize your new account, and we can send you product updates and other essential information. We may also send you optional surveys from time to time to help us understand how you use our products and to make improvements. With your consent, we will send you our newsletter and other updates. We sometimes also give you the option to add a profile picture that displays in our products.
+
+We’ll never sell your personal information to third parties, and we won’t use your name or company in marketing statements without your permission either.
 
 ### Billing information
 
-When you pay for a Basecamp product, we ask for your credit card and billing address. That’s so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn’t ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number and as-of billing address, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States or VAT in the EU, to detect fraudulent credit card transactions, and to print on your invoices.
+If you sign up for a paid 37signals product, you will be asked to provide your payment information and billing address. Credit card information is submitted directly to our payment processor and doesn’t hit 37signals servers. We store a record of the payment transaction, including the last 4 digits of the credit card number, for purposes of account history, invoicing, and billing support. We store your billing address so we can charge you for service, calculate any sales tax due, send you invoices, and detect fraudulent credit card transactions. We occasionally use aggregate billing information to guide our marketing efforts.
+
+### Product interactions
+
+We store on our servers the content that you upload or receive or maintain in your 37signals product accounts. This is so you can use our products as intended, for example, to create projects in Basecamp or to receive email in HEY. We keep this content as long as your account is active. If you delete your account, we’ll delete the content within 60 days. 
 
 ### Geolocation data
 
-We log all access to all accounts by full IP address so that we can always verify no unauthorized access has happened. We keep this login data for as long as your product account is active.
-
-We also log full IP addresses used to sign up a product account. We keep this record forever for all our apps except for HEY, because they are used to mitigate spammy signups. For HEY, we keep the IP addresses used to sign up for a product account until the account is deleted from our servers. 
-
-Web analytics data — described further in the Website Interactions section — are also tied temporarily to IP addresses to assist with troubleshooting cases. We blind all web analytics data after 30 days.
+We log the full IP address used to sign up a product account and retain that for use in mitigating future spammy signups. We also log all account access by full IP address for security and fraud prevention purposes, and we keep this login data for as long as your product account is active.
 
 ### Website interactions
 
-When you browse our marketing pages or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information, along with the pages you are visiting, page load timing, and which website referred you for statistical purposes like conversion rates and to test new designs. We sometimes track specific link clicks to help inform some design decisions. These web analytics data are tied to your IP address and user account if applicable and you are signed into our Services. We blind all of these individual identifiers after 30 days. Other web analytics we utilize are described further in the Cookies and Do Not Track section.
+We collect information about your browsing activity for analytics and statistical purposes such as conversion rate testing and experimenting with new product designs. This includes, for example, your browser and operating system versions, your IP address, which web pages you visited and how long they took to load, and which website referred you to us. If you have an account and are signed in, these web analytics data are tied to your IP address and user account until your account is no longer active. The web analytics we use are described further in the Advertising and Cookies section.
 
 ### Anti-bot assessments
 
-We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services across our applications to mitigate brute force logins and in HEY as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your accounts and fill specific forms in HEY, the CAPTCHA service evaluates various information (e.g IP address, how long the visitor has been on the app, mouse movements) to check whether the data is possibly filled out by an automated program instead of a human. We retain these data via our subprocessor forever because they are used for anti-spam mitigation.
+We use third-party [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services across our applications to mitigate brute force logins and in HEY as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your 37signals accounts and when you fill in certain forms in HEY, the CAPTCHA service evaluates various information (e.g., IP address, how long the visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program instead of a human. We retain these data via our subprocessor indefinitely for use in spam mitigation.
 
-### Cookies and Do Not Track
+### Advertising and Cookies
 
-We do use persistent first-party cookies to store certain preferences, make it easier for you to use our applications, and support some in-house analytics. 
+37signals runs contextual ads on various third-party platforms such as Google, Reddit, and LinkedIn. Users who click on one of our ads will be sent to the Basecamp marketing site. Where permissible under law, we may load an ad-company script on their browsers that sets a third-party cookie and sends information to the ad network to enable evaluation of the effectiveness of our ads, e.g., which ad they clicked and which keyword triggered the ad, and whether they performed certain actions such as clicking a button or submitting a form.
 
-We partner with Google for some marketing activities. If you are coming to Basecamp from a Google ad, and are in the United States, Google will send a cookie to your browser to determine whether you visited Basecamp.com because of a particular advertisement you viewed. This enables us to evaluate the effectiveness of these ads.
+We also use persistent first-party cookies and some third-party cookies to store certain preferences, make it easier for you to use our applications, and perform A/B testing as well as support some analytics. 
 
-A cookie is a piece of text stored by your browser. It may help remember login information and site preferences. It might also collect information such as your browser type, operating system, web pages visited, duration of visit, content viewed, and other click-stream data. You can adjust cookie retention settings in your own browser. To learn more about cookies, including how to view which cookies have been set and how to manage and delete them, please visit: [www.allaboutcookies.org](https://www.allaboutcookies.org).
-
-At this time, our sites and applications do not respond to Do Not Track beacons sent by browser plugins.
+A cookie is a piece of text stored by your browser. It may help remember login information and site preferences. It might also collect information such as your browser type, operating system, web pages visited, duration of visit, content viewed, and other click-stream data. You can adjust cookie retention settings and accept or block individual cookies in your browser settings, although our apps won’t work and other aspects of our service may not function properly if you turn cookies off.
 
 ### Voluntary correspondence
 
-When you write Basecamp with a question or to ask for help, we keep that correspondence, including the email address, so that we have a history of past correspondences to reference if you reach out in the future.
+When you email 37signals with a question or to ask for help, we keep that correspondence, including your email address, so that we have a history of past correspondence to reference if you reach out in the future.
 
-We also store any information you volunteer like surveys. Sometimes when we do customer interviews, we may ask for your permission to record the conversation for future reference or use. We only do so if you give your express consent.
-
-### Information we do not collect
-
-We don’t collect any characteristics of protected classifications including age, race, gender, religion, sexual orientation, gender identity, gender expression, or physical and mental abilities or disabilities. You may provide these data voluntarily, such as if you include a pronoun preference in your email signature when writing into our Support team.
-
-We also do not collect any biometric data. You are given the option to add a picture to your user profile, which could be a real picture of you or a picture of something else that represents you best. We do not extract any information from profile pictures: they are for your use alone.
+We also store information you may volunteer, for example written responses to surveys. If you agree to a customer interview, we may ask for your permission to record the conversation for future reference or use. We will only do so with your express consent.
 
 ### How we approach mobile app permissions
 
-We offer optional mobile apps for Basecamp and HEY. Our philosophy is to ask for the bare minimum of permissions from you to give you a great app experience with maximum privacy. By default, we have access to the network to ensure the app can connect to and communicate with the Internet. In most cases, we ask for permission just-in-time so that you can decide if you want to grant access to things like contacts, camera, and calendar. A few exceptions:
+We offer optional desktop and mobile apps for some of our products. Because of how the platforms are designed, our apps typically must request your consent before accessing contacts, calendar, camera, and other privacy-sensitive features of your device. Consent is always optional and our apps will function without it, though some features may be unavailable. There are a few exceptions, for example:
 
-* For our iOS apps, we'll ask for permission to use push notifications upon first sign-in.
+* Our iOS apps will ask for permission to use push notifications upon first sign-in.
 * Android apps do not require permission to send push notifications.
-* For our Basecamp 2 app on Android 5, the OS will prompt for permission upon installation to read and write to your device files so that you can select attachments from your device to upload and download files from our apps to your device.
-
-It’s impossible for our apps to try to use a sensitive OS feature without requesting access explicitly from you, so you’ll always know exactly when and what we’re requesting. You will never be required to grant any permission (although a given feature may not work or work well without it).
+* For our Basecamp 2 app on Android 5, the OS will prompt for permission upon installation to read and write to your device files so that you can select attachments from your device to upload to the app, and can download files from the app to your device.
 
 ## When we access or share your information
 
