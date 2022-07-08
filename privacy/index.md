@@ -5,11 +5,13 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: May 19, 2022*
+We are updating our privacy policy. The new policy, effective [DATE], is set forth below. You can read a summary of the main changes here [link to David's u.b.c post). Please note: We have changed our corporate name from Basecamp, LLC to 37signals LLC.
 
-The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
+*Last updated: [DATE]*
 
-This policy applies to all products built and maintained by Basecamp LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard. For candidates applying to jobs at Basecamp LLC, please review our [Recruitment Privacy policy](recruitment/index.md).
+The privacy of your data—and it is your data, not ours!—is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data. We promise we never sell your data: never have, never will.
+
+This policy applies to all products built and maintained by 37signals LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard. If you are applying for a job at 37signals LLC, please review our [Recruitment Privacy policy](recruitment/index.md).
 
 ## What we collect and why
 
