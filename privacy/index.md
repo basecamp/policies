@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-We are updating our privacy policy. The new policy, effective [DATE], is set forth below. You can read a summary of the main changes here [link to David's u.b.c post). Please note: We have changed our corporate name from Basecamp, LLC to 37signals LLC.
+We are updating our privacy policy. The new policy, effective [DATE], is set forth below. You can find a summary of the main changes here [link to David's u.b.c post]. Please note, we have changed our corporate name from Basecamp, LLC to 37signals LLC.
 
 *Last updated: [DATE]*
 
@@ -33,7 +33,7 @@ We store on our servers the content that you upload or receive or maintain in yo
 
 ### Geolocation data
 
-We log the full IP address used to sign up a product account and retain that for use in mitigating future spammy signups. We also log all account access by full IP address for security and fraud prevention purposes, and we keep this login data for as long as your product account is active.
+For most of our products, we log the full IP address used to sign up a product account and retain that for use in mitigating future spammy signups. We also log all account access by full IP address for security and fraud prevention purposes, and we keep this login data for as long as your product account is active.
 
 ### Website interactions
 
@@ -55,7 +55,7 @@ A cookie is a piece of text stored by your browser. It may help remember login i
 
 When you email 37signals with a question or to ask for help, we keep that correspondence, including your email address, so that we have a history of past correspondence to reference if you reach out in the future.
 
-We also store information you may volunteer, for example written responses to surveys. If you agree to a customer interview, we may ask for your permission to record the conversation for future reference or use. We will only do so with your express consent.
+We also store information you may volunteer, for example, written responses to surveys. If you agree to a customer interview, we may ask for your permission to record the conversation for future reference or use. We will only do so with your express consent.
 
 ### How we approach mobile app permissions
 
@@ -67,7 +67,7 @@ We offer optional desktop and mobile apps for some of our products. Because of h
 
 ## When we access or share your information
 
-**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide Services to you. You can view the third-party subprocessors we use for each of our products: [Basecamp](basecamp-subprocessors/index.md), [HEY](hey-subprocessors/index.md), [Highrise](highrise-subprocessors/index.md), [Campfire](campfire-subprocessors/index.md), [Backpack](backpack-subprocessors/index.md). We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](company-processors/index.md).
+**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide the Services to you. You can view the third-party subprocessors we use for each of our products: [Basecamp](basecamp-subprocessors/index.md), [HEY](hey-subprocessors/index.md), [Highrise](highrise-subprocessors/index.md), [Campfire](campfire-subprocessors/index.md), [Backpack](backpack-subprocessors/index.md). We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](company-processors/index.md).
 
 We may share your information at your direction if you integrate a third-party service into your use of our products. For example, we may allow you, at your option, to connect your Gmail account to your HEY account so that you can use HEY to receive and respond to your Gmail email. Email that you receive and respond to through HEY from your Gmail address will be stored by both HEY and Google and will be available to you from your Gmail account as well as your HEY account. 
 
@@ -83,11 +83,11 @@ No 37signals human looks at your content except for limited purposes with your e
 
 37signals LLC is a U.S. company and all data infrastructure are located in the U.S.
 
-* Requests for user data. Our policy is to not respond to government requests for user data unless we are compelled by legal process or in limited circumstances in the event of an emergency request. However, if U.S. law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring us to share data, we must comply. Likewise, we will only respond to requests from government authorities out the U.S. if compelled by the U.S. government through procedures outlined in a mutual legal assistance treaty or agreement.
-* Preservation requests. Similarly, 37signals' policy is to comply with requests to preserve data only if compelled by the U.S. Federal Stored Communications Act, 18 U.S.C. Section 2703(f), or by a properly served U.S. subpoena for civil matters. We do not share preserved data unless required by law or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we will destroy any preserved copies of customer data at the end of the preservation period.
+* Requests for user data. Our policy is to not respond to government requests for user data unless we are compelled by legal process or in limited circumstances in the event of an emergency request. However, if U.S. law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring us to share data, we must comply. Likewise, we will only respond to requests from government authorities outside the U.S. if compelled by the U.S. government through procedures outlined in a mutual legal assistance treaty or agreement. It is 37signals’ policy to notify affected users before we share data unless we are legally prohibited from doing so, and except in some emergency cases. 
+* Preservation requests. Similarly, 37signals’ policy is to comply with requests to preserve data only if compelled by the U.S. Federal Stored Communications Act, 18 U.S.C. Section 2703(f), or by a properly served U.S. subpoena for civil matters. We do not share preserved data unless required by law or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we will destroy any preserved copies of customer data at the end of the preservation period.
 * If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we will share only the minimum needed, such as billing addresses and tax exemption information.
 
-Finally, if 37signals LLC is acquired by or merges with another company — we don’t plan on that, but if it happens — we’ll notify you well before any information about you is transferred or becomes subject to a different privacy policy.
+Finally, if 37signals LLC is acquired by or merges with another company — we don’t plan on that, but if it happens — we’ll notify you well before any of your personal information is transferred or becomes subject to a different privacy policy.
 
 ## Your rights with respect to your information
 
@@ -101,12 +101,12 @@ At 37signals, we strive to apply the same data rights to all customers, regardle
 * **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of personal information. (Again: we never have and never will sell your personal data.)
 * **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
 * **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party.  If you want to export data from your accounts, you can do so directly by following these instructions for [HEY](https://hey.com/faqs/#if-i-don-t-like-hey-can-i-export-my-email-and-contacts), [Basecamp 3](https://3.basecamp-help.com/article/150-export-your-basecamp-data), [Basecamp 2](https://2.basecamp-help.com/article/247-exporting-account-data), [Basecamp Classic](https://classic.basecamp-help.com/article/524-exports), [Highrise](https://support.highrise-help.com/category/314-imports-exports), [Campfire](https://support.campfire-help.com/article/146-how-do-i-export-cancel-my-account), and [Backpack](https://support.backpack-help.com/article/289-can-i-export-my-data-out-of-backpack).
-* **Right to not Be Subject to Automated Decision-Making.** You have the right to object to and prevent any decision that could have a legal, or similarly significant, effect on you from being made solely based on automated processes. This right is limited if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
+* **Right to not Be Subject to Automated Decision-Making.** You have the right to object to and prevent any decision that could have a legal or similarly significant effect on you from being made solely based on automated processes. This right is limited if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
 * **Right to Non-Discrimination.** We do not and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights may, by virtue of your exercising those rights, prevent you from using our Services.
 
-Many of these rights can be exercised by signing in and directly updating your account information.
+Many of these rights can be exercised by signing in and updating your account information.
 
-If you have questions about exercising these rights or need assistance, please contact us at [privacy@37signals.com](mailto:privacy@37signals.com) or at 37signals LLC, 2045 W Grand Ave Ste B, PMB 53289, Chicago, IL 60612 USA. For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
+If you have questions about exercising these rights or need assistance, please contact us at [privacy@37signals.com](mailto:privacy@37signals.com) or at 37signals LLC, 2045 W Grand Ave Ste B, PMB 53289, Chicago, IL 60612 USA. If an authorized agent is corresponding on your behalf, we will need written consent with a signature from the account holder before proceeding.
 
 If you are in the EU or UK, you can contact your data protection authority to file a complaint or learn more about local privacy laws.
 
@@ -114,11 +114,11 @@ If you are in the EU or UK, you can contact your data protection authority to fi
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. In addition, we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](../security/index.md).
 
-With regard to products other than HEY,most data are not encrypted while they live in our database (since they need to be ready to send to you when you need them). With HEY, we go further by encrypting the database at-work. Every field containing personal data is encrypted with its own key. The disks storing the data keys are encrypted as well. Our servers decrypt the data to send it to you when you need it. You can learn more about our approach to security for HEY at [https://hey.com/security/](https://hey.com/security/).
+With regard to products other than HEY, most data are not encrypted while they live in our database (since they need to be ready to send to you when you need them). With HEY, we go further by encrypting the database at-work. Every field containing personal data is encrypted with its own key. The disks storing the data keys are encrypted as well. Our servers decrypt the data to send it to you when you need it. You can learn more about our approach to security for HEY at [https://hey.com/security/](https://hey.com/security/).
 
 ## What happens when you delete content in your product accounts
 
-In many of our applications, we give you the option to trash content. Anything you trash in your product accounts while they are active will be kept in an accessible trash can for about 25 days (it varies a little by product). After that time, the trashed content cannot be accessed via the application and we are not able to retrieve it for you. The trashed content may remain on our active servers for another, and copies of the content may be held in backups of our application databases for up to another 30 days after that. Altogether, any content trashed in your product accounts should be purged from all of our systems and logs within 90 days.
+In many of our applications, we give you the option to trash content. Anything you trash in your product accounts while they are active will be kept in an accessible trash can for about 25 days (it varies a little by product). After that time, the trashed content cannot be accessed via the application and we are not able to retrieve it for you. The trashed content may remain on our active servers for another 30 days, and copies of the content may be held in backups of our application databases for up to another 30 days after that. Altogether, any content trashed in your product accounts should be purged from all of our systems and logs within 90 days.
 
 If you choose to cancel your account, your content will become immediately inaccessible and should be purged from our systems in full within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](../cancellation/index.md) for more details.
 
@@ -128,14 +128,14 @@ Our products and other web properties are operated in the United States. If you 
 
 ## When transferring personal data from the EU
 
-The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. Accordingly, 37signals has adopted a data processing agreement with Standard Contractual Clauses to help ensure this protection. 37signals’ DPA is available at [https://basecamp.com/about/policies/privacy/regulations/basecamp-gdpr-dpa.pdf](https://basecamp.com/about/policies/privacy/regulations/basecamp-gdpr-dpa.pdf).
+The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. Accordingly, 37signals has adopted a data processing addendum with Standard Contractual Clauses to help ensure this protection. 37signals’ DPA is available at [https://basecamp.com/about/policies/privacy/regulations/basecamp-gdpr-dpa.pdf](https://basecamp.com/about/policies/privacy/regulations/basecamp-gdpr-dpa.pdf).
 
-Customers who prefer to have an executed copy of our Data Processing Agreement may [sign a copy online](https://app.hellosign.com/s/c0908a3d). Regardless of whether it is executed, we protect and secure customer data to the standards set out in the addendum.
+Customers who prefer to have an executed copy of our Data Processing Addendum may [sign a copy online](https://app.hellosign.com/s/c0908a3d). Regardless of whether it is executed, we protect and secure customer data to the standards set out in the addendum.
 
-There are also a few ad-hoc cases where EU personal data may be transferred to the U.S. in connection with 37signals LLC operations, for instance, if an EU user signs up for our newsletter or participates in one of our surveys or buys swag from our company online store. Such transfers are only occasional and data is transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR.
+There are also a few ad hoc cases where EU personal data may be transferred to the U.S. in connection with 37signals LLC operations, for instance, if an EU user signs up for our newsletter or participates in one of our surveys or buys swag from our company online store. Such transfers are only occasional and data is transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR and the UK version of GDPR.
 
 ## Changes & questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://m.signalvnoise.com/).
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
 
-Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@basecamp.com](mailto:privacy@basecamp.com) and we’ll be happy to answer them!
+Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@b37signals.com](mailto:privacy@37signals.com) and we’ll be happy to try to answer them!
