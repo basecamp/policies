@@ -1,6 +1,6 @@
 ---
 title: Cancellation policy
-description: Everything you need to know about canceling your Basecamp product account.
+description: Everything you need to know about canceling your 37signals product accounts.
 ---
 
 # Cancellation policy
@@ -31,7 +31,7 @@ We’ll permanently delete the content in your account from our servers 30 days 
 
 We won’t bill you again once you cancel. We don’t automatically prorate any unused time you may have left but if you haven’t used your account in months or just started a new billing cycle, [contact us]({{ site.email_support }}) for a [fair refund](../refund/index.md). We’ll treat you right.
 
-## Basecamp-initiated cancellations
+## 37signals-initiated cancellations
 
 We may cancel accounts if they have been inactive for an extended period:
 * For trial accounts:
