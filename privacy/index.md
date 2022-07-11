@@ -5,9 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-We are updating our privacy policy. The new policy, effective [DATE], is set forth below. You can find a summary of the main changes here [link to David's u.b.c post]. Please note, we have changed our corporate name from Basecamp, LLC to 37signals LLC.
-
-*Last updated: [DATE]*
+*Last updated: [July 18, 2022](https://updates.basecamp.com/post/updates-to-our-privacy-policy-for-2022)*
 
 The privacy of your data—and it is your data, not ours!—is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data. We promise we never sell your data: never have, never will.
 
