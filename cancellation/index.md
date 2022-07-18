@@ -5,7 +5,7 @@ description: Everything you need to know about canceling your 37signals product 
 
 # Cancellation policy
 
-*Last updated: [DATE]*
+*Last updated: July 18, 2022*
 
 We want satisfied customers, not hostages. That’s why we make it easy for you to cancel your account directly in all of our apps — no phone calls required, no questions asked.
 
