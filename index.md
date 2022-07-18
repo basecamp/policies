@@ -1,9 +1,9 @@
 ---
-title: '37signals Policies and Terms of Service'
+title: 'Policies and Terms of Service'
 description: 'All the policies and legal stuff for 37signals customers. We try to make all our policies as clear, fair, and readable as possible.'
 ---
 
-# 37signals Policies, Terms, and Legal Stuff
+# Policies, Terms, and Legal Stuff
 
 The rough print and the fine print. We try to make all our policies as clear, fair, and readable as possible.
 
