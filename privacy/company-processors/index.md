@@ -1,13 +1,13 @@
 ---
 title: Company Processors
-description: Basecamp LLC uses some other third-party processors for company purposes outside of delivering our services.
+description: 37signals LLC uses some other third-party processors for company purposes outside of delivering our services.
 ---
 
 # Company processors
 
 We as a company use third-party software that may process your information under certain circumstances.
 
-For the following processors, we have established GDPR-compliant data processing agreements, extending [GDPR safeguards](../regulations/index.md) everywhere personal data is processed. These processors are all located in the United States:
+For the following processors, we have established GDPR-compliant data processing agreements, extending [GDPR safeguards](../index.md) everywhere personal data is processed. These processors are all located in the United States:
 
 * [HelloSign](https://www.hellosign.com/trust/compliance/gdpr). Electronic signature service.
 * [Mailchimp](https://mailchimp.com/gdpr/). Email newsletter service.
