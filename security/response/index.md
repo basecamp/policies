@@ -28,7 +28,7 @@ We work with security researchers to keep up with the state-of-the-art in web se
 * We’ll investigate the issue and determine how it impacts our products. We won’t disclose issues until they’ve been fully investigated and patched, but we’ll work with you to ensure we fully understand severity and impact.
 * Once the issue is resolved, we’ll post a security update along with thanks and credit for the discovery.
 
-Our products are built on the Ruby on Rails framework (which we created and maintain). The issue you reported might affect Rails, Ruby, or some other part of our technology stack. We ask for your patience while we also make sure other companies and their customers are protected. Either way, you’ll always have a Basecamp contact for your issue.
+Our products are built on the Ruby on Rails framework (which we created and maintain). The issue you reported might affect Rails, Ruby, or some other part of our technology stack. We ask for your patience while we also make sure other companies and their customers are protected. Either way, you’ll always have a 37signals contact for your issue.
 
 ## Thanks for working with us
 
