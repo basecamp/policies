@@ -15,6 +15,7 @@ For the following processors, we have established GDPR-compliant data processing
 * [Pressable](https://pressable.com/legal/). Wordpress blog hosting.
 * [Shopify](https://help.shopify.com/en/manual/your-account/privacy/GDPR). E-commerce platform.
 * [Wufoo](https://help.wufoo.com/articles/en_US/kb/wufoo-gdpr). Form/survey provider.
+* [FullStory](https://www.fullstory.com/resources/gdpr-and-fullstory/). Analytics platform.
 
 As a company, we also produce a podcast, host a blog, and run occasional events virtually. If you voluntarily engage with us through those media, your personal information may also be collected by the following processors, also all located in the US:
 
