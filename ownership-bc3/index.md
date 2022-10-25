@@ -18,7 +18,7 @@ Basecamp 3 accounts are owned by individuals, not by organizations. When you sig
 Account owners can:
 
 - **Access and export all data in an account**: account owners can add themselves to any Team or Project and view everything in the account trash ([how-to](https://3.basecamp-help.com/article/100-owner-actions)). As an account owner, you can also create an HTML export of your Basecamp account data at any time ([how-to](https://3.basecamp-help.com/article/150-export-your-basecamp-data)). These exports function include everything already accessible to you in your Basecamp account. The exports do not include website interaction logs for any account users and we do not provide such meta-data to account owners. For more details, please read our [Privacy policy](../privacy/index.md), which outlines what meta-data we collect and for what purposes.
-- **Manage all aspects of the account's subscription:** including updating billing information; adding more users and account administrators; and cancelling an account ([how-to](https://3.basecamp-help.com/category/94-account-billing)).
+- **Manage all aspects of the account's subscription:** including updating billing information; adding more users and account administrators; and canceling an account ([how-to](https://3.basecamp-help.com/category/94-account-billing)).
 - **Designate other account owners**: Basecamp 3 accounts can have [multiple owners][help-owners]. We recommend designating other owners you trust, so that updates can be made to the account when you're not available.
 
 ## Designating other people as owners
