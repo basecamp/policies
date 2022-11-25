@@ -11,7 +11,7 @@ We want satisfied customers, not hostages. That’s why we make it easy for you 
 
 Account owners can follow these instructions to cancel in-app:
 * HEY: if you’ve paid for HEY, navigate to "Account & Billing" from the Me menu (top-right corner of the app) and select "Cancel your subscription". You can continue using your account until your paid period expires and your account is automatically canceled, or you can close it earlier after your subscription is stopped, from the "Account & Billing" section, selecting "Close your account now". If you haven’t paid for HEY, you can directly close your account from the "Account & Billing" section.
-* [Basecamp 3](https://3.basecamp-help.com/article/156-cancel-your-basecamp-account)
+* [Basecamp 4](https://3.basecamp-help.com/article/156-cancel-your-basecamp-account)
 * [Basecamp 2](https://2.basecamp-help.com/article/243-canceling-and-pausing#cancel): billing liaisons may also cancel Basecamp 2 accounts
 * [Basecamp Classic](https://classic.basecamp-help.com/article/527-cancellation-refund)
 * [Highrise](https://support.highrise-help.com/article/297-upgrade-downgrade-or-cancel#cancel)
