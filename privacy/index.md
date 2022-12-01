@@ -39,7 +39,7 @@ We collect information about your browsing activity for analytics and statistica
 
 ### Anti-bot assessments
 
-We use third-party [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services across our applications to mitigate brute force logins and in HEY as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your 37signals accounts and when you fill in certain forms in HEY, the CAPTCHA service evaluates various information (e.g., IP address, how long the visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program instead of a human. We retain these data via our subprocessor indefinitely for use in spam mitigation.
+We use [hCaptcha](https://www.hcaptcha.com/) across our applications to mitigate brute force logins and as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your 37signals accounts and when you fill in certain forms in HEY, the CAPTCHA service evaluates various information (e.g., IP address, how long the visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program instead of a human. The CAPTCHA service then provides 37signals with the spam score results; we do not have access to the evaluated information.
 
 ### Advertising and Cookies
 
