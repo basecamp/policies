@@ -126,7 +126,7 @@ Our products and other web properties are operated in the United States. If you 
 
 ## When transferring personal data from the EU
 
-The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. Accordingly, 37signals has adopted a data processing addendum with Standard Contractual Clauses to help ensure this protection. 37signals’ DPA is available at [https://basecamp.com/about/policies/privacy/regulations/dpa/Data_Processing_Addendum_current](https://basecamp.com/about/policies/privacy/regulations/dpa/Data_Processing_Addendum_current).
+The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. Accordingly, 37signals has adopted a data processing addendum with Standard Contractual Clauses to help ensure this protection. 37signals’ DPA is available at [https://basecamp.com/about/policies/privacy/regulations/dpa/Data_Processing_Addendum_current.pdf](https://basecamp.com/about/policies/privacy/regulations/dpa/Data_Processing_Addendum_current.pdf).
 
 Customers who prefer to have an executed copy of our Data Processing Addendum may [sign a copy online](https://app.hellosign.com/s/c0908a3d). Regardless of whether it is executed, we protect and secure customer data to the standards set out in the addendum.
 
