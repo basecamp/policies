@@ -11,8 +11,11 @@ For the following processors, we have established GDPR-compliant data processing
 
 * [HelloSign](https://www.hellosign.com/trust/compliance/gdpr). Electronic signature service.
 * [Mailchimp](https://mailchimp.com/gdpr/). Email newsletter service.
+* [Buttondown] (https://buttondown.email/legal/privacy). Email newsletter service.
 * [Paypal](https://www.paypal.com/us/webapps/mpp/gdpr-readiness-requirements). Payment transfer service.
 * [Pressable](https://pressable.com/legal/). Wordpress blog hosting.
+* [Cloudflare Pages](https://www.cloudflare.com/privacypolicy/). Blog hosting.
+* [Squarespace](https://www.squarespace.com/privacy). Blog hosting.
 * [Shopify](https://help.shopify.com/en/manual/your-account/privacy/GDPR). E-commerce platform.
 * [Typeform](https://www.typeform.com/help/a/what-is-gdpr-360029580771/). Form/survey provider.
 * [FullStory](https://www.fullstory.com/resources/gdpr-and-fullstory/). Analytics platform.
