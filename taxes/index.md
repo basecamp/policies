@@ -90,7 +90,7 @@ We collect GST/HST (and PST where applicable) on sales to Canadian customers bas
 ## Updating your billing address
 If you need to change your billing information because you don’t actually reside in a taxable jurisdiction, you can easily handle that within your accounts. You may need to re-enter your credit card information as part of the billing address update. Follow these links to see how to your update your credit card in:
 
-* [Basecamp 3](https://3.basecamp-help.com/article/101-handling-billing-and-invoices#update)
+* [Basecamp 4](https://3.basecamp-help.com/article/101-handling-billing-and-invoices#update)
 * [Basecamp 2](https://2.basecamp-help.com/article/241-billing-info-and-plan-upgrades#credit-card)
 * [Basecamp Classic](https://classic.basecamp-help.com/article/593-payment-invoices#update-card)
 * [Highrise](https://support.highrise-help.com/article/298-change-credit-card)
