@@ -1,6 +1,6 @@
 ---
 title: Company Processors
-description: 37signals LLC uses some other third-party processors for company purposes outside of delivering our services.
+description: 37signals LLC uses some third-party processors for company purposes outside of our products.
 ---
 
 # Company processors
@@ -9,16 +9,16 @@ We as a company use third-party software that may process your information under
 
 For the following processors, we have established GDPR-compliant data processing agreements, extending [GDPR safeguards](../index.md) everywhere personal data is processed. These processors are all located in the United States:
 
+* [Buttondown](https://buttondown.email/legal/privacy). Email newsletter service.
+* [Cloudflare Pages](https://www.cloudflare.com/privacypolicy/). Blog hosting.
+* [FullStory](https://www.fullstory.com/resources/gdpr-and-fullstory/). Analytics platform.
 * [HelloSign](https://www.hellosign.com/trust/compliance/gdpr). Electronic signature service.
 * [Mailchimp](https://mailchimp.com/gdpr/). Email newsletter service.
-* [Buttondown](https://buttondown.email/legal/privacy). Email newsletter service.
 * [Paypal](https://www.paypal.com/us/webapps/mpp/gdpr-readiness-requirements). Payment transfer service.
 * [Pressable](https://pressable.com/legal/). Wordpress blog hosting.
-* [Cloudflare Pages](https://www.cloudflare.com/privacypolicy/). Blog hosting.
-* [Squarespace](https://www.squarespace.com/privacy). Blog hosting.
 * [Shopify](https://help.shopify.com/en/manual/your-account/privacy/GDPR). E-commerce platform.
+* [Squarespace](https://www.squarespace.com/privacy). Blog hosting.
 * [Typeform](https://www.typeform.com/help/a/what-is-gdpr-360029580771/). Form/survey provider.
-* [FullStory](https://www.fullstory.com/resources/gdpr-and-fullstory/). Analytics platform.
 
 As a company, we also produce a podcast, host a blog, and run occasional events virtually. If you voluntarily engage with us through those media, your personal information may also be collected by the following processors, also all located in the US:
 
