@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: [July 18, 2022](https://updates.basecamp.com/post/updates-to-our-privacy-policy-for-2022)*
+*Last updated: December 23, 2022*
 
 The privacy of your data—and it is your data, not ours!—is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data. We promise we never sell your data: never have, never will.
 
