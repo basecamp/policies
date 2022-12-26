@@ -5,6 +5,8 @@ description: 37signals LLC uses some third-party processors for company purposes
 
 # Company processors
 
+*Last updated: December 23, 2022*
+
 We as a company use third-party software that may process your information under certain circumstances.
 
 For the following processors, we have established GDPR-compliant data processing agreements, extending [GDPR safeguards](../index.md) everywhere personal data is processed. These processors are all located in the United States:
