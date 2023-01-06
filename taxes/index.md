@@ -1,5 +1,5 @@
 ---
-title: Basecamp and Taxes
+title: 37signals and Taxes
 description: We are required to collect and remit sales tax in a number of jurisdictions.
 ---
 
@@ -21,6 +21,7 @@ We collect sales tax from [Basecamp](https://basecamp.com/), [Highrise](https://
 * District of Columbia
 * Hawaii
 * Iowa
+* Kentucky
 * Massachusetts
 * New Mexico
 * Ohio
