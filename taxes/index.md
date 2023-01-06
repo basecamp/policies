@@ -1,5 +1,5 @@
 ---
-title: Basecamp and Taxes
+title: 37signals and Taxes
 description: We are required to collect and remit sales tax in a number of jurisdictions.
 ---
 
