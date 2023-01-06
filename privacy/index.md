@@ -128,8 +128,6 @@ Our products and other web properties are operated in the United States. If you 
 
 The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. Accordingly, 37signals has adopted a data processing addendum with Standard Contractual Clauses to help ensure this protection. 37signals’ DPA is available at [https://basecamp.com/about/policies/privacy/regulations/basecamp-gdpr-dpa.pdf](https://basecamp.com/about/policies/privacy/regulations/basecamp-gdpr-dpa.pdf).
 
-Customers who prefer to have an executed copy of our Data Processing Addendum may [sign a copy online](https://app.hellosign.com/s/c0908a3d). Regardless of whether it is executed, we protect and secure customer data to the standards set out in the addendum.
-
 There are also a few ad hoc cases where EU personal data may be transferred to the U.S. in connection with 37signals LLC operations, for instance, if an EU user signs up for our newsletter or participates in one of our surveys or buys swag from our company online store. Such transfers are only occasional and data is transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR and the UK version of GDPR.
 
 ## Changes & questions
