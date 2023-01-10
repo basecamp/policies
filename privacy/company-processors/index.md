@@ -13,7 +13,6 @@ For the following processors, we have established GDPR-compliant data processing
 
 * [Buttondown](https://buttondown.email/legal/privacy). Email newsletter service.
 * [Cloudflare Pages](https://www.cloudflare.com/privacypolicy/). Blog hosting.
-* [FullStory](https://www.fullstory.com/resources/gdpr-and-fullstory/). Analytics platform.
 * [HelloSign](https://www.hellosign.com/trust/compliance/gdpr). Electronic signature service.
 * [Mailchimp](https://mailchimp.com/gdpr/). Email newsletter service.
 * [Paypal](https://www.paypal.com/us/webapps/mpp/gdpr-readiness-requirements). Payment transfer service.
