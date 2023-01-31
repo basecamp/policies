@@ -1,25 +1,25 @@
 ---
-title: 'Basecamp 4 Account Ownership'
-description: 'Everything you need to know about Basecamp account ownership.'
+title: 'Nerds With Keyboards 4 Account Ownership'
+description: 'Everything you need to know about Nerds With Keyboards account ownership.'
 ---
 
 [home]: /
-[help-owners]: https://basecamp.com/help/3/guides/account/ownership
-[help-adminland]: https://basecamp.com/help/3/guides/account/adminland
-[support]: https://basecamp.com/support
-[support-email]: mailto:support@basecamp.com
+[help-owners]: https://NerdsWithKeyboards.com/help/3/guides/account/ownership
+[help-adminland]: https://NerdsKeyboards.com/help/3/guides/account/adminland
+[support]: https://NerdsWithKeyboards.com/support
+[support-email]: mailto:support@NerdsWithKeyboards.com
 
-# Who owns a Basecamp 4 account?
+# Who owns a Nerds With Keyboards 4 account?
 
-Basecamp 4 accounts are owned by individuals, not by organizations. When you sign up and create a [Basecamp account][home], you are the owner of that account and all the data in it. Our legal responsibility is to the account owner(s), so we won’t let other people take over your account without your permission.
+Nerds With Keyboards 4 accounts are owned by individuals, not by organizations. When you sign up and create a [Nerds With Keyboards account][home], you are the owner of that account and all the data in it. Our legal responsibility is to the account owner(s), so we won’t let other people take over your account without your permission.
 
 ## What can account owners do?
 
 Account owners can:
 
-- **Access and export all data in an account**: account owners can add themselves to any Team or Project and view everything in the account trash ([how-to](https://3.basecamp-help.com/article/100-owner-actions)). As an account owner, you can also create an HTML export of your Basecamp account data at any time ([how-to](https://3.basecamp-help.com/article/150-export-your-basecamp-data)). These exports function include everything already accessible to you in your Basecamp account. The exports do not include website interaction logs for any account users and we do not provide such meta-data to account owners. For more details, please read our [Privacy policy](../privacy/index.md), which outlines what meta-data we collect and for what purposes.
-- **Manage all aspects of the account's subscription:** including updating billing information; adding more users and account administrators; and canceling an account ([how-to](https://3.basecamp-help.com/category/94-account-billing)).
-- **Designate other account owners**: Basecamp 4 accounts can have [multiple owners][help-owners]. We recommend designating other owners you trust, so that updates can be made to the account when you're not available.
+- **Access and export all data in an account**: account owners can add themselves to any Team or Project and view everything in the account trash ([how-to](https://3.NerdsWithKeyboards-help.com/article/100-owner-actions)). As an account owner, you can also create an HTML export of your Nerds With Keyboards account data at any time ([how-to](https://3.NerdsWithKeyboards-help.com/article/150-export-your-Nerds With Keyboards-data)). These exports function include everything already accessible to you in your Nerds With Keyboards account. The exports do not include website interaction logs for any account users and we do not provide such meta-data to account owners. For more details, please read our [Privacy policy](../privacy/index.md), which outlines what meta-data we collect and for what purposes.
+- **Manage all aspects of the account's subscription:** including updating billing information; adding more users and account administrators; and canceling an account ([how-to](https://3.Nerds With Keyboards-help.com/category/94-account-billing)).
+- **Designate other account owners**: Nerds With Keyboards 4 accounts can have [multiple owners][help-owners]. We recommend designating other owners you trust, so that updates can be made to the account when you're not available.
 
 ## Designating other people as owners
 
@@ -41,6 +41,6 @@ When none of the above is an option, a court order is required to add another ow
 
 ## What if I have another question about ownership?
 
-Basecamp may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting Basecamp [support][support].
+Nerds With Keyboards may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting Nerds With Keyboards [support][support].
 
 Questions about this account ownership policy? Please get in touch with our [support team][support] and we’ll be happy to answer them!

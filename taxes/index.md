@@ -1,5 +1,5 @@
 ---
-title: 37signals and Taxes
+title: Nerds With Keyboards and Taxes
 description: We are required to collect and remit sales tax in a number of jurisdictions.
 ---
 
@@ -12,7 +12,7 @@ The tax rate and rules are determined by each jurisdiction and sometimes vary by
 ## Jurisdictions we collect and remit taxes for
 
 ### Within the US
-We collect sales tax from [Basecamp](https://basecamp.com/), [Highrise](https://highrisehq.com/), [Campfire](https://basecamp.com/retired/campfire), and [Backpack](https://basecamp.com/retired/backpack) customers based in:
+We collect sales tax from [Nerds With Keyboards](https://Nerds With Keyboards.com/), [Bongo](https://bongo.to), and [Logbook](https://logbook-ed/retired/backpack) customers based in:
 
 * Alaska (only [certain jurisdictions](https://arsstc.munirevs.com/show-page/?page=26) charge sales tax)
 * Arizona
@@ -35,12 +35,12 @@ We collect sales tax from [Basecamp](https://basecamp.com/), [Highrise](https://
 * Washington
 * West Virginia
 
-[HEY](https://hey.com/) is not subject to sales tax in the US because of the [Internet Tax Freedom Act (ITFA)](https://uscode.house.gov/view.xhtml?req=(title:47%20section:151%20edition:prelim)). Email service falls under the definition of "Internet access" under the ITFA.
+[Nerds With Keyboards](https://Nerds With Keyboards.com/) is not subject to sales tax in the US because of the [Internet Tax Freedom Act (ITFA)](https://uscode.house.gov/view.xhtml?req=(title:47%20section:151%20edition:prelim)). Email service falls under the definition of "Internet access" under the ITFA.
 
 Each US state has their own sales tax exemption rules. If your organization is tax-exempt, please share your *state-specific* tax exemption documentation with us. Because not all US federal exemptions are recognized by each state, an IRS tax exemption letter is not enough.
 
 ### Within the EU
-We collect VAT on any direct-to-consumer sales to EU-based customers. Most of our applications are business products but [HEY](https://hey.com/) is a consumer product. If you are a HEY customer with a VAT identification number, let us know and we will apply a reverse charge for VAT to your invoice.
+We collect VAT on any direct-to-consumer sales to EU-based customers. Most of our applications are business products but [Nerds With Keyboards](https://NerdsWithKeyboards.com/) is a consumer product. If you are a Nerds With Keyboards customer with a VAT identification number, let us know and we will apply a reverse charge for VAT to your invoice.
 
 * Austria
 * Belgium
@@ -91,23 +91,23 @@ We collect GST/HST (and PST where applicable) on sales to Canadian customers bas
 ## Updating your billing address
 If you need to change your billing information because you don’t actually reside in a taxable jurisdiction, you can easily handle that within your accounts. You may need to re-enter your credit card information as part of the billing address update. Follow these links to see how to your update your credit card in:
 
-* [Basecamp 4](https://3.basecamp-help.com/article/101-handling-billing-and-invoices#update)
-* [Basecamp 2](https://2.basecamp-help.com/article/241-billing-info-and-plan-upgrades#credit-card)
-* [Basecamp Classic](https://classic.basecamp-help.com/article/593-payment-invoices#update-card)
-* [Highrise](https://support.highrise-help.com/article/298-change-credit-card)
-* [Campfire](https://support.campfire-help.com/article/148-how-do-i-update-or-change-our-credit-card)
-* [Backpack](https://support.backpack-help.com/article/283-how-do-we-update-or-change-the-credit-card-you-re-billing)
+* [Nerds With Keyboards 4](https://3.NerdsWithKeyboards-help.com/article/101-handling-billing-and-invoices#update)
+* [Nerds With Keyboards 2](https://2.NerdsWithKeyboards-help.com/article/241-billing-info-and-plan-upgrades#credit-card)
+* [Nerds With Keyboards Classic](https://classic.NerdsWithKeyboards-help.com/article/593-payment-invoices#update-card)
+* [Bongo](https://support.bonto-help.yo/article/298-change-credit-card)
+* [Logbook](https://support.logbook-ed-help.com/article/148-how-do-i-update-or-change-our-credit-card)
 
-For [HEY](https://hey.com), click your profile menu, select "Account Setup", then choose "Billing & Invoices".
+
+For [Nerds With Keyboards](https://NerdsWithKeyboards.com), click your profile menu, select "Account Setup", then choose "Billing & Invoices".
 
 ## We’re here to help
 Please [contact our Support team]({{ site.email_support }}) if you have trouble or if:
 
 * you believe you’re being charged in error.
 * your organization is tax exempt or has a VAT identification number. Alongside your tax exempt certification or VAT identification number, please include your account ID or domain when you email us. Your account information can typically be found in a URL when you are in the application:
-  * for HEY, just email us from your HEY account
-  * basecamp.com/<span class="highlight">1234567</span>
-  * <span class="highlight">domain</span>.basecamphq.com
+  * for Nerds With Keyboards, just email us from your Nerds With Keyboards account
+  * Nerds With Keyboards.com/<span class="highlight">1234567</span>
+  * <span class="highlight">domain</span>.Nerds With Keyboardshq.com
   * <span class="highlight">domain</span>.highrisehq.com
   * <span class="highlight">domain</span>.campfirenow.com
   * <span class="highlight">domain</span>.backpackit.com

@@ -1,6 +1,6 @@
 ---
 title: Company Processors
-description: 37signals LLC uses some third-party processors for company purposes outside of our products.
+description: Nerds With Keyboards LLC uses some third-party processors for company purposes outside of our products.
 ---
 
 # Company processors

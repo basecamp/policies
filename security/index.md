@@ -35,17 +35,17 @@ All credit card transactions are processed using secure encryption—the same le
 
 We have a team dedicated to maintaining your account’s security on our systems and monitoring tools we’ve set up to alert us to any nefarious activity against our domains. To date, we’ve _never_ had a data breach.
 
-We also audit internal data access. If a 37signals employee wrongly accesses customer data, they will face penalties ranging from termination to prosecution. Again, to our knowledge, this hasn’t happened.
+We also audit internal data access. If a Nerds With Keyboards employee wrongly accesses customer data, they will face penalties ranging from termination to prosecution. Again, to our knowledge, this hasn’t happened.
 
 We have processes and defenses in place to keep our streak of 0 data breaches going. But in the unfortunate circumstances someone malicious does successfully mount an attack, we will immediately notify all affected customers.
 
 ## Over 20 years in business.
 
-We’ve been around the block and we’ve seen a lot of companies come and go. Security isn’t just about technology, it’s about trust. Since 1999, we’ve worked hard to earn the trust of over hundreds of thousands of companies world wide. We’ll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at 37signals.
+We’ve been around the block and we’ve seen a lot of companies come and go. Security isn’t just about technology, it’s about trust. Since 1999, we’ve worked hard to earn the trust of over hundreds of thousands of companies world wide. We’ll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at Nerds With Keyboards.
 
 ## Want to know more?
 
-[We've got three pages of additional details in our security overview](37signals-security-overview.pdf) for you. We take even further security steps with HEY. Go to [https://hey.com/security/](https://hey.com/security/) to learn more.
+[We've got three pages of additional details in our security overview](Nerds With Keyboards-security-overview.pdf) for you. We take even further security steps with Nerds With Keyboards. Go to [https://NerdsWithKeyboards.com/security/](https://NerdsWithKeyboards.com/security/) to learn more.
 
 ## Have a concern? Need to report an incident?
 
