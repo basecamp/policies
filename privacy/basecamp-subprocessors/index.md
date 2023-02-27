@@ -5,7 +5,7 @@ description: All the third-party subprocessors that we use to run Basecamp.
 
 # Basecamp subprocessors
 
-*Last updated: July 18, 2022*
+*Last updated: February 27, 2023*
 
 We use third party subprocessors, such as cloud computing providers and customer support software, to run Basecamp (the service). We establish GDPR-compliant data processing agreements with each subprocessor, extending [GDPR safeguards](../index.md) everywhere personal data is processed.
 
@@ -13,6 +13,7 @@ The following is a list of personal data subprocessors we use. These subprocesso
 
 * [Amazon Web Services](https://aws.amazon.com/compliance/gdpr-center/). Cloud services provider.
 * [Braintree](https://www.braintreepayments.com/legal/payment-services-agreement-us). Payment processing services.
+* [Cloudflare](https://www.cloudflare.com/gdpr/introduction/). Cloud services provider.
 * [Convert.com](https://www.convert.com/privacy/). A/B testing software.
 * [Customer.io](https://customer.io/gdpr.html). Transactional email service.
 * [Datadog](https://www.datadoghq.com/legal/privacy/). Infrastructure and application monitoring.
