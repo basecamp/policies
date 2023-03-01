@@ -5,7 +5,7 @@ description: "Bad refund policies are infuriating. We never want our customers t
 
 # A fair refund policy.
 
-Bad refund policies are infuriating. You feel like the company is just trying to rip you off. We never want our customers to feel that way, so our refund policy is simple: If you’re ever unhappy with our products* for any reason, just contact [our support team]({{ site.email_support }}) and we'll take care of you.
+Bad refund policies are infuriating. You feel like the company is just trying to rip you off. We never want our customers to feel that way, so our refund policy is simple: If you’re ever unhappy with our products* for any reason, just contact [our support team](mail_to:support@ditto.events) and we'll take care of you.
 
 ## Examples of full refunds we’d grant.
 
@@ -21,6 +21,6 @@ Bad refund policies are infuriating. You feel like the company is just trying to
 
 ## Get in touch
 
-At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note]({{ site.email_support }}), tell us what's up, and we'll work with you to make sure you’re happy.
+At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note](mail_to:support@ditto.events), tell us what's up, and we'll work with you to make sure you’re happy.
 
-**This policy applies to any product created and owned by 37signals LLC. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List. There are [some nuances with HEY](hey/index.md) because its subscriptions are on an annual basis only.*
+**This policy applies to any product created and owned by Ditto Events.*
