@@ -15,7 +15,7 @@ Ditto teams are owned by individuals, not by organizations. When you sign up and
 Team administrators can:
 
 - **Access all data in a team**: Team admins can access and manage Team and Billing information, Events, Tasks, Event Templates, Task Sets, and all other data related to that team.
-- **Manage all aspects of the teams's subscription:** including updating billing information; adding more users and team administrators (if on a Team plan); and [canceling an account](mail_to:support@ditto.support). 
+- **Manage all aspects of the teams's subscription:** including updating billing information; adding more users and team administrators (if on a Team plan); and [canceling an account](mailto:support@ditto.support). 
 - **Designate other team admins**: Ditto teams that are subscribed to a Team plan can have multiple admins. We recommend designating other admins that you trust, so that updates can be made to the team when you're not available.
 
 ## Plans without multiple users
@@ -26,9 +26,9 @@ Teams that have a plan with only one user are treated the same way as multi-user
 
 A team admin can add or remove other admins from the Team Members section of Ditto. When you designate someone else as a team admin, they will have the same power to add and remove other admins (including you) at any time.
 
-Adding a new admin to the account (or being removed as an admin) does not remove the credit card from the team. [Please contact support](mail_to:support@ditto.events) if you’d like to remove the card from the team before you add a new admin with the intent of being removed as an admin yourself.
+Adding a new admin to the account (or being removed as an admin) does not remove the credit card from the team. [Please contact support](mailto:support@ditto.events) if you’d like to remove the card from the team before you add a new admin with the intent of being removed as an admin yourself.
 
-If you are not on a multi-user plan, and you want to transfer ownership of a team to another admin, reach out to [support](mail_to:support@ditto.events) and we'll help you sort it out.
+If you are not on a multi-user plan, and you want to transfer ownership of a team to another admin, reach out to [support](mailto:support@ditto.events) and we'll help you sort it out.
 
 ## What happens when none of the current team admins are available?
 
