@@ -24,7 +24,7 @@ On the flip-side, if you believe your material has been removed in error, you ca
 
 - A physical or electronic signature, or the signature of the person authorized to act on your behalf.
 - A description of the material that was removed.
-- A description of where the material appeared in Basecamp products prior to their removal.
+- A description of where the material appeared in Ditto products prior to their removal.
 - Your name and contact information so that we can get back to you. Email address is preferred but a telephone number or mailing address works too.
 - A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification.
 - A statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located, or if your address is outside of the United States, in the District of Colorado (where Ditto Events is located).
