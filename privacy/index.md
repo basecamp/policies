@@ -57,7 +57,7 @@ We also store information you may volunteer, for example, written responses to s
 
 ## When we access or share your information
 
-**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide the Services to you. You can view the third-party subprocessors we use for each of our products: [Basecamp](basecamp-subprocessors/index.md), [HEY](hey-subprocessors/index.md), [Highrise](highrise-subprocessors/index.md), [Campfire](campfire-subprocessors/index.md), [Backpack](backpack-subprocessors/index.md). We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](company-processors/index.md).
+**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide the Services to you. You can view the third-party subprocessors we use for each of our products: [Basecamp](basecamp-subprocessors), [HEY](hey-subprocessors), [Highrise](highrise-subprocessors), [Campfire](campfire-subprocessors), [Backpack](backpack-subprocessors). We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](company-processors).
 
 We may share your information at your direction if you integrate a third-party service into your use of our products. For example, we may allow you, at your option, to connect your Gmail account to your HEY account so that you can use HEY to receive and respond to your Gmail email. Email that you receive and respond to through HEY from your Gmail address will be stored by both HEY and Google and will be available to you from your Gmail account as well as your HEY account.
 
@@ -67,7 +67,7 @@ No 37signals human looks at your content except for limited purposes with your e
 
 **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your content to help you with a support case, we will ask for your consent before proceeding.
 
-**To investigate, prevent, or take action regarding [restricted uses](../abuse/index.md).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we discover you are using our products for a restricted purpose, we will take action as necessary, including notifying appropriate authorities where warranted.
+**To investigate, prevent, or take action regarding [restricted uses](../abuse).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we discover you are using our products for a restricted purpose, we will take action as necessary, including notifying appropriate authorities where warranted.
 
 **When required under applicable law.**
 
@@ -102,7 +102,7 @@ If you are in the EU or UK, you can contact your data protection authority to fi
 
 ## How we secure your data
 
-All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. In addition, we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](../security/index.md).
+All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. In addition, we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](../security).
 
 With regard to products other than HEY, most data are not encrypted while they live in our database (since they need to be ready to send to you when you need them). With HEY, we go further by encrypting the database at-work. Every field containing personal data is encrypted with its own key. The disks storing the data keys are encrypted as well. Our servers decrypt the data to send it to you when you need it. You can learn more about our approach to security for HEY at [https://hey.com/security/](https://hey.com/security/).
 
@@ -110,7 +110,7 @@ With regard to products other than HEY, most data are not encrypted while they l
 
 In many of our applications, we give you the option to trash content. Anything you trash in your product accounts while they are active will be kept in an accessible trash can for about 25 days (it varies a little by product). After that time, the trashed content cannot be accessed via the application and we are not able to retrieve it for you. The trashed content may remain on our active servers for another 30 days, and copies of the content may be held in backups of our application databases for up to another 30 days after that. Altogether, any content trashed in your product accounts should be purged from all of our systems and logs within 90 days.
 
-If you choose to cancel your account, your content will become immediately inaccessible and should be purged from our systems in full within 60 days. This applies both for cases when an account owner directly cancels and for auto-canceled accounts. Please refer to our [Cancellation policy](../cancellation/index.md) for more details.
+If you choose to cancel your account, your content will become immediately inaccessible and should be purged from our systems in full within 60 days. This applies both for cases when an account owner directly cancels and for auto-canceled accounts. Please refer to our [Cancellation policy](../cancellation) for more details.
 
 ## Location of site and data
 
