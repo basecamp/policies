@@ -9,7 +9,7 @@ description: How Basecamp handles copyright infringement claims.
 
 Making original work is hard! As described in our [Use Restrictions policy](../abuse/index.md), you can’t use Basecamp products* to make or disseminate work that uses the intellectual property of others beyond the bounds of [fair use](https://www.copyright.gov/fair-use/more-info.html).
 
-Are you a copyright owner? Under the Digital Millennium Copyright Act (17 U.S.C. § 512), you have the right to notify us (Basecamp, LLC) if you believe that an account user of any product we built and maintain has infringed on your work(s) as copyright owner. To be effective, the notification of claimed infringement must be written. Please include the following information:
+Are you a copyright owner? Under the Digital Millennium Copyright Act (17 U.S.C. § 512), you have the right to notify us (Sidenote, Lda.) if you believe that an account user of any product we built and maintain has infringed on your work(s) as copyright owner. To be effective, the notification of claimed infringement must be written. Please include the following information:
 
 - A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 - Identification of the copyrighted work(s) claimed to have been infringed. If there are multiple, please share a representative list of those works.
@@ -36,9 +36,11 @@ You can notify us of either copyright infringement claims or DCMA counter-notifi
 
 **By email**: [report@basecamp.com](mailto:report@basecamp.com)
 
-**By mail**: Basecamp, LLC
-2045 W Grand Ave Ste B, PMB 53289
-ATTN: David H. Hansson
-Chicago, IL 60612 USA
+**By mail**: Sidenote, Lda.
+Av. da República, 50, 2º piso
+1050-196 Lisboa, Portugal
+A/C: Daniel Zacarias
 
-**This policy and process applies to any product created and owned by Basecamp, LLC. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List.*
+**This policy and process applies to any product created and owned by Sidenote, Lda. That includes StandupBot and future products.*
+
+> Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

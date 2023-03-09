@@ -31,13 +31,15 @@ We’ll permanently delete the content in your account from our servers 30 days 
 
 We won’t bill you again once you cancel. We don’t automatically prorate any unused time you may have left but if you haven’t used your account in months or just started a new billing cycle, [contact us]({{ site.email_support }}) for a [fair refund](../refund/index.md). We’ll treat you right.
 
-## 37signals-initiated cancellations
+## Sidenote-initiated cancellations
 
 We may cancel accounts if they have been inactive for an extended period:
+
 * For trial accounts:
-    * For HEY: 60 days after a trial has expired without being upgraded
-    * For other services: 30 days after a trial has expired without being upgraded
+    * 60 days after a trial has expired without being upgraded
 * For frozen accounts: 180 days after being frozen due to billing failures
 * For free accounts: after 365 days of inactivity
 
 We also retain the right to suspend or terminate accounts for any reason at any time, as outlined in our [Terms of Service](../terms/index.md). In practice, this generally means we will cancel your account without notice if we have evidence that you are using our products to engage in [abusive behavior](../abuse/index.md).
+
+> Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

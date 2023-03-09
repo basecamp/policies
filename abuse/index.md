@@ -1,13 +1,13 @@
 ---
-title: Basecamp Restricted Use Policy
-description: It is not okay to use Basecamp products for these restricted purposes.
+title: Sidenote Restricted Use Policy
+description: It is not okay to use Sidenote products for these restricted purposes.
 ---
 
 # Use Restrictions
 
 *Last updated: March 4, 2021*
 
-Hundreds of thousands of teams use Basecamp products*. We are proud to give them a better way to work. We also recognize that however good the maker’s intentions, technology can amplify the ability to cause great harm. That’s why we’ve established this policy. We feel an ethical obligation to counter such harm: both in terms of dealing with instances where Basecamp is used (and abused) to further such harm, and to state unequivocally that the products we make at Basecamp are not safe havens for people who wish to commit such harm. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, [we will take action](how-we-handle/index.md).
+Hundreds of thousands of teams use Basecamp products*. We are proud to give them a better way to work. We also recognize that however good the maker’s intentions, technology can amplify the ability to cause great harm. That’s why we’ve established this policy. We feel an ethical obligation to counter such harm: both in terms of dealing with instances where Basecamp is used (and abused) to further such harm, and to state unequivocally that the products we make at Basecamp are not safe havens for people who wish to commit such harm. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, we will take action.
 
 ## Restricted purposes
 
@@ -32,6 +32,8 @@ For all other cases, please let us know by emailing [report@basecamp.com](mailto
 
 Please share as much as you are comfortable with about the account, the content or behavior you are reporting, and how you found it. Sending us a URL or screenshots is super helpful. If you need a secure file transfer, let us know and we will send you a link. We will not disclose your identity to anyone associated with the reported account. For copyright cases, we've outlined extra instructions on [how to notify us about infringement claims](../copyright/index.md).
 
-Someone on our team will respond within one business day to let you know we’ve begun investigating. We have published details on [how we investigate use restriction reports](how-we-handle/index.md). We will also let you know the outcome of our investigation (unless you ask us not to, or we are not allowed to under law).
+Someone on our team will respond within one business day to let you know we’ve begun investigating. We will also let you know the outcome of our investigation (unless you ask us not to, or we are not allowed to under law).
 
-**This policy and process applies to any product created and owned by Basecamp, LLC. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List.*
+**This policy and process applies to any product created and owned by Sidenote, Lda. That includes StandupBot and future products.*
+
+> Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

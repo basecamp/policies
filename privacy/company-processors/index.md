@@ -28,3 +28,5 @@ As a company, we also produce a podcast, host a blog, and run occasional events 
 * [Transistor](https://transistor.fm/privacy). Podcast publishing platform.
 * [Twitter](https://gdpr.twitter.com/). Social media platform.
 * [Zencastr](https://zencastr.com/privacy-policy). Podcast recording software.
+
+> Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

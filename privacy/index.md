@@ -9,7 +9,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 The privacy of your data—and it is your data, not ours!—is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data. We promise we never sell your data: never have, never will.
 
-This policy applies to all products built and maintained by 37signals LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard. If you are applying for a job at 37signals LLC, please review our [Recruitment Privacy policy](recruitment/index.md).
+This policy applies to all products built and maintained by Sidenote, Lda. including StandupBot and future products. 
 
 ## What we collect and why
 
@@ -55,14 +55,6 @@ When you email 37signals with a question or to ask for help, we keep that corres
 
 We also store information you may volunteer, for example, written responses to surveys. If you agree to a customer interview, we may ask for your permission to record the conversation for future reference or use. We will only do so with your express consent.
 
-### How we approach mobile app permissions
-
-We offer optional desktop and mobile apps for some of our products. Because of how the platforms are designed, our apps typically must request your consent before accessing contacts, calendar, camera, and other privacy-sensitive features of your device. Consent is always optional and our apps will function without it, though some features may be unavailable. There are a few exceptions, for example:
-
-* Our iOS apps will ask for permission to use push notifications upon first sign-in.
-* Android apps do not require permission to send push notifications.
-* For our Basecamp 2 app on Android 5, the OS will prompt for permission upon installation to read and write to your device files so that you can select attachments from your device to upload to the app, and can download files from the app to your device.
-
 ## When we access or share your information
 
 **To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide the Services to you. You can view the third-party subprocessors we use for each of our products: [Basecamp](basecamp-subprocessors/index.md), [HEY](hey-subprocessors/index.md), [Highrise](highrise-subprocessors/index.md), [Campfire](campfire-subprocessors/index.md), [Backpack](backpack-subprocessors/index.md). We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](company-processors/index.md).
@@ -79,13 +71,13 @@ No 37signals human looks at your content except for limited purposes with your e
 
 **When required under applicable law.**
 
-37signals LLC is a U.S. company and all data infrastructure are located in the U.S.
+Sidenote, Lda. is a Portuguese company and all data infrastructure are located in the European Union when it depends on us and our service providers allow it.
 
-* Requests for user data. Our policy is to not respond to government requests for user data unless we are compelled by legal process or in limited circumstances in the event of an emergency request. However, if U.S. law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring us to share data, we must comply. Likewise, we will only respond to requests from government authorities outside the U.S. if compelled by the U.S. government through procedures outlined in a mutual legal assistance treaty or agreement. It is 37signals’ policy to notify affected users before we share data unless we are legally prohibited from doing so, and except in some emergency cases.
-* Preservation requests. Similarly, 37signals’ policy is to comply with requests to preserve data only if compelled by the U.S. Federal Stored Communications Act, 18 U.S.C. Section 2703(f), or by a properly served U.S. subpoena for civil matters. We do not share preserved data unless required by law or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we will destroy any preserved copies of customer data at the end of the preservation period.
+* Requests for user data. Our policy is to not respond to government requests for user data unless we are compelled by legal process or in limited circumstances in the event of an emergency request. However, if Portuguese law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring us to share data, we must comply. Likewise, we will only respond to requests from government authorities outside Portugal if compelled by the Portuguese government through procedures outlined in a mutual legal assistance treaty or agreement. It is Sidenote’s policy to notify affected users before we share data unless we are legally prohibited from doing so, and except in some emergency cases.
+* Preservation requests. Similarly, Sidenote’s policy is to comply with requests to preserve data only if compelled by Portuguese law or by a properly served subpoena for civil matters. We do not share preserved data unless required by law or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we will destroy any preserved copies of customer data at the end of the preservation period.
 * If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we will share only the minimum needed, such as billing addresses and tax exemption information.
 
-Finally, if 37signals LLC is acquired by or merges with another company — we don’t plan on that, but if it happens — we’ll notify you well before any of your personal information is transferred or becomes subject to a different privacy policy.
+Finally, if Sidenote, Lda. is acquired by or merges with another company — we don’t plan on that, but if it happens — we’ll notify you well before any of your personal information is transferred or becomes subject to a different privacy policy.
 
 ## Your rights with respect to your information
 
@@ -132,6 +124,9 @@ There are also a few ad hoc cases where EU personal data may be transferred to t
 
 ## Changes & questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since early-2023 [on GitHub](https://github.com/sidenotehq/policies/commits/main). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@37signals.com](mailto:privacy@37signals.com) and we’ll be happy to try to answer them!
+
+
+> Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
