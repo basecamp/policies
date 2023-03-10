@@ -1,6 +1,6 @@
 ---
 title: Company Processors
-description: 37signals LLC uses some third-party processors for company purposes outside of our products.
+description: Sidenote, Lda. uses some third-party processors for company purposes outside of our products.
 ---
 
 # Company processors
@@ -9,7 +9,7 @@ description: 37signals LLC uses some third-party processors for company purposes
 
 We as a company use third-party software that may process your information under certain circumstances.
 
-For the following processors, we have established GDPR-compliant data processing agreements, extending [GDPR safeguards](..) everywhere personal data is processed. These processors are all located in the United States:
+For the following processors, we have established GDPR-compliant data processing agreements, extending [GDPR safeguards](/policies/privacy) everywhere personal data is processed. These processors are all located in the United States:
 
 * [Buttondown](https://buttondown.email/legal/privacy). Email newsletter service.
 * [Cloudflare Pages](https://www.cloudflare.com/privacypolicy/). Blog hosting.

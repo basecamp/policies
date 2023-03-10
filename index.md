@@ -1,6 +1,6 @@
 ---
 title: 'Policies and Terms of Service'
-description: 'All the policies and legal stuff for 37signals customers. We try to make all our policies as clear, fair, and readable as possible.'
+description: 'All the policies and legal stuff for Sidenote customers. We try to make all our policies as clear, fair, and readable as possible.'
 ---
 
 # Policies, Terms, and Legal Stuff
