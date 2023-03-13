@@ -9,7 +9,7 @@ description: All the terms that you agree to when you sign up for a Sidenote pro
 
 From everyone at Sidenote, thank you for using our products! We build them to help you do your best work. There are thousands of people using Sidenote products every day. Because we don’t know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to [Sidenote, Lda.](https://sidenotehq.com).
+When we say “Company”, “we”, “our”, or “us” in this document, we are referring to [Sidenote, Lda](https://sidenotehq.com).
 
 When we say “Services”, we mean our websites, including standupbot.com, foldingburritos.com, and sidenotehq.com, and any product created and maintained by Sidenote, Lda. That includes StandupBot, Folding Burritos, and future products, whether delivered within a web browser, desktop application, mobile application, or another format.
 
