@@ -5,7 +5,7 @@ description: Sidenote, Lda. uses some third-party processors for company purpose
 
 # Company processors
 
-*Last updated: March 10, 2023*
+*Last updated: March 13, 2023*
 
 We as a company use third-party software that may process your information under certain circumstances.
 

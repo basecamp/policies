@@ -5,7 +5,7 @@ description: We are required to collect and remit sales tax in a number of juris
 
 # Taxes!
 
-*Last updated: March 10, 2023*
+*Last updated: March 13, 2023*
 
 Taxes are an important part of functional society. Where our products are taxable, we collect and remit consumption tax to governments at the local, state, and/or federal levels. If your billing address is in one of the following jurisdictions, you’ll see an *additional* line item on your invoice for sales tax or VAT. The subscription prices on our product websites are all exclusive of sales tax and VAT.
 

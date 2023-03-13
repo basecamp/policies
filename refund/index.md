@@ -5,7 +5,7 @@ description: "Bad refund policies are infuriating. We never want our customers t
 
 # A fair refund policy.
 
-*Last updated: March 10, 2023*
+*Last updated: March 13, 2023*
 
 Bad refund policies are infuriating. You feel like the company is just trying to rip you off. We never want our customers to feel that way, so our refund policy is simple: If you’re ever unhappy with our products* for any reason, just contact [our support team]({email_support}) and we'll take care of you.
 

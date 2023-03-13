@@ -5,7 +5,7 @@ description: All the third-party subprocessors that we use to run Folding Burrit
 
 # Company processors
 
-*Last updated: March 10, 2023*
+*Last updated: March 13, 2023*
 
 We use third party subprocessors, such as cloud computing providers and email newsletter software, to run Folding Burritos. We establish GDPR-compliant data processing agreements with each subprocessor, extending [GDPR safeguards](/policies/privacy) everywhere personal data is processed.
 
