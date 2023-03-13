@@ -34,7 +34,7 @@ On the flip-side, if you believe your material has been removed in error, you ca
 
 You can notify us of either copyright infringement claims or DCMA counter-notifications through either of the following channels:
 
-**By email**: [report@sidenotehq.com](mailto:report@sidenotehq.com)
+**By email**: [{email_report}]({email_report})
 
 **By mail**: Sidenote, Lda.
 Av. da República, 50, 2º piso

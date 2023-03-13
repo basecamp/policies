@@ -10,7 +10,7 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 
 ## A Note About the Email Addresses
 
-If you try to click on any of the Support links in this repository, you'll get a 404 page. Don't despair! You can always reach us at support@sidenotehq.com.
+If you try to click on any of the Support links in this repository, you'll get a 404 page. Don't despair! You can always reach us at [hello@sidenotehq.com](mailto:hello@sidenotehq.com).
 
 So how come the links don't work in this repository? The short answer is: we made a technical tradeoff. The long answer is, we copy the policies in this repository to our product marketing sites. To make it easier to transfer, we pre-process links in the repo before publication.
 

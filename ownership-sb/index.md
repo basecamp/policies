@@ -19,7 +19,7 @@ Account owners can:
 
 An account owner can add or remove other owners from the admin section in the account. When you designate someone else as an account owner, they will have the same power to add and remove other owners (including you) at any time.
 
-Adding a new owner to the account (or being removed as an owner) does not remove the credit card from the account. [Please contact support](mailto:support@standupbot.com) if you’d like to remove the card from the account before you add a new owner with the intent of being removed as an owner yourself.
+Adding a new owner to the account (or being removed as an owner) does not remove the credit card from the account. [Please contact support]({email_support}) if you’d like to remove the card from the account before you add a new owner with the intent of being removed as an owner yourself.
 
 ## What happens when none of the current account owners are available?
 
@@ -35,6 +35,6 @@ When none of the above is an option, a court order is required to add another ow
 
 ## What if I have another question about ownership?
 
-StandupBot may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting StandupBot [support](mailto:support@standupbot.com).
+StandupBot may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting StandupBot [support]({email_support}).
 
-Questions about this account ownership policy? Please get in touch with our [support team](mailto:support@standupbot.com) and we’ll be happy to answer them!
+Questions about this account ownership policy? Please get in touch with our [support team]({email_support}) and we’ll be happy to answer them!

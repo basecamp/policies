@@ -94,7 +94,7 @@ At Sidenote, we strive to apply the same data rights to all customers, regardles
 
 Many of these rights can be exercised by signing in and updating your account information.
 
-If you have questions about exercising these rights or need assistance, please contact us at [privacy@sidenotehq.com](mailto:privacy@sidenotehq.com) or at Sidenote, Lda., Av. da República, 50, 2º, 1050-196 Lisboa, Portugal. If an authorized agent is corresponding on your behalf, we will need written consent with a signature from the account holder before proceeding.
+If you have questions about exercising these rights or need assistance, please contact us at [{email_privacy}]({email_privacy}) or at Sidenote, Lda., Av. da República, 50, 2º, 1050-196 Lisboa, Portugal. If an authorized agent is corresponding on your behalf, we will need written consent with a signature from the account holder before proceeding.
 
 If you are in the US or UK, you can contact your data protection authority to file a complaint or learn more about local privacy laws.
 
@@ -116,7 +116,7 @@ Our products and other web properties are operated in the European Union. If you
 
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since early-2023 [on GitHub](https://github.com/sidenotehq/policies/commits/main). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
 
-Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@sidenotehq.com](mailto:privacy@sidenotehq.com) and we’ll be happy to try to answer them!
+Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [{email_privacy}]({email_privacy}) and we’ll be happy to try to answer them!
 
 
 > Sidenote policies are [open source](https://github.com/sidenotehq/policies), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

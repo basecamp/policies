@@ -52,7 +52,7 @@ If you need to change your billing information because you don’t actually resi
 * [StandupBot](https://standupbot.com), click the "Billing" menu in the top navigation bar and then change your information in the Stripe-powered billing portal.
 
 ## We’re here to help
-Please [contact our Support team]({{ site.email_support }}) if you have trouble or if:
+Please [contact our Support team]({email_support}) if you have trouble or if:
 
 * you believe you’re being charged in error.
 * your organization is tax exempt or has a VAT identification number. Alongside your tax exempt certification or VAT identification number, please include your account ID or organization name when you email us.
