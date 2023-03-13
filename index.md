@@ -12,3 +12,5 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [Cancellation policy](/policies/cancellation)
 * [Refund policy](/policies/refund)
 * [Use Restrictions policy](/policies/abuse)
+* [Taxes](/policies/taxes)
+* Account ownership information for [StandupBot](/policies/ownership-sb)

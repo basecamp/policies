@@ -5,24 +5,21 @@ description: All the third-party subprocessors that we use to run StandupBot.
 
 # StandupBot subprocessors
 
-*Last updated: February 27, 2023*
+*Last updated: March 10, 2023*
 
-We use third party subprocessors, such as cloud computing providers and customer support software, to run Basecamp (the service). We establish GDPR-compliant data processing agreements with each subprocessor, extending [GDPR safeguards](/policies/privacy) everywhere personal data is processed.
+We use third party subprocessors, such as cloud computing providers and customer support software, to run StandupBot. We establish GDPR-compliant data processing agreements with each subprocessor, extending [GDPR safeguards](/policies/privacy) everywhere personal data is processed.
 
-The following is a list of personal data subprocessors we use. These subprocessors are all located in the United States:
+The following is a list of personal data subprocessors we use. 
 
-* [Amazon Web Services](https://aws.amazon.com/compliance/gdpr-center/). Cloud services provider.
-* [Braintree](https://www.braintreepayments.com/legal/payment-services-agreement-us). Payment processing services.
+* [Heroku](https://www.salesforce.com/company/privacy/). Cloud services provider.
+* [Stripe](https://stripe.com/privacy). Payment processing services.
 * [Cloudflare](https://www.cloudflare.com/gdpr/introduction/). Cloud services provider.
-* [Convert.com](https://www.convert.com/privacy/). A/B testing software.
-* [Customer.io](https://customer.io/gdpr.html). Transactional email service.
-* [Datadog](https://www.datadoghq.com/legal/privacy/). Infrastructure and application monitoring.
-* [Google Cloud Platform](https://cloud.google.com/security/gdpr/resource-center/). Cloud services provider.
-* [hCaptcha](https://hcaptcha.com/privacy). Anti-bot protection.
-* [Help Scout](https://www.helpscout.net/company/legal/gdpr/). Help desk software.
-* [Mailchimp](https://mailchimp.com/gdpr/). Transactional email service.
-* [Sentry](https://blog.sentry.io/2018/03/14/gdpr-sentry-and-you). Error reporting software.
-* [TaxJar](https://support.taxjar.com/article/526-taxjar-security-and-privacy-questions). Sales tax calculation.
+* [Mailgun](https://www.mailgun.com/gdpr/). Transactional email service.
+* [New Relic](https://newrelic.com/termsandconditions/privacy). Infrastructure and application monitoring.
+* [Papertrail](https://www.solarwinds.com/general-data-protection-regulation-cloud). Application log management.
+* [Intercom](https://www.intercom.com/legal/privacy). Customer support and communication software.
+* [Honeybadger](https://www.honeybadger.io/gdpr/). Error reporting software.
+* [Slack](https://slack.com/trust/privacy/privacy-policy). Core functionality and internal communications.
 
 
-> Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+> Sidenote policies are [open source](https://github.com/sidenotehq/policies), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
