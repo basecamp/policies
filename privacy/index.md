@@ -30,7 +30,7 @@ However, this policy does not cover information about a customer’s end users t
 
 If you are a customer’s end user and you have questions about how your information is collected and processed through the services, please contact the organization who has provided your information to us for more information.
 
-If you are a California resident, please click here to see our California Notice at Collection, which includes additional disclosures as required by California law.
+If you are a California resident, please [click here to see our California Notice at Collection](regulations/ccpa/index.md), which includes additional disclosures as required by California law.
 
 ## What we collect and why
 
