@@ -23,3 +23,5 @@ The following is a list of personal data subprocessors we use. These subprocesso
 * [Mailchimp](https://mailchimp.com/gdpr/). Transactional email service.
 * [Sentry](https://blog.sentry.io/2018/03/14/gdpr-sentry-and-you). Error reporting software.
 * [TaxJar](https://support.taxjar.com/article/526-taxjar-security-and-privacy-questions). Sales tax calculation.
+
+If you want to be notified every time we update this list, subscribe to our [Policies repository](https://github.com/basecamp/policies/tree/master/privacy) on GitHub. [Here's how](../../updates/index.md).
