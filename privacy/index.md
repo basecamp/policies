@@ -1,4 +1,4 @@
---- 
+---
 title: Privacy policy
 description: The privacy of your data — and it is your data, not ours! — is a big deal to us. Here’s the rundown of what we collect and why, when we access your information, and your rights.
 ---
@@ -96,7 +96,7 @@ No 37signals human looks at your content except for limited purposes with your e
 
 **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your content to help you with a support case, we will ask for your consent before proceeding.
 
-**To investigate, prevent, or take action regarding [restricted uses](/abuse/index.md).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we discover you are using our products for a restricted purpose, we will take action as necessary, including notifying appropriate authorities where warranted.
+**To investigate, prevent, or take action regarding [restricted uses](../abuse/index.md).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we discover you are using our products for a restricted purpose, we will take action as necessary, including notifying appropriate authorities where warranted.
 
 **Aggregated and de-identified data.** We may aggregate and/or de-identify information collected through the services. We may use de-identified or aggregated data for any purpose, including marketing or analytics.
 
