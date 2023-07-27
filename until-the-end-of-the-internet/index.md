@@ -21,7 +21,7 @@ Here’s what that means:
 - Your data is safe. Regardless of status, all of our products receive the same rigorous care when it comes to [security](../security/index.md) and [privacy](../privacy/index.md). While we may not add new features to legacy products we’ll continue to apply the latest security updates; maintain the infrastructure that keeps them safe, fast and secure; and continue to offer [customer support]({{ site.email_support }}).
 - This is our life’s work — we’re in this for the long haul. In the unforeseen and unanticipated event that the company or one of our products is acquired by another company or spun-off into a separate company, we’ll do everything in our power to make sure the product and this promise live on.
 
-## Changes & questions
+## Changes and questions
 
 Basecamp may update this policy once in a blue moon. You can see a history of the changes to our policies since mid-2018 [here](https://github.com/basecamp/policies/commits/master). We will notify customers about significant changes by emailing the account owner or by placing a prominent notice on our site.
 

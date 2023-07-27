@@ -3,7 +3,7 @@ title: 'HEY for Domains Account Ownership and Management'
 description: 'Who owns and manages HEY for Domains accounts.'
 ---
 
-# HEY for Domains Ownership & Management Policy
+# HEY for Domains Ownership and Management Policy
 
 HEY for Domains accounts are owned by the organization detailed during signup, if this is a legal entity. If the organization is unincorporated, the account is owned by the individual who signed up for the account.
 

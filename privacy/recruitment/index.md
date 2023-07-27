@@ -42,7 +42,7 @@ If you are in the EU, you can identify your specific authority to file a GDPR co
 
 Complete information about how Workable responsibly stores your data can be found in [their privacy policy](https://www.workable.com/privacy). Complete information about how we protect all data stored within Basecamp can be found in our [Privacy policy](../index.md) and [Security overview](../../index.md).
 
-## Changes & questions
+## Changes and questions
 
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://m.signalvnoise.com/).
 
