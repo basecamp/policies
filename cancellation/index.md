@@ -25,7 +25,7 @@ Our legal responsibility is to account owners, which means we cannot cancel an a
 
 ## What happens when you cancel an account?
 
-Except for paid HEY accounts, you won’t be able to access your account once you cancel, so make sure you download everything you want to keep beforehand. If you have a paid HEY account, you can cancel your subscription and keep using your account until your paid period expires. Then the account will be automatically canceled and will become inaccesible. You can also choose to cancel your account earlier.
+Except for paid HEY accounts, you won’t be able to access your account once you cancel, so make sure you download everything you want to keep beforehand. If you have a paid HEY account, you can cancel your subscription and keep using your account until your paid period expires. Then the account will be automatically canceled and will become inaccessible. You can also choose to cancel your account earlier.
 
 We’ll permanently delete the content in your account from our servers 30 days after cancellation, and from our backups within 60 days. Retrieving content for a single account from a backup isn’t possible, so if you change your mind you’ll need to do it within the first 30 days after cancellation. **Content can’t be recovered once it has been permanently deleted.**
 
