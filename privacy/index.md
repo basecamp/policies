@@ -20,7 +20,7 @@ This policy is split into sections. For your convenience, links to each of those
 * [Data retention](#data-retention)
 * [Location of site and data](#location-of-site-and-data)
 * [When transferring personal data from the EU](#when-transferring-personal-data-from-the-eu)
-* [Changes & questions](#changes--questions)
+* [Changes and questions](#changes-and-questions)
 
 This policy applies to all products built and maintained by 37signals LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard (together, "37signals"). If you are applying for a job at 37signals, please review our [Recruitment Privacy policy](recruitment/index.md).
 
@@ -36,7 +36,7 @@ If you are a California resident, please [click here to see our California Notic
 
 Our guiding principle is to collect only what we need. Here’s what that means in practice:
 
-### Identity & access
+### Identity and access
 
 When you sign up for a 37signals product, we ask for identifying information such as your name, email address, and maybe a company name. That’s so you can personalize your new account, and we can send you product updates and other essential information. We may also send you optional surveys from time to time to help us understand how you use our products and to make improvements. With your consent, we will send you our newsletter and other updates. We sometimes also give you the option to add a profile picture that displays in our products.
 
@@ -164,7 +164,7 @@ The European Data Protection Board (EDPB) has issued guidance that personal data
 
 There are also a few ad hoc cases where EU personal data may be transferred to the U.S. in connection with 37signals operations, for instance, if an EU user signs up for our newsletter or participates in one of our surveys or buys swag from our company online store. Such transfers are only occasional and data is transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR and the UK version of GDPR.
 
-## Changes & questions
+## Changes and questions
 
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
 
