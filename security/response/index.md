@@ -15,8 +15,6 @@ Keeping customer data safe and secure is a huge responsibility and a top priorit
 
 **Report security vulnerabilities** via [our bug bounty program on HackerOne](https://hackerone.com/basecamp). We’ll review your report and get back to you as soon as we can, usually within 72 hours. Please email our [Security team]({{ site.email_security }}) if you have questions about the bug bounty program or don’t hear back from us on HackerOne in a timely manner.
 
-**For other urgent or sensitive reports**, please email our [Security team]({{ site.email_security }}). If you feel it necessary, use [our public key](../37signals-security.pub) to keep your message safe and please provide us with a secure way to respond. We’ll respond as soon as we can. Please follow up or [ping us on Twitter](https://twitter.com/basecamp) if you don’t hear back.
-
 **For requests that aren’t urgent or sensitive**: submit a [support request]({{ site.email_support }}).
 
 ## Tracking and disclosing security issues
