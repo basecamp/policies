@@ -1,4 +1,4 @@
-This project is no longer maintained. All of our policies can be found at [37signals.com/policies](https://37signals.com/policies/) now. If you’d like to be notified when policy changes happen, please join the mailing list at [37signals.com/policies/updates](https://37signals.com/policies/updates/).
+This project is no longer maintained. All of our policies are at [37signals.com/policies](https://37signals.com/policies/). To get notice of policy and subprocessor changes, by email or feed, subscribe at [37signals.com/privacy-updates](https://37signals.com/privacy-updates).
 
 # 37signals Policies, Terms, and Legal Stuff
 
