@@ -5,6 +5,8 @@ description: All the third-party subprocessors that we use to run Backpack.
 
 # Backpack subprocessors
 
+**This copy is out of date and no longer maintained.** The current list is at [37signals.com/policies/privacy/backpack-subprocessors](https://37signals.com/policies/privacy/backpack-subprocessors). Subscribe to changes at [37signals.com/privacy-updates](https://37signals.com/privacy-updates).
+
 *Last updated: February 27, 2023*
 
 We use third party subprocessors, such as cloud computing providers and customer support software, to run Backpack. We establish GDPR-compliant data processing agreements with each subprocessor, extending [GDPR safeguards](../index.md) everywhere personal data is processed.
