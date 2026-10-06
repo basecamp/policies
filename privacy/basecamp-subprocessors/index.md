@@ -28,4 +28,4 @@ These subprocessors are located in the EU:
 
 * [AppSignal](https://docs.appsignal.com/appsignal/gdpr.html). Infrastructure and application monitoring.
 
-If you want to be notified every time we update this list, subscribe to our [Policies repository](https://github.com/basecamp/policies/tree/master/privacy) on GitHub. [Here's how](../../updates/index.md).
+To be notified when this list changes, subscribe at [37signals.com/privacy-updates](https://37signals.com/privacy-updates).
